@@ -1,0 +1,5 @@
+pyvenv/
+.localenv
+node_modules/
+.workdir/
+wwwdist/

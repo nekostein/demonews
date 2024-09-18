@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Demo News - List of latest demos on Steam store</title>
+    <style>
+        html, body {
+            font-family: 'SF Pro Text', 'TeX Gyre Heros', 'Helvetica Neue', 'Segoe UI', 'Inter', 'Arial', sans-serif;
+            font-size: 14px;
+            color: white;
+            background: black;
+        }
+        .grand-container {
+            padding: 20px;
+            max-width: 800px;
+            margin: 0 auto;
+        }
+        .item-large, .item-small {
+            margin: 0 0 1rem;
+        }
+        .item-large {
+            padding: 2rem 0rem;
+        }
+        .item-large img {
+            display: block;
+            width: 100%;
+        }
+        .item-large .item--title { font-size: 2.5rem; font-weight: 600; padding: 0.75em 0; margin: 0 0; }
+        .item-large .item--date { font-size: 1.5rem; font-weight: 600; padding: 0 0 0 2rem; display: flex; flex-flow: column; justify-content: center; }
+        .item-large .item--button { font-size: 1.75rem; }
+
+        .item-small {
+            display: flex;
+            padding: 1rem 0rem;
+        }
+        .item-small img {
+            display: flex;
+            display: block;
+            height: 8rem;
+            margin: 0 2rem 0 0;
+        }
+        .item-small .item--right {
+            display: flex;
+            flex-flow: column;
+            justify-content: space-between;
+        }
+        .item-small .item--title { font-size: 1.6rem; font-weight: 600; padding: 0; margin: 0 0;}
+        .item-small .item--date { font-size: 1.0rem; padding: 0; margin: 0 0; }
+        .item-small .item--button { font-size: 1.0rem; }
+
+        .item--button {
+            display: inline-block;
+            font-weight: 600;
+            color: black;
+            text-decoration: none;
+            background: white;
+            padding: 0.5em 0.8em;
+        }
+    </style>
+</head>
+
+
+<body>
+    <div class="grand-container">
+        <div class="header">
+            <div>
+                <h1>DEMO NEWS</h1>
+                <aside><p>List of latest demos on Steam store</p></aside>
+            </div>
+            <nav>
+                <div>
+                    <ul>
+                        <li><a href="">Request Being Featured</a></li>
+                    </ul>
+                </div>
+            </nav>
+        </div>
+        <div class="content">
+            <%- LISTCONTENT %>
+        </div>
+        <div class="footer">
+            <p>Copyright &copy; 2024 <a href="https://nekostein.com/">Nekostein</a>. All rights reserved.</p>
+            <p>This website is not affiliated with Valve.</p>
+            <p>Marketing images of the games belong to their respective owners.</p>
+        </div>
+    </div>
+
+    <script>
+        document.querySelectorAll('.item--date').forEach(node => node.innerHTML = (new Date(node.innerText * 1000).toISOString().slice(0,10)))
+    </script>
+</body>
+</html>
