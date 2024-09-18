@@ -6,7 +6,7 @@ https://demonews.nekostein.com/
 
 ## Request being featured
 
-
+See [this doc](https://github.com/nekostein/demonews/blob/master/doc/REQUEST_FEATURED.md).
 
 
 
