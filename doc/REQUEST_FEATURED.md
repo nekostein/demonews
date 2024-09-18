@@ -2,7 +2,7 @@
 
 If the AppID of your demo is listed in `featured-apps.txt`, a larger space will be displayed for your demo.
 
-Before releasing demo, create a pull request that appends your AppID into the `featured-apps.txt` file.
+Before releasing demo, create a pull request that appends your AppID into the [featured-apps.txt](https://github.com/nekostein/demonews/blob/master/featured-apps.txt) file.
 
 
 

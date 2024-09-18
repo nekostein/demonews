@@ -11,7 +11,7 @@ case $1 in
         bash sh/minilatest.sh
         bash sh/sitebuild.sh
         ;;
-    deploy )
-        wrangler 
+    cf | deploy )
+        wrangler pages deploy wwwdist --project-name="demonews" --commit-dirty=true --branch=master
         ;;
 esac
