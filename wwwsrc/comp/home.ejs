@@ -10,6 +10,9 @@
             font-size: 14px;
             color: white;
             /* background: black; */
+            background: none;
+        }
+        html {
             background: #111318;
         }
         .grand-container {
@@ -88,8 +91,23 @@
         </div>
     </div>
 
+    <div id="js-imgBackground" style="
+        position: fixed;
+        top: 0px;
+        left: 0px;
+        width: 100vw;
+        height: 100vh;
+        z-index: -100;
+        background-color: #111318;
+        background-size: cover;
+        background-position: center;
+        opacity: 0.03;
+    "></div>
     <script>
         document.querySelectorAll('.item--date').forEach(node => node.innerHTML = (new Date(node.innerText * 1000).toISOString().slice(0,10)))
+        document.querySelector('#js-imgBackground').style.backgroundImage = `url("${
+            document.querySelector('.item img').src
+        }")`;
     </script>
 </body>
 </html>
