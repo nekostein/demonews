@@ -1,60 +1,159 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Demo News - List of latest demos on Steam store</title>
     <style>
-        html, body {
+        html,
+        body {
             font-family: 'SF Pro Text', 'TeX Gyre Heros', 'Helvetica Neue', 'Segoe UI', 'Inter', 'Arial', sans-serif;
-            font-size: 14px;
+            font-size: 11px;
             color: white;
-            /* background: black; */
             background: none;
         }
+
+        @media screen and (min-width: 940px) {
+
+            html,
+            body {
+                font-size: 14px;
+            }
+
+            .limit-width {
+                padding-left: 130px;
+                padding-right: 130px;
+            }
+        }
+
         html {
             background: #111318;
         }
+
         .grand-container {
             padding: 20px;
-            max-width: 800px;
+            max-width: 940px;
             margin: 0 auto;
         }
+
         a {
             color: inherit;
         }
-        .item-large, .item-small {
-            margin: 0 0 1rem;
+
+        .header {
+            text-align: center;
+            margin: 0 0 30px;
         }
+
+        .header p,
+        .header a {
+            font-size: 1.5rem;
+        }
+
+
+        h1 {
+            font-size: 5rem;
+        }
+
         .item-large {
-            padding: 2rem 0rem;
+            border-radius: 0.7rem;
+            padding: 0 0;
+            margin: 4rem 0;
+            overflow: hidden;
         }
+
+        .item-large .item--large-subinfo {
+            background: rgba(0, 0, 0, 0.7);
+            padding: 0 2.5rem 2.5rem;
+        }
+
         .item-large img {
             display: block;
             width: 100%;
         }
-        .item-large .item--title { font-size: 2.5rem; font-weight: 600; padding: 0.75em 0; margin: 0 0; }
-        .item-large .item--date { font-size: 1.5rem; font-weight: 600; padding: 0 0 0 2rem; display: flex; flex-flow: column; justify-content: center; }
-        .item-large .item--button { font-size: 1.75rem; }
 
-        .item-small {
-            display: flex;
-            padding: 1rem 0rem;
+        .item-large .item--title {
+            font-size: 2.5rem;
+            font-weight: 600;
+            padding: 0.75em 0;
+            margin: 0 0;
         }
-        .item-small img {
-            display: flex;
-            display: block;
-            height: 8rem;
-            margin: 0 2rem 0 0;
-        }
-        .item-small .item--right {
+
+        .item-large .item--date {
+            font-size: 1.5rem;
+            font-weight: 600;
+            padding: 0 0 0 2rem;
             display: flex;
             flex-flow: column;
-            justify-content: space-between;
+            justify-content: center;
         }
-        .item-small .item--title { font-size: 1.6rem; font-weight: 600; padding: 0; margin: 0 0;}
-        .item-small .item--date { font-size: 1.0rem; padding: 0; margin: 0 0; }
-        .item-small .item--button { font-size: 1.0rem; }
+
+        .item-large .item--button {
+            font-size: 1.75rem;
+        }
+
+        .item-small {
+            padding: 0rem;
+            margin: 2rem 0;
+        }
+
+        .item-small img {
+            display: block;
+            width: 100%;
+            height: auto;
+            margin: 0 2rem 0 0;
+            border-radius: 0.7rem;
+            overflow: hidden;
+        }
+
+        .item-small .item--right {
+            display: none;
+        }
+
+        @media screen and (min-width: 940px) {
+            .item-small {
+                display: flex;
+                padding-left: 130px;
+                padding-right: 130px;
+            }
+
+            .item-small .img-anchor {
+                display: block;
+            }
+
+            .item-small img {
+                display: block;
+                width: auto;
+                height: 10.5rem;
+            }
+
+            .item-small .item--right {
+                display: flex;
+                height: auto;
+                padding: 0.5rem 0;
+                flex-flow: column;
+                justify-content: space-between;
+            }
+        }
+
+        .item-small .item--title {
+            font-size: 1.7rem;
+            font-weight: 600;
+            padding: 0;
+            margin: 0 0;
+            flex-grow: 1;
+        }
+
+        .item-small .item--date {
+            font-size: 1.0rem;
+            padding: 0 0 0.75rem;
+            margin: 0 0;
+        }
+
+        .item-small .item--button {
+            font-size: 1.0rem;
+        }
 
         .item--button {
             display: inline-block;
@@ -62,7 +161,31 @@
             color: black;
             text-decoration: none;
             background: white;
+            border-radius: 0.5rem;
             padding: 0.5em 0.8em;
+            transition: all 150ms ease;
+        }
+
+        .item--button:hover {
+            transform: scale(1.1);
+        }
+
+        .item img {
+            transition: all 150ms ease;
+        }
+
+        .item-large img:hover {
+            transform: scale(1.015);
+        }
+        .item-small img:hover {
+            transform: scale(1.03);
+        }
+        .item-small img:hover {
+            box-shadow: rgba(100, 130, 255, 0.2) 0 4px 32px 1px;
+        }
+
+        .footer {
+            margin: 10rem 0;
         }
     </style>
 </head>
@@ -73,7 +196,9 @@
         <div class="header">
             <div>
                 <h1>DEMO NEWS</h1>
-                <aside><p>List of latest demos on Steam store</p></aside>
+                <aside>
+                    <p>List of latest demos on Steam store</p>
+                </aside>
             </div>
             <nav>
                 <div>
@@ -84,7 +209,7 @@
         <div class="content">
             <%- LISTCONTENT %>
         </div>
-        <div class="footer">
+        <div class="footer limit-width">
             <p>Copyright &copy; 2024 <a href="https://nekostein.com/">Nekostein</a>. All rights reserved.</p>
             <p>This website is not affiliated with Valve.</p>
             <p>Marketing images of the games belong to their respective owners.</p>
@@ -104,10 +229,17 @@
         opacity: 0.03;
     "></div>
     <script>
-        document.querySelectorAll('.item--date').forEach(node => node.innerHTML = (new Date(node.innerText * 1000).toISOString().slice(0,10)))
-        document.querySelector('#js-imgBackground').style.backgroundImage = `url("${
-            document.querySelector('.item img').src
-        }")`;
+        document.querySelectorAll('.item--date').forEach(node => node.innerHTML = (new Date(node.innerText * 1000).toISOString().slice(0, 10)));
+        let itr = 0;
+        const rotate_bg = function () {
+            const nodes_arr = document.querySelectorAll('.item img');
+            const url = nodes_arr[itr].src
+            document.querySelector('#js-imgBackground').style.backgroundImage = `url("${url}")`;
+            itr = (itr + 1) % nodes_arr.length;
+        };
+        rotate_bg();
+        window.setInterval(rotate_bg, 5000);
     </script>
 </body>
+
 </html>
