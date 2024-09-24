@@ -22,4 +22,8 @@ case $1 in
     cf | deploy )
         wrangler pages deploy wwwdist --project-name="demonews" --commit-dirty=true --branch=master
         ;;
+    rrr )
+        ./make.sh r
+        ./make.sh cf
+        ;;
 esac
