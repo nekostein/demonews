@@ -1,4 +1,10 @@
+1727136000^3241980^Deep Despair 3: Demo
+1727136000^3232420^DREAMERS Demo
+1727136000^3215640^Black Submarine Demo
+1727136000^3169740^The Shadowed Rune Demo
+1727136000^3169680^Sultan's Game Demo
 1727049600^3241090^poker dungeon Demo
+1727049600^3237160^Sole Survivor Stages Of Death Demo: Sandbox
 1727049600^3221930^Onikura Demo
 1727049600^3220240^Scotophobia Demo
 1727049600^3211370^Geomancers Demo
