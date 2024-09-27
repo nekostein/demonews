@@ -128,3 +128,24 @@
 1727308800^3224660^Strange Seed Demo
 1727308800^3231640^City of Nightmares Demo
 1727308800^3237350^Last Helion Demo
+1727395200^3006310^Edge Islands Demo
+1727395200^3122960^Goeland Demo
+1727395200^3132040^The Vanished Soul Demo
+1727395200^3148570^Ninjam! Demo
+1727395200^3154220^Echoes of Dread Demo
+1727395200^3173860^Void Stealer Bodycam Horror Demo
+1727395200^3176020^Abnormality Demo
+1727395200^3185680^Dobbel Dungeon Demo
+1727395200^3188710^BBQ Simulator: The Squad Demo
+1727395200^3190820^One Socket Demo
+1727395200^3193000^Chicken Hill Demo
+1727395200^3195810^CONFINED: Leaving OKB-134 Demo
+1727395200^3195820^Upload Simulator Silicon Demo
+1727395200^3200860^Ink Escape: Coven Conundrum Demo
+1727395200^3209810^3 Minutes to Midnight Demo
+1727395200^3210560^Scribblequest Demo
+1727395200^3223400^The Masquerade Demo
+1727395200^3224550^Hotelnomaly Demo
+1727395200^3235630^Fengdu Chronicles of battle
+1727395200^3238480^Abondoned village Demo
+1727395200^3243380^Isekai Survivors Demo
