@@ -151,10 +151,20 @@
 1727395200^3243380^Isekai Survivors Demo
 1727481600^3105570^👑选王之剑：零 Demo💕（Idle Calibur：Zero）
 1727481600^3116620^Backpack Survivors Demo
+1727481600^3138600^To Clean The Mountain Demo
 1727481600^3205900^Trade Conquest Demo
 1727481600^3211040^Peacemaker: Bloody Emperor Demo
+1727481600^3220420^Only Trump: Up To Presidents! Demo
 1727481600^3229090^Tootum Demo
 1727481600^3236440^龙凤Demo
 1727481600^3237560^NINDO Demo
 1727481600^3240360^∆ Demo
+1727481600^3245630^Vending Machine Business Simulator Demo
 1727481600^3253820^Click Painter Demo
+1727568000^3171670^Ronny's Climb Demo
+1727568000^3177080^Choice Matters Demo
+1727568000^3183570^AFTER STORY ～Witch ⊂ Dragon～ Demo
+1727568000^3186100^Reflex Unit : Strike Ops Demo
+1727568000^3190960^Deepest Trench Demo
+1727568000^3242070^7 Nights Keeper Demo
+1727568000^3248090^Archipel Logic Infinite Demo
