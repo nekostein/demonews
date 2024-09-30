@@ -1,32 +1,24 @@
-1727395200^3173860^Void Stealer Bodycam Horror Demo
-1727395200^3185680^Dobbel Dungeon Demo
-1727395200^3188710^BBQ Simulator: The Squad Demo
-1727395200^3195810^CONFINED: Leaving OKB-134 Demo
-1727395200^3195820^Upload Simulator Silicon Demo
-1727395200^3200860^Ink Escape: Coven Conundrum Demo
-1727395200^3209810^3 Minutes to Midnight Demo
-1727395200^3210560^Scribblequest Demo
-1727395200^3223400^The Masquerade Demo
-1727395200^3224550^Hotelnomaly Demo
-1727395200^3235630^Fengdu Chronicles of battle
-1727395200^3238480^Abondoned village Demo
-1727395200^3243380^Isekai Survivors Demo
-1727481600^3105570^👑选王之剑：零 Demo💕（Idle Calibur：Zero）
-1727481600^3116620^Backpack Survivors Demo
-1727481600^3138600^To Clean The Mountain Demo
-1727481600^3205900^Trade Conquest Demo
-1727481600^3211040^Peacemaker: Bloody Emperor Demo
-1727481600^3220420^Only Trump: Up To Presidents! Demo
-1727481600^3229090^Tootum Demo
-1727481600^3236440^龙凤Demo
-1727481600^3237560^NINDO Demo
-1727481600^3240360^∆ Demo
-1727481600^3245630^Vending Machine Business Simulator Demo
-1727481600^3253820^Click Painter Demo
-1727568000^3171670^Ronny's Climb Demo
-1727568000^3177080^Choice Matters Demo
-1727568000^3183570^AFTER STORY ～Witch ⊂ Dragon～ Demo
-1727568000^3186100^Reflex Unit : Strike Ops Demo
-1727568000^3190960^Deepest Trench Demo
-1727568000^3242070^7 Nights Keeper Demo
-1727568000^3248090^Archipel Logic Infinite Demo
+1727654400^3017960^The Trials 2 Demo
+1727654400^3027750^CrossAbout: Crosswords In Reverse
+1727654400^3043600^Millennium Strategy (Demo)
+1727654400^3062370^The Smurfs – Dreams Demo
+1727654400^3066860^Department of Collections Demo
+1727654400^3095650^Enigma Awaken Demo
+1727654400^3134890^Bunny Space Odyssey: FlopHop Demo
+1727654400^3143440^Arctic Motel Simulator Demo
+1727654400^3156930^Hunt the Pale Gods Demo
+1727654400^3176700^Mining And Achievements 挖矿与成就 Demo
+1727654400^3183000^Deadbeat Demo
+1727654400^3185930^萍城异闻录 Demo
+1727654400^3196170^Boyfriend For Hire Demo
+1727654400^3197920^Trapped Demo
+1727654400^3210830^Escape Everlit Demo
+1727654400^3221660^Night Fright Demo
+1727654400^3224430^PROJECT TACHYON Demo
+1727654400^3239620^Retro Horror Story Demo
+1727654400^3243360^Below, Rusted Gods Demo
+1727654400^3244460^Millumi Demo
+1727654400^3246570^I wanna be The King! Demo
+1727654400^3247010^Broken Alliance Demo
+1727654400^3248090^Archipel Logic Infinite Demo
+1727654400^3257060^Petrified Pawns Demo

@@ -168,3 +168,27 @@
 1727568000^3190960^Deepest Trench Demo
 1727568000^3242070^7 Nights Keeper Demo
 1727568000^3248090^Archipel Logic Infinite Demo
+1727654400^3017960^The Trials 2 Demo
+1727654400^3027750^CrossAbout: Crosswords In Reverse
+1727654400^3043600^Millennium Strategy (Demo)
+1727654400^3062370^The Smurfs – Dreams Demo
+1727654400^3066860^Department of Collections Demo
+1727654400^3095650^Enigma Awaken Demo
+1727654400^3134890^Bunny Space Odyssey: FlopHop Demo
+1727654400^3143440^Arctic Motel Simulator Demo
+1727654400^3156930^Hunt the Pale Gods Demo
+1727654400^3176700^Mining And Achievements 挖矿与成就 Demo
+1727654400^3183000^Deadbeat Demo
+1727654400^3185930^萍城异闻录 Demo
+1727654400^3196170^Boyfriend For Hire Demo
+1727654400^3197920^Trapped Demo
+1727654400^3210830^Escape Everlit Demo
+1727654400^3221660^Night Fright Demo
+1727654400^3224430^PROJECT TACHYON Demo
+1727654400^3239620^Retro Horror Story Demo
+1727654400^3243360^Below, Rusted Gods Demo
+1727654400^3244460^Millumi Demo
+1727654400^3246570^I wanna be The King! Demo
+1727654400^3247010^Broken Alliance Demo
+1727654400^3248090^Archipel Logic Infinite Demo
+1727654400^3257060^Petrified Pawns Demo
