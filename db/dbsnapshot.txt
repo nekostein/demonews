@@ -1,3 +1,28 @@
+1727827200^3261330^Steel Tower Swordmaster Demo
+1727827200^3254770^Aetherdale Demo
+1727827200^3235970^Boulder Smash Demo
+1727827200^3232500^Defensurvior Demo
+1727827200^3209640^Breast Simulator Demo
+1727827200^3209350^Cats and Seek: Tokyo Demo
+1727827200^3207570^Forgotten 23 Demo
+1727827200^3206330^千里江山拼拼乐【试玩】
+1727827200^3195570^Jini's Potion Shop DEMO
+1727827200^3193100^Shadows of the Werewolf Demo
+1727827200^3192500^What Happens After Midnight? Demo
+1727827200^3171420^BlockWorld Ai Demo
+1727827200^3162710^Leonardo's Island Demo
+1727827200^3161000^Space Menace 2 Demo
+1727827200^3111480^Lofi aquarium Demo
+1727827200^2954760^The Dreamers Foresight Demo
+1727827200^2939500^Backpacker Guild Demo
+1727740800^3260360^Dark & Quispy Demo
+1727740800^3250690^Edd Skeleton Demo
+1727740800^3247090^Girl Travels Forest of Dream - 2 Ava (Demo)
+1727740800^3244280^Cell Sword Demo
+1727740800^3232700^Deep Space Armada Demo
+1727740800^3230830^BlastBall: All-Stars Demo
+1727740800^3223830^A Winter Haunting Demo
+1727740800^3218750^Nice To Yeet You - Demo
 1727654400^3257060^Petrified Pawns Demo
 1727654400^3248090^Archipel Logic Infinite Demo
 1727654400^3247010^Broken Alliance Demo
@@ -73,28 +98,3 @@
 1727308800^2974550^Chloe the Cat Demo
 1727222400^3171420^BlockWorld Ai Demo
 1727222400^3021340^Little Big Adventure - Twinsen's Quest Demo
-1727222400^2753240^Dice Gambit: The First Act
-1727136000^3241980^Deep Despair 3: Demo
-1727136000^3232420^DREAMERS Demo
-1727136000^3217690^First Break Demo
-1727136000^3215640^Black Submarine Demo
-1727136000^3204160^One Pass Demo
-1727136000^3169740^The Shadowed Rune Demo
-1727136000^3169680^Sultan's Game Demo
-1727136000^3126870^Moon Watch: Living Demo
-1727136000^2569120^Cursed Deal Demo
-1727049600^3241980^Deep Despair 3: Demo
-1727049600^3241090^poker dungeon Demo
-1727049600^3237160^Sole Survivor Stages Of Death Demo: Sandbox
-1727049600^3221930^Onikura Demo
-1727049600^3220240^Scotophobia Demo
-1727049600^3211370^Geomancers Demo
-1727049600^3209190^Calvar - The Darkest Gate (Demo Prototype) Demo
-1727049600^3200790^Dark Age Asunder Demo
-1727049600^3119890^Magic the Wandering Demo
-1727049600^3032670^Tomb Stalkers Demo
-1727049600^2890580^Weeny Wise Demo
-1727049600^2569120^Cursed Deal Demo
-1726963200^3245430^Necrocat Demo
-1726963200^3243900^VHScape Demo
-1726963200^3236070^Wire Throne Demo
