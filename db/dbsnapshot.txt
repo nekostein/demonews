@@ -1,3 +1,29 @@
+1728086400^3266980^I Wanna Be A Game Dev! Demo
+1728086400^3261580^Echo of Mobius Demo
+1728086400^3134260^OPG: Clan Wars Demo
+1728000000^3266910^Sepulchron Demo
+1728000000^3265630^Holy Shoot Demo
+1728000000^3264240^Dr. Gloom’s Lab™ Demo
+1728000000^3264080^Hidden Cat Outlaws Demo
+1728000000^3256660^Manickologi Demo
+1728000000^3246410^Kamikaze Empire Demo
+1728000000^3242040^King of Hearts Demo
+1728000000^3239280^Laundry Store Simulator Demo
+1728000000^3235020^Affordable Healthcare DEMO
+1728000000^3227360^Ruku's Heart Balloon DEMO
+1728000000^3222410^Final Outcry Demo
+1728000000^3219020^Proverbs Demo
+1728000000^3210580^SPARROW DEMO
+1728000000^3208150^Freckles Demo
+1728000000^3201920^Friendly Sheeps: A Cozy Simulator Demo
+1728000000^3189050^Jab Juggernauts Demo
+1728000000^3171950^Dungeon of Erotic Master Plus Demo
+1728000000^3133190^Bob The Zhero Demo
+1728000000^3124880^The Sacrifice
+1728000000^3123590^Shining Hero Demo
+1728000000^3111560^ACP: Demo
+1728000000^3003110^Zector 7 Demo
+1728000000^2648230^Eco Balance Demo
 1727913600^3260290^Super Platform Tag Demo
 1727913600^3244930^Tailside: Cozy Cafe Sim Demo
 1727913600^3239030^Dungeon Flowy Demo
@@ -72,29 +98,3 @@
 1727654400^3062370^The Smurfs – Dreams Demo
 1727654400^3043600^Millennium Strategy (Demo)
 1727654400^3027750^CrossAbout: Crosswords In Reverse
-1727654400^3017960^The Trials 2 Demo
-1727568000^3248090^Archipel Logic Infinite Demo
-1727568000^3242070^7 Nights Keeper Demo
-1727568000^3190960^Deepest Trench Demo
-1727568000^3186100^Reflex Unit : Strike Ops Demo
-1727568000^3183570^AFTER STORY ～Witch ⊂ Dragon～ Demo
-1727568000^3177080^Choice Matters Demo
-1727568000^3171670^Ronny's Climb Demo
-1727481600^3253820^Click Painter Demo
-1727481600^3245630^Vending Machine Business Simulator Demo
-1727481600^3240360^∆ Demo
-1727481600^3237560^NINDO Demo
-1727481600^3236440^龙凤Demo
-1727481600^3229090^Tootum Demo
-1727481600^3220420^Only Trump: Up To Presidents! Demo
-1727481600^3211040^Peacemaker: Bloody Emperor Demo
-1727481600^3205900^Trade Conquest Demo
-1727481600^3138600^To Clean The Mountain Demo
-1727481600^3116620^Backpack Survivors Demo
-1727481600^3105570^👑选王之剑：零 Demo💕（Idle Calibur：Zero）
-1727395200^3243380^Isekai Survivors Demo
-1727395200^3238480^Abondoned village Demo
-1727395200^3235630^Fengdu Chronicles of battle
-1727395200^3224550^Hotelnomaly Demo
-1727395200^3223400^The Masquerade Demo
-1727395200^3210560^Scribblequest Demo
