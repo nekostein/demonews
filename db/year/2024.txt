@@ -267,5 +267,17 @@
 1728000000^3265630^Holy Shoot Demo
 1728000000^3266910^Sepulchron Demo
 1728086400^3134260^OPG: Clan Wars Demo
+1728086400^3177630^Shooting Range Simulator Demo
+1728086400^3253880^Spirit of the Obelisk Demo
 1728086400^3261580^Echo of Mobius Demo
+1728086400^3266100^Rusalka Wrath Demo
 1728086400^3266980^I Wanna Be A Game Dev! Demo
+1728086400^3269140^Re:Flex Demo
+1728172800^3258940^Get Sticked! Demo
+1728259200^3137720^Commandos: Origins - Demo
+1728259200^3206270^All Whispering Tome - Demo
+1728259200^3236770^Vampyre Crusade Demo
+1728259200^3246270^Exo Wanderers Demo
+1728259200^3250840^The Die Is Cast Demo
+1728259200^3256300^The Three Kingdoms of Shadows DEMO
+1728259200^3260590^Color Dash Demo
