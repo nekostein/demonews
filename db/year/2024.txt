@@ -308,9 +308,17 @@
 1728345600^3265350^虚谷 Demo
 1728345600^3266280^Nebelmer Demo
 1728345600^3269530^Love Me or Die Demo
+1728345600^3276660^Tilebreaker Next Level Demo
 1728432000^3111910^Gedonia 2 Demo
+1728432000^3165150^Azura's Crystals Demo
+1728432000^3202180^Wordban Demo: a text-based Sokoban game
 1728432000^3211940^Weapons Arena Demo
+1728432000^3211940^刀剑竞技场 Weapons Arena Demo
 1728432000^3235080^Horse Farm Simulator 2024 Demo
 1728432000^3240910^ムラヤキヴィラン 体験版
 1728432000^3253650^Clockwork Rabbit Demo
+1728432000^3258630^Nuclear Gladiators 3000 Demo
+1728432000^3261400^Bike Baron 2: The Art of Riding Demo
 1728432000^3269900^Brave Village Demo
+1728432000^3271270^BLOOD=BULLETS Demo
+1728432000^3276890^Embers Of Spiritflame Demo
