@@ -1,20 +1,15 @@
-1728345600^3187690^My Imaginary Friend Demo
-1728345600^3206270^All Whispering Tome - Demo
-1728345600^3219070^The Little Clandestine - Demo
-1728345600^3244110^Legends of Aden demo
-1728345600^3265170^身为小丑的我怎么可能和美少女一起打牌 Demo
-1728345600^3265350^虚谷 Demo
-1728345600^3266280^Nebelmer Demo
-1728345600^3276660^Tilebreaker Next Level Demo
-1728432000^3111910^Gedonia 2 Demo
-1728432000^3165150^Azura's Crystals Demo
-1728432000^3202180^Wordban Demo: a text-based Sokoban game
-1728432000^3211940^刀剑竞技场 Weapons Arena Demo
-1728432000^3235080^Horse Farm Simulator 2024 Demo
-1728432000^3240910^ムラヤキヴィラン 体験版
-1728432000^3253650^Clockwork Rabbit Demo
-1728432000^3258630^Nuclear Gladiators 3000 Demo
-1728432000^3261400^Bike Baron 2: The Art of Riding Demo
-1728432000^3269900^Brave Village Demo
-1728432000^3271270^BLOOD=BULLETS Demo
-1728432000^3276890^Embers Of Spiritflame Demo
+1728518400^3007500^漆黑猎场 Demo
+1728518400^3058750^Rally Arcade Classics Demo
+1728518400^3114640^Crimepunk Detective Demo
+1728518400^3149930^Fated Land Demo
+1728518400^3168190^Cain × Nica Demo
+1728518400^3193050^Nortopia Demo
+1728518400^3195080^Hexaquest Demo
+1728518400^3197110^Permafrost Demo
+1728518400^3207710^铁山奇谭 序章
+1728518400^3209890^Blacksmith: Ignite the Forge Demo
+1728518400^3251630^UpRunner Demo
+1728518400^3251880^Cinema Simulator 2025 Demo
+1728518400^3257370^Voidzone Demo
+1728518400^3257500^BattleCap Demo
+1728518400^3270630^Grimstone Survivors Demo
