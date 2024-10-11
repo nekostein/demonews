@@ -336,4 +336,29 @@
 1728518400^3251880^Cinema Simulator 2025 Demo
 1728518400^3257370^Voidzone Demo
 1728518400^3257500^BattleCap Demo
+1728518400^3263900^A Shelter Full of Cats Demo
+1728518400^3270040^Our Ephemeral Nights Demo
 1728518400^3270630^Grimstone Survivors Demo
+1728518400^3273450^Social Warfare Demo
+1728518400^3278070^Zaraq Demo
+1728518400^3278200^Scuttle Demo
+1728518400^3279720^A Game of Gods: Infinium Demo
+1728518400^3282590^Hidalgo Demo
+1728604800^2867730^This Is No Cave Demo
+1728604800^2926810^Fear The Timeloop: Demo
+1728604800^2927730^Astral Outcast - Demo
+1728604800^3089050^Hail to the Rainbow Demo
+1728604800^3163250^44 Hidden Naomis Demo
+1728604800^3199290^死神模拟器 Demo
+1728604800^3201220^Proxyma Demo
+1728604800^3232770^Radio Commander: Pacific Campaign Demo
+1728604800^3243500^Music Memories (Demo)
+1728604800^3248730^AI Pals Demo
+1728604800^3251730^Business Odyssey Demo
+1728604800^3258610^Mind Garden Demo
+1728604800^3259050^Island Keeper Demo
+1728604800^3260550^refarm Demo
+1728604800^3261690^Silly Polly Beast Demo
+1728604800^3266560^Tower of Madness Demo
+1728604800^3273250^Drive Thru Simulator Demo
+1728604800^3282810^Underworld Overseer Demo
