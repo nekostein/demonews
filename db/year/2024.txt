@@ -390,4 +390,14 @@
 1728604800^3279890^Mo 'n Fro Demo
 1728604800^3282810^Underworld Overseer Demo
 1728604800^3283880^Nautikin Adventures Demo
+1728691200^3148070^Summer For You Demo
+1728691200^3188940^蜂とアヴァンギャルド2　桜の下で狐は嗤う Demo
+1728691200^3195220^EmyLiveShow: BossRush Demo
+1728691200^3195230^EmyLiveShow: Demons & Mistresses Tale Demo
+1728691200^3198810^Rise & Muse Demo
+1728691200^3200080^开宗立派 Demo
+1728691200^3201220^Proxyma Demo
+1728691200^3264810^Warmage Demo
 1728691200^3277340^BrickLike Demo
+1728691200^3282750^-Fell in love with the Nobility girl- Demo
+1728691200^3284470^Farming Isles Demo
