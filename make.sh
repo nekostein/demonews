@@ -20,7 +20,7 @@ case $1 in
         realpath wwwdist/index.html
         ;;
     cf | deploy )
-        wrangler pages deploy wwwdist --project-name="demonews" --commit-dirty=true --branch=master
+        wrangler pages deploy wwwdist --project-name="demonews" --commit-dirty=true --branch=master && printf "Upload finished\n\n"
         ;;
     rrr )
         ./make.sh r
