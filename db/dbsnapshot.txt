@@ -1,7 +1,11 @@
 1729036800^3294470^Anarchy Hops Demo
+1729036800^3286980^Fire Boy Demo
 1729036800^3273330^Liminal Exit Demo
 1728950400^3287440^MarineVerse Cup Sailing - Demo
+1728950400^3286450^Object 17 Demo
 1728950400^3284950^Solitaire Flowerscapes Demo
+1728950400^3283100^Ethereal Fracture Demo
+1728950400^3280360^Lab 42 Demo
 1728950400^3277730^三国志·天下归心 Demo
 1728950400^3253580^Cold Chains Demo
 1728950400^3251480^Iron Saga VS Demo
@@ -94,7 +98,3 @@
 1728864000^3159870^Atomic Owl Demo
 1728864000^3146040^Awaken: Hentai Dice Demo
 1728864000^3108540^JOI Lab VR 🔞 Demo
-1728864000^3100360^Love Is All Around Prequel Demo
-1728864000^3078310^Chrono Crimes Demo
-1728864000^3061980^Yurei: The demo
-1728864000^3044960^Stratagem Lost Demo
