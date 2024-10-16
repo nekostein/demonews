@@ -1,9 +1,14 @@
+1729036800^3294470^Anarchy Hops Demo
+1729036800^3273330^Liminal Exit Demo
+1728950400^3287440^MarineVerse Cup Sailing - Demo
 1728950400^3284950^Solitaire Flowerscapes Demo
 1728950400^3277730^三国志·天下归心 Demo
 1728950400^3253580^Cold Chains Demo
 1728950400^3251480^Iron Saga VS Demo
 1728950400^3196090^赫雷斯的角鬥場 Ⅲ Demo
 1728950400^3195910^Logic Grid Puzzle Demo
+1728950400^3191040^Five Nights at Restroom 2: Demo
+1728950400^3041510^Vythzkel of City Dinasty Demo
 1728864000^3285450^Towers & Goblins: The Last Stand Demo
 1728864000^3284850^Deep Deep Deep Nightmare Demo
 1728864000^3283750^Who's Next? Demo
@@ -93,8 +98,3 @@
 1728864000^3078310^Chrono Crimes Demo
 1728864000^3061980^Yurei: The demo
 1728864000^3044960^Stratagem Lost Demo
-1728864000^3012200^NUMANUIN Demo
-1728864000^2893830^The Precinct Demo
-1728864000^2866990^Doors of Insanity: ReOpened Demo
-1728864000^2235870^Purrrifiers: Cleaning Chaos Demo
-1728777600^3286590^ExoFrontier: Venus (Demo)
