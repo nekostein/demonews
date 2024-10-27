@@ -583,3 +583,5 @@
 1729814400^3288150^잿빛의 행성 Demo
 1729814400^3296140^Spellshaper Demo
 1729900800^3279700^Climbing: Zhuzhu Demo
+1729900800^3293500^Temporal Cross / Demo
+1729987200^3166470^The Guilty Hearts Demo
