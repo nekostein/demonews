@@ -608,7 +608,12 @@
 1730419200^3155160^イカスミポーション 体験版
 1730419200^3180930^Komadori Inn Demo
 1730419200^3206050^Armageddon Sky's Invasion Demo
+1730419200^3278530^Cyber Courier 2088 Demo
 1730419200^3280570^Hashie Demo
 1730419200^3291380^陪你上北大 Your Study Mate Demo
 1730419200^3314490^sleep_mode Demo
+1730505600^3280520^Limbonauts Demo
+1730505600^3289470^Tiny Terraces Demo
 1730505600^3303210^Run away from me. Alexandra Demo
+1730592000^3287830^Robinson Crusoe Demo
+1730592000^3317790^Mansion of the Dead Demo
