@@ -24,6 +24,6 @@ case $1 in
         ;;
     rrr )
         ./make.sh r
-        ./make.sh cf &
+        ./make.sh cf
         ;;
 esac

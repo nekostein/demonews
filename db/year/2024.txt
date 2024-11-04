@@ -615,5 +615,12 @@
 1730505600^3280520^Limbonauts Demo
 1730505600^3289470^Tiny Terraces Demo
 1730505600^3303210^Run away from me. Alexandra Demo
+1730592000^3231430^Chop Shop Demo
+1730592000^3246030^Angel Demo
 1730592000^3287830^Robinson Crusoe Demo
+1730592000^3312610^NO EXIT DEMO (Chapter 1)
 1730592000^3317790^Mansion of the Dead Demo
+1730678400^3139420^Alex's Journey to the Grave Demo
+1730678400^3227000^Frozen Injustice: Fridge Adventures (Demo)
+1730678400^3293510^Meow Mission Demo
+1730678400^3297880^Worship Demo
