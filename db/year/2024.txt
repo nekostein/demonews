@@ -622,5 +622,10 @@
 1730592000^3317790^Mansion of the Dead Demo
 1730678400^3139420^Alex's Journey to the Grave Demo
 1730678400^3227000^Frozen Injustice: Fridge Adventures (Demo)
+1730678400^3244430^Archaeology Rush Demo
 1730678400^3293510^Meow Mission Demo
 1730678400^3297880^Worship Demo
+1730678400^3299390^寻仙问道 Demo
+1730678400^3326180^Cyber Seekers: Conquest Demo
+1730764800^3003180^STRASHNA 2 Demo
+1730764800^3237660^МЕМОЛОГИЯ: ЕГЭ ДЛЯ СКУФОВ Demo
