@@ -1,3 +1,6 @@
+1730851200^3310840^Capyverse Odyssey Demo
+1730851200^3301760^VISK Prologue
+1730851200^3219510^Rec Demo
 1730764800^3237660^МЕМОЛОГИЯ: ЕГЭ ДЛЯ СКУФОВ Demo
 1730764800^3003180^STRASHNA 2 Demo
 1730678400^3326180^Cyber Seekers: Conquest Demo
@@ -95,6 +98,3 @@
 1728864000^3283750^Who's Next? Demo
 1728864000^3282810^Underworld Overseer Demo
 1728864000^3281000^Fisherman's Palace Demo
-1728864000^3277440^许愿岛 Hope Isle Demo
-1728864000^3275490^Spherebuddie 64 Demo
-1728864000^3275250^Exterminant Demo
