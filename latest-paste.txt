@@ -1,3 +1,4 @@
-1730851200^3219510^Rec Demo
-1730851200^3301760^VISK Prologue
-1730851200^3310840^Capyverse Odyssey Demo
+1730937600^3279850^Кано. Каменные острова. Демо.
+1730937600^3285560^Streets of Handbags Demo
+1730937600^3325150^Karakuri Ninja VR Demo
+1730937600^3329740^Record Shop Simulator Prologue
