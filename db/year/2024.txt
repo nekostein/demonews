@@ -636,3 +636,9 @@
 1730937600^3285560^Streets of Handbags Demo
 1730937600^3325150^Karakuri Ninja VR Demo
 1730937600^3329740^Record Shop Simulator Prologue
+1731024000^3161620^Keyframes Demo
+1731024000^3222380^Ultimate Hero: The Legend of Flurry Demo
+1731024000^3288080^Cave Of Horrors Demo
+1731024000^3304310^Go Go Fight Demo
+1731024000^3320180^What's On The Menu ? Demo
+1731024000^3324790^Eva‘s Lab Demo
