@@ -649,3 +649,6 @@
 1731110400^3324360^SimpleCursorMaker-free
 1731110400^3327410^Spooky Workers Demo
 1731196800^3325980^Desktop Pals Lite - Demo
+1731283200^2515100^Fortune Avenue Demo
+1731283200^3235770^A Walk in the Park Demo
+1731283200^3292050^重生之我是最强股神! Demo
