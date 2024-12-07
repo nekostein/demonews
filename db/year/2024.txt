@@ -725,3 +725,11 @@
 1733184000^3227780^Black Paradox Reloaded
 1733184000^3364640^Wormstep Demo
 1733184000^3366020^LIMINAL SHIFT Demo
+1733443200^3338540^The Great Villainess: Strategy of Lily
+1733443200^3345060^Kemono Teatime Demo
+1733443200^3366970^Air Traffic Control Demo
+1733443200^3381280^Brawlers of the West Demo
+1733443200^3383320^Dr. Yaga Lost House Demo
+1733529600^1806020^Goodlands Demo
+1733529600^3326630^铜刀银剑 Demo
+1733529600^3389270^我的恋爱逃生攻略 Love to Live Demo
