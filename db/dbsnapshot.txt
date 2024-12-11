@@ -1,5 +1,10 @@
+1733875200^3388920^SchoolBoy Runaway Demo
+1733875200^3379910^Doomsday Tower Defense Demo
+1733875200^3335440^Aggrolotls Demo
 1733788800^3391430^ファンタジーワールド ～魔王の想いと真実と～ Demo
+1733788800^3387590^Arashi Gaiden Demo
 1733788800^3379230^Deskquarium Demo
+1733788800^3359570^Zombies & Survivors Demo
 1733788800^3358190^Pick Me Pick Me Demo
 1733788800^3205720^Schedule I: Free Sample
 1733702400^3387130^OrbHand Demo
@@ -93,8 +98,3 @@
 1731196800^3325980^Desktop Pals Lite - Demo
 1731110400^3327410^Spooky Workers Demo
 1731110400^3324360^SimpleCursorMaker-free
-1731110400^3318680^Radventure Demo
-1731110400^3303620^HeartWeaver Demo
-1731110400^3268380^双生木 Demo
-1731110400^3136900^Mine Memory Demo
-1731024000^3324790^Eva‘s Lab Demo
