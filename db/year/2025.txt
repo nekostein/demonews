@@ -11,3 +11,5 @@
 1736812800^3051010^Bonnie Bear Saves Frogtime Demo
 1736899200^3420970^Inkwellers Demo
 1736985600^3351700^The First Berserker: Khazan Demo
+1736985600^3442630^BOKURA: planet Special Demo
+1737072000^3400850^Calyx Demo
