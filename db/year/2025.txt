@@ -13,3 +13,12 @@
 1736985600^3351700^The First Berserker: Khazan Demo
 1736985600^3442630^BOKURA: planet Special Demo
 1737072000^3400850^Calyx Demo
+1737331200^2964010^Private Military Manager: Tactical Auto Battler Demo
+1737331200^3307570^Crown of Greed Demo
+1737331200^3328600^Coin Push RPG Demo
+1737331200^3364820^Project Chameleon Demo
+1737331200^3365740^Death Howl Demo
+1737331200^3391250^Echoes of the Architects Demo
+1737417600^3212360^永生之庭 Demo
+1737504000^3435860^Roots Devour Demo
+1737590400^3456690^Just A Shadow Game Demo
