@@ -22,3 +22,4 @@
 1737417600^3212360^永生之庭 Demo
 1737504000^3435860^Roots Devour Demo
 1737590400^3456690^Just A Shadow Game Demo
+1737676800^3464460^Escape From Duckov Demo
