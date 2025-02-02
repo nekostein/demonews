@@ -1,3 +1,8 @@
+1738281600^3490390^Sandustry Demo
+1738281600^3479320^Farming & Supermarket Simulator Demo
+1738195200^3376980^Anoxia Station Demo
+1738022400^3465430^Desktop Fishing Demo
+1737936000^3440020^VOIDFACE Demo
 1737676800^3464460^Escape From Duckov Demo
 1737590400^3456690^Just A Shadow Game Demo
 1737504000^3435860^Roots Devour Demo
@@ -93,8 +98,3 @@
 1732060800^3061750^Leaf Town Demo
 1731974400^3351480^Asteroids X Demo
 1731974400^3348740^Shaolin Bao Demo
-1731974400^3340520^ParaGlock Demo
-1731974400^3329390^Vipunk Shield of Valhalla Demo
-1731974400^3321310^Black Pine: Incident Response Demo
-1731888000^3299790^Country Hopper Demo
-1731888000^3135230^Esteem - The little wolf saga Demo
