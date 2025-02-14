@@ -59,13 +59,27 @@
 1738886400^3426800^Delverium Demo
 1738886400^3463790^Hypogea Demo
 1738886400^3491930^Noobs Are Coming DEMO
+1738972800^3512220^Metal Hunter Demo
 1739059200^3481790^LOVE SHOP Simulator 💕🛒 Demo
+1739145600^3073400^Seagulls - Crappy Situation Demo
+1739145600^3222620^Nightmare Shift Demo
 1739145600^3375100^DuneCrawl Demo
 1739145600^3399490^Touhou: the Unreachable Oneiroborder. Demo
 1739145600^3403600^RailGods of Hysterra Demo
+1739145600^3413250^Desperate Place Demo
+1739145600^3450210^Sheepherds! Demo
 1739145600^3451510^Roombattle Demo
 1739145600^3453220^Biped 2 Demo
+1739145600^3453320^Squirreled Away Demo
 1739145600^3462260^Aethermancer Demo
 1739145600^3466550^Gemporium Demo
 1739145600^3509220^Neon Inferno Demo
+1739145600^3510080^Kentum Demo
 1739232000^2582150^Ruffy and the Riverside Demo
+1739318400^2506090^Twisted Tower Demo
+1739318400^3415070^Greenhouse Demo
+1739318400^3476570^東方幕華祭 永夜篇 Demo Touhou Makuka Sai ~ Fantastic Danmaku Festival Part III Demo
+1739318400^3479130^Sex & Coffee ☕️🤎 Demo
+1739404800^3352550^Like a Dragon: Pirate Yakuza in Hawaii Demo
+1739404800^3380460^GearGrit Demo
+1739404800^3453690^Supercar Collection Simulator Demo
