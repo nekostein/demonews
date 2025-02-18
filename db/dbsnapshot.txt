@@ -1,9 +1,17 @@
+1739750400^3408840^ChromaGun 2: Dye Hard Demo
+1739750400^3382420^PSYCHExFUSE Demo
+1739664000^3509810^Blueprint Bob Demo
 1739491200^3490200^LOVE Hotel Simulator 🏩 Demo
+1739491200^3453620^Hoover Heroes Demo
+1739491200^3428250^恋爱绮谭 不存在的回忆 Demo
 1739491200^3280910^Haneda Girl Demo
 1739404800^3499130^Lou's Lagoon Demo
 1739404800^3498810^Knightica Demo
 1739404800^3469870^Deepspace Emporium Demo
+1739404800^3462550^Locomoto Demo
 1739404800^3453690^Supercar Collection Simulator Demo
+1739404800^3429540^Piece by Piece Demo
+1739404800^3402770^Badlands Crew Demo
 1739404800^3381200^Lost in Random: The Eternal Die Demo
 1739404800^3380460^GearGrit Demo
 1739404800^3352550^Like a Dragon: Pirate Yakuza in Hawaii Demo
@@ -11,6 +19,7 @@
 1739318400^3478820^Wordatro! Demo
 1739318400^3476570^東方幕華祭 永夜篇 Demo Touhou Makuka Sai ~ Fantastic Danmaku Festival Part III Demo
 1739318400^3415070^Greenhouse Demo
+1739318400^3186700^Double Whammy Demo
 1739318400^2506090^Twisted Tower Demo
 1739232000^3138110^Lost in Prayer Demo
 1739232000^2582150^Ruffy and the Riverside Demo
@@ -89,12 +98,3 @@
 1736294400^3264080^Hidden Cat Outlaws Demo
 1736121600^3366180^Rogue Loops Demo
 1736121600^3354780^The Scouring Demo
-1735862400^3406500^SOG: Vietnam Demo
-1735862400^2982750^The Violets of Amicus™ Demo
-1733875200^3388920^SchoolBoy Runaway Demo
-1733875200^3379910^Doomsday Tower Defense Demo
-1733875200^3335440^Aggrolotls Demo
-1733788800^3391430^ファンタジーワールド ～魔王の想いと真実と～ Demo
-1733788800^3387590^Arashi Gaiden Demo
-1733788800^3379230^Deskquarium Demo
-1733788800^3359570^Zombies & Survivors Demo
