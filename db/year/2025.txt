@@ -95,8 +95,16 @@
 1739404800^3499130^Lou's Lagoon Demo
 1739491200^3280910^Haneda Girl Demo
 1739491200^3428250^恋爱绮谭 不存在的回忆 Demo
+1739491200^3447260^House of Necrosis Demo
 1739491200^3453620^Hoover Heroes Demo
 1739491200^3490200^LOVE Hotel Simulator 🏩 Demo
 1739664000^3509810^Blueprint Bob Demo
 1739750400^3382420^PSYCHExFUSE Demo
+1739750400^3396390^Fourth Time Around Demo
 1739750400^3408840^ChromaGun 2: Dye Hard Demo
+1739836800^3386470^The Hundred Line -Last Defense Academy- Demo Ver.
+1739923200^2852420^Beholder: Conductor Demo
+1739923200^3539780^What Comes Next Demo
+1740009600^2870990^Mecha BREAK Demo
+1740009600^3227160^SAVE Demo
+1740009600^3456560^Cubic Odyssey Demo
