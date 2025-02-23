@@ -1,8 +1,23 @@
+1740096000^3493310^Chains of Freedom Demo
+1740096000^3361040^Lost Skies Demo
+1740096000^2966870^Shotgun Cop Man Demo
+1740009600^3491390^Static Dread Demo
+1740009600^3463280^Motorcycle Night Ride Demo
+1740009600^3457160^Radiolight Demo
 1740009600^3456560^Cubic Odyssey Demo
+1740009600^3453980^Nordhold Demo
+1740009600^3449000^Hoop Fighters Demo
+1740009600^3398800^Sex Wishes 🔮 Demo
 1740009600^3227160^SAVE Demo
+1740009600^3152580^Amarillo's Desktop Pets Demo
+1740009600^2958740^Luctus Demo
+1740009600^2958050^Machine Mind Demo
 1740009600^2870990^Mecha BREAK Demo
 1739923200^3539780^What Comes Next Demo
 1739923200^2852420^Beholder: Conductor Demo
+1739923200^2778240^Moves Of The Diamond Hand Demo
+1739836800^3525590^Chaos Front Demo
+1739836800^3522510^Laundry Simulator : PowerWash It! Demo
 1739836800^3386470^The Hundred Line -Last Defense Academy- Demo Ver.
 1739750400^3408840^ChromaGun 2: Dye Hard Demo
 1739750400^3396390^Fourth Time Around Demo
@@ -83,18 +98,3 @@
 1738022400^3465430^Desktop Fishing Demo
 1737936000^3440020^VOIDFACE Demo
 1737676800^3464460^Escape From Duckov Demo
-1737590400^3456690^Just A Shadow Game Demo
-1737504000^3435860^Roots Devour Demo
-1737504000^3395240^Disastory Demo
-1737417600^3212360^永生之庭 Demo
-1737331200^3391250^Echoes of the Architects Demo
-1737331200^3365740^Death Howl Demo
-1737331200^3364820^Project Chameleon Demo
-1737331200^3328600^Coin Push RPG Demo
-1737331200^3307570^Crown of Greed Demo
-1737331200^2964010^Private Military Manager: Tactical Auto Battler Demo
-1737072000^3400850^Calyx Demo
-1736985600^3442630^BOKURA: planet Special Demo
-1736985600^3351700^The First Berserker: Khazan Demo
-1736899200^3420970^Inkwellers Demo
-1736812800^3051010^Bonnie Bear Saves Frogtime Demo
