@@ -1,6 +1,16 @@
 #!/bin/bash
 
 case $1 in
+    db/year/*.txt )
+        ### Convert year TXT to TOML
+        while read -r line; do
+            printf '[[entry]]
+timestamp = %s
+appid = "%s"
+title = "%s"\n' "$(cut -d^ -f1 <<< "$line")" "$(cut -d^ -f2 <<< "$line")" "$(cut -d^ -f3- <<< "$line")"
+        done < "$1" > "$1.toml"
+        tomlq .entry "$1.toml" > "$1.json"
+        ;;
     c | copy )
         xclip -selection clipboard < inwebconsole.js
         echo "[INFO] Script copied; run in https://steamdb.info/upcoming/?lastweek"
