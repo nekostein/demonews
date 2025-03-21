@@ -190,3 +190,23 @@
 1742256000^3570240^Ved : Journey Beyond the Cube Demo
 1742256000^3586080^Learn Japanese Kana & Vocab with Sushi Demo
 1742256000^3594710^GERINGI Demo
+1742428800^3592810^LOCURA Demo
+1742428800^3594010^Stunt Bike Extreme Demo
+1742428800^3595840^Uppercute Demo
+1742428800^3597460^Business Empire - Online Board Game Demo
+1742428800^3597490^Cute Patoots Demo
+1742428800^3597520^Elemental Novice Demo
+1742428800^3600130^CorAstral Demo
+1742428800^3604360^Ultimate Golf Battle Demo
+1742515200^3444470^Herald of the Mists Demo
+1742515200^3511690^Fuel Harvest Together Demo
+1742515200^3523830^Zombies & Bullets Demo
+1742515200^3530880^Tower Offense Demo
+1742515200^3547670^Greenfeet Haven Demo
+1742515200^3552060^Fate's Masquerade: Otome Visual Novel Demo
+1742515200^3554300^Redcrest: 1993 Demo
+1742515200^3559610^Monster Girl Jungle Demo
+1742515200^3567630^Tile Blocks Demo
+1742515200^3573610^Path of the Ory Demo
+1742515200^3588890^感染½ INFECT½ Demo
+1742515200^3600850^고트 서바이버 Demo

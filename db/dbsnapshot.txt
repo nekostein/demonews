@@ -1,3 +1,23 @@
+1742515200^3600850^고트 서바이버 Demo
+1742515200^3588890^感染½ INFECT½ Demo
+1742515200^3573610^Path of the Ory Demo
+1742515200^3567630^Tile Blocks Demo
+1742515200^3559610^Monster Girl Jungle Demo
+1742515200^3554300^Redcrest: 1993 Demo
+1742515200^3552060^Fate's Masquerade: Otome Visual Novel Demo
+1742515200^3547670^Greenfeet Haven Demo
+1742515200^3530880^Tower Offense Demo
+1742515200^3523830^Zombies & Bullets Demo
+1742515200^3511690^Fuel Harvest Together Demo
+1742515200^3444470^Herald of the Mists Demo
+1742428800^3604360^Ultimate Golf Battle Demo
+1742428800^3600130^CorAstral Demo
+1742428800^3597520^Elemental Novice Demo
+1742428800^3597490^Cute Patoots Demo
+1742428800^3597460^Business Empire - Online Board Game Demo
+1742428800^3595840^Uppercute Demo
+1742428800^3594010^Stunt Bike Extreme Demo
+1742428800^3592810^LOCURA Demo
 1742256000^3594710^GERINGI Demo
 1742256000^3586080^Learn Japanese Kana & Vocab with Sushi Demo
 1742256000^3570240^Ved : Journey Beyond the Cube Demo
@@ -78,23 +98,3 @@
 1740009600^3152580^Amarillo's Desktop Pets Demo
 1740009600^3028520^Tall Trails Demo
 1740009600^2958740^Luctus Demo
-1740009600^2958050^Machine Mind Demo
-1740009600^2870990^Mecha BREAK Demo
-1739923200^3539780^What Comes Next Demo
-1739923200^2852420^Beholder: Conductor Demo
-1739923200^2778240^Moves Of The Diamond Hand Demo
-1739836800^3525590^Chaos Front Demo
-1739836800^3522510^Laundry Simulator : PowerWash It! Demo
-1739836800^3386470^The Hundred Line -Last Defense Academy- Demo Ver.
-1739750400^3408840^ChromaGun 2: Dye Hard Demo
-1739750400^3396390^Fourth Time Around Demo
-1739750400^3382420^PSYCHExFUSE Demo
-1739664000^3509810^Blueprint Bob Demo
-1739491200^3490200^LOVE Hotel Simulator 🏩 Demo
-1739491200^3453620^Hoover Heroes Demo
-1739491200^3447260^House of Necrosis Demo
-1739491200^3428250^恋爱绮谭 不存在的回忆 Demo
-1739491200^3280910^Haneda Girl Demo
-1739404800^3499130^Lou's Lagoon Demo
-1739404800^3498810^Knightica Demo
-1739404800^3469870^Deepspace Emporium Demo
