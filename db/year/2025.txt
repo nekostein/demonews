@@ -210,3 +210,17 @@
 1742515200^3573610^Path of the Ory Demo
 1742515200^3588890^感染½ INFECT½ Demo
 1742515200^3600850^고트 서바이버 Demo
+1743465600^3575470^CoreRunner Demo
+1743465600^3588710^Megamelon: Suika Beach Demo
+1743465600^3607200^Stu the fisherman Demo
+1743465600^3608310^Cottonville Demo
+1743465600^3613850^Dungeon Mori Demo
+1743465600^3614280^Magic World Demo
+1743465600^3614290^Liminal City: Axiom of Maria - Chapter One Demo
+1743465600^3627470^Dark Adelita Demo
+1743465600^3629510^Fish Chips and Bombs Demo
+1743465600^3629960^El gaucho Martín Fierro Demo
+1743552000^3480300^Firepower Suppression Demo
+1743552000^3595300^Galago Demo
+1743552000^3615090^Vextorial Demo
+1743552000^3620660^Retro Rugby Demo
