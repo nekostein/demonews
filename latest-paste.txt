@@ -1,12 +1,27 @@
-1744675200^3280530^Space Chef Demo
-1744675200^3461310^歸宿之國1 Demo
-1744675200^3484760^My First Convention Is A Trap Demo
-1744675200^3508680^Retro Relics Demo
-1744675200^3522000^Theta and Paralldoxs on Worldlines Demo
-1744675200^3530720^Hidden Anime Girls Demo
-1744675200^3564940^The Fallow City Demo
-1744675200^3598660^Chaos Classroom Demo
-1744675200^3649630^Tale of Honor Demo
-1744675200^3651390^幸福惊喜后花园 Demo
-1744675200^3654870^Mech Assembler: Model Kit Simulator Demo
-1744675200^3663780^Reposition Defense Demo
+1744934400^3583730^叛逆の守護者 Demo
+1744934400^3588640^Celestial Sokoban Demo
+1744934400^3612860^Twist of Light Demo
+1744934400^3622020^Sound of Summer Thunder: Day 1 Demo
+1744934400^3626850^Sucronomicon Demo
+1744934400^3630440^Fred Johnson's: Mech Simulator Demo
+1744934400^3637140^星星之火 Demo
+1744934400^3638810^拭墓以待 OH？ME Demo
+1744934400^3642070^Lilith's Game Demo
+1744934400^3646370^Climbing Chaos Demo
+1744934400^3652880^Shobatsu Demo
+1744934400^3655320^Fire at Campsite Demo
+1744934400^3656250^Storytime Cats - Meows and Mistletoes Demo
+1744934400^3664140^The Room Stalker: Room One
+1744934400^3664180^Spinner Demo
+1744934400^3666150^Convalescent Codex: An Alchemist's Story Demo
+1744934400^3667190^VR Hentai MMA Demo
+1744934400^3667450^PalWar Demo
+1744934400^3668100^The Airflow Trials Demo
+1744934400^3671810^S.S.C. Rusted Demo
+1744934400^3671870^欢乐水族馆 Demo
+1744934400^3673760^Undefined Game Pack Demo
+1745020800^3410270^Cerulean Invasion Demo
+1745020800^3646580^Devil Spire Falls Demo
+1745020800^3661720^Ragdoll Boxing Multiplayer Demo
+1745020800^3661920^Isekai Adventurer Guild Demo
+1745020800^3667650^Little Fish Seek To Live On Demo

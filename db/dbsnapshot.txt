@@ -1,3 +1,30 @@
+1745020800^3667650^Little Fish Seek To Live On Demo
+1745020800^3661920^Isekai Adventurer Guild Demo
+1745020800^3661720^Ragdoll Boxing Multiplayer Demo
+1745020800^3646580^Devil Spire Falls Demo
+1745020800^3410270^Cerulean Invasion Demo
+1744934400^3673760^Undefined Game Pack Demo
+1744934400^3671870^欢乐水族馆 Demo
+1744934400^3671810^S.S.C. Rusted Demo
+1744934400^3668100^The Airflow Trials Demo
+1744934400^3667450^PalWar Demo
+1744934400^3667190^VR Hentai MMA Demo
+1744934400^3666150^Convalescent Codex: An Alchemist's Story Demo
+1744934400^3664180^Spinner Demo
+1744934400^3664140^The Room Stalker: Room One
+1744934400^3656250^Storytime Cats - Meows and Mistletoes Demo
+1744934400^3655320^Fire at Campsite Demo
+1744934400^3652880^Shobatsu Demo
+1744934400^3646370^Climbing Chaos Demo
+1744934400^3642070^Lilith's Game Demo
+1744934400^3638810^拭墓以待 OH？ME Demo
+1744934400^3637140^星星之火 Demo
+1744934400^3630440^Fred Johnson's: Mech Simulator Demo
+1744934400^3626850^Sucronomicon Demo
+1744934400^3622020^Sound of Summer Thunder: Day 1 Demo
+1744934400^3612860^Twist of Light Demo
+1744934400^3588640^Celestial Sokoban Demo
+1744934400^3583730^叛逆の守護者 Demo
 1744675200^3663780^Reposition Defense Demo
 1744675200^3654870^Mech Assembler: Model Kit Simulator Demo
 1744675200^3651390^幸福惊喜后花园 Demo
@@ -71,30 +98,3 @@
 1742428800^3597490^Cute Patoots Demo
 1742428800^3597460^Business Empire - Online Board Game Demo
 1742428800^3595840^Uppercute Demo
-1742428800^3594010^Stunt Bike Extreme Demo
-1742428800^3592810^LOCURA Demo
-1742256000^3594710^GERINGI Demo
-1742256000^3586080^Learn Japanese Kana & Vocab with Sushi Demo
-1742256000^3570240^Ved : Journey Beyond the Cube Demo
-1742256000^3566370^μ of the M World 体験版
-1742256000^3553450^Automatic Kingdom Demo
-1742256000^3549680^Fairysite Demo
-1742169600^3579440^Time to Escape Demo
-1742169600^3538410^Deathly Reprieve Demo
-1742169600^3528690^Spin the Fire Demo
-1741737600^3579660^Knob Demo
-1741651200^3579260^Grill'd: The Vanishing Demo
-1741651200^3567950^Rainbow Cloud: A GAY RPG Demo
-1741651200^3548780^Gobocore: Goblin Rescue Squad Autobattler Demo
-1741651200^3547700^Reckless Drive Demo
-1741651200^3510670^Plant Nursery Simulator Demo
-1741305600^3538870^Universal Power-Blade of Persia Demo
-1741305600^3530590^DR.ROBERT'S CLINIC Demo
-1741305600^3482570^My Sleeping Girlfriend Demo
-1741305600^3279910^Ascend to ZERO Demo
-1740873600^3497460^Pitu Demo
-1740873600^3331410^Simple Clicker Demo
-1740787200^3550760^Finding Pots & Pets Demo
-1740787200^3498870^Memory of Lust Demo
-1740787200^3433560^Jump & Hook Demo
-1740700800^3552540^Neon D-Fence Remaster Demo
