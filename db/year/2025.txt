@@ -292,3 +292,16 @@
 1745020800^3661720^Ragdoll Boxing Multiplayer Demo
 1745020800^3661920^Isekai Adventurer Guild Demo
 1745020800^3667650^Little Fish Seek To Live On Demo
+1745280000^3449620^Funguys Swarm Demo
+1745280000^3509210^Odin's Defense Demo
+1745280000^3547600^Tombwater Demo
+1745280000^3596830^숨 Demo
+1745280000^3623320^Blind Touch Demo
+1745280000^3637750^Galactic Plague 2000 Demo
+1745280000^3647970^MindKatt First Strike Demo
+1745280000^3649360^Moon Maiden: Terror on Planet X Demo
+1745280000^3651590^void future Demo
+1745280000^3658070^Mara Demo
+1745280000^3668390^HONORLESS! Demo
+1745280000^3668610^​Shattered Lands (破碎之地) Demo
+1745280000^3679200^Maya Steps Out Demo
