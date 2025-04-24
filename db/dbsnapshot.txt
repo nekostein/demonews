@@ -1,3 +1,15 @@
+1745452800^3692080^月光旅人 Demo
+1745452800^3685150^Minute Man Demo
+1745452800^3681440^Sala de Juegos 3D Demo
+1745452800^3679120^Metal Coffin Demo
+1745452800^3677810^Brain Escape - Demo
+1745452800^3675410^Baby Kings Demo
+1745452800^3667940^Silver Blade of Gods' End Demo
+1745452800^3656830^Toy Escape: Free Sample
+1745452800^3656620^Aircraft Evolution Demo
+1745452800^3650530^Port Shipping Tycoon Demo
+1745452800^3610670^Chess Bulk Demo
+1745452800^3420580^Dorm Janitor's Revenge (Demo)
 1745280000^3679200^Maya Steps Out Demo
 1745280000^3668610^​Shattered Lands (破碎之地) Demo
 1745280000^3668390^HONORLESS! Demo
@@ -86,15 +98,3 @@
 1743465600^3629960^El gaucho Martín Fierro Demo
 1743465600^3629510^Fish Chips and Bombs Demo
 1743465600^3627470^Dark Adelita Demo
-1743465600^3614290^Liminal City: Axiom of Maria - Chapter One Demo
-1743465600^3614280^Magic World Demo
-1743465600^3613850^Dungeon Mori Demo
-1743465600^3608310^Cottonville Demo
-1743465600^3607200^Stu the fisherman Demo
-1743465600^3588710^Megamelon: Suika Beach Demo
-1743465600^3575470^CoreRunner Demo
-1742515200^3600850^고트 서바이버 Demo
-1742515200^3588890^感染½ INFECT½ Demo
-1742515200^3573610^Path of the Ory Demo
-1742515200^3567630^Tile Blocks Demo
-1742515200^3559610^Monster Girl Jungle Demo
