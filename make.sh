@@ -17,13 +17,13 @@ title = "%s"\n' "$(cut -d^ -f1 <<< "$line")" "$(cut -d^ -f2 <<< "$line")" "$(cut
         ;;
     r | recv)
         xclip -selection clipboard -o | sort -u > latest-paste.txt
-        ./make.sh build
+        ./make.sh build || exit 1
         ;;
     b | build )
-        bash sh/importer.sh
-        bash sh/appenddb.sh
-        bash sh/minilatest.sh
-        bash sh/sitebuild.sh
+        bash sh/importer.sh || exit 1
+        bash sh/appenddb.sh || exit 1
+        bash sh/minilatest.sh || exit 1
+        bash sh/sitebuild.sh || exit 1
         ;;
     sb | sitebuild)
         bash sh/sitebuild.sh
@@ -33,7 +33,7 @@ title = "%s"\n' "$(cut -d^ -f1 <<< "$line")" "$(cut -d^ -f2 <<< "$line")" "$(cut
         wrangler pages deploy wwwdist --project-name="demonews" --commit-dirty=true --branch=master && printf "Upload finished\n\n"
         ;;
     rrr )
-        ./make.sh r
-        ./make.sh cf
+        ./make.sh r &&
+        ./make.sh cf || exit 1
         ;;
 esac
