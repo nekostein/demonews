@@ -1,17 +1,39 @@
-1747353600^3003710^Global Magnates: Shipping Tycoon Demo
-1747353600^3125950^Foodomina Demo
-1747353600^3615140^Titans of the Past Demo
-1747353600^3638940^やがて散りゆく鏡の花へ Demo
-1747353600^3669090^Post-Speed Demo
-1747353600^3671560^リンネテンジョウ Demo
-1747353600^3671950^Our Journey Demo
-1747353600^3672880^與我簽約吧！~愛與夢想的主旋律~ Demo
-1747353600^3689970^Bait Soul Demo
+1747353600^3697000^Steel Carnelian Demo
 1747353600^3698210^Tri Survive Demo
+1747353600^3699880^Halftime Adventures Demo
 1747353600^3700320^Mystic Cleaver Demo
+1747353600^3702210^Camp Keepalive: Endless Summer Demo
+1747353600^3704410^Necrosis: Dawn of Dread Demo
+1747353600^3706840^Grappling Bagel Demo
+1747353600^3713700^Find or be Found Demo
+1747353600^3713960^Santherya Uprising Demo
+1747353600^3714910^Ludaro Demo
 1747353600^3717680^Ribbit Up: Frog Climber Demo
 1747353600^3720130^TAKE THEM DOWN Demo
 1747353600^3722730^Teddy Knight Demo
+1747353600^3723190^Slime Store Simulator Demo
 1747353600^3723460^万兽天工 Demo
+1747353600^3730320^Match Shot Chimera Demo
+1747353600^3730390^It Happened At Night - A New Nightmare Demo
 1747353600^3732230^CloserLook VR: Oldways Demo
+1747353600^3736870^Alien Battle Champions Demo
+1747353600^3738590^Save Your Soul Demo
+1747353600^3740330^Core Tycoon Demo
 1747353600^3740700^Snackroach Demo
+1747353600^3741230^No Rest for the Weary Demo
+1747353600^3744000^Steal The Pig Demo
+1747440000^3319560^Bofyne Unit: The Omega Contract Demo
+1747440000^3456330^RogueJack21 Demo
+1747440000^3554970^DODORI Demo
+1747440000^3651650^Falling Stars... and other celestial objects Demo
+1747440000^3667290^Lap of the Gods: A Visual Novel Demo
+1747440000^3697810^帝国游戏 ( 3586250 ) Demo
+1747440000^3712410^Grumpy Jack Demo
+1747440000^3717120^Sweepin' XS Demo
+1747440000^3728110^The Triminals-三终罪 Demo
+1747440000^3732240^Dark Cage1：Reincarnation For Salvation Demo
+1747440000^3738490^Apocalypse of the Universe Demo
+1747440000^3741550^NUSNUR Demo
+1747440000^3741660^Aslimelate Demo
+1747440000^3745580^Hardstrike: The Fall Demo
+1747440000^3749360^Operation: Followthrough Demo
