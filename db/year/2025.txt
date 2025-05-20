@@ -401,3 +401,29 @@
 1747440000^3741660^Aslimelate Demo
 1747440000^3745580^Hardstrike: The Fall Demo
 1747440000^3749360^Operation: Followthrough Demo
+1747612800^3714880^P.A.C.K. :: Post Apocalyptic Cleaning Kit Demo
+1747612800^3718310^TASU Bowl Demo
+1747612800^3722750^Pluralys (demo)
+1747612800^3728360^Grim-chan's Soul Fight Demo
+1747612800^3731780^DOORKA Demo
+1747612800^3733530^Land of Anima: The Research of Artificer Demo
+1747612800^3738780^3D Escape Room：Mystic Manor Demo
+1747612800^3740260^Growmancer Demo
+1747612800^3741620^Scour Demo
+1747612800^3744160^Racket Pinball Demo
+1747612800^3746770^Negative Space Demo
+1747699200^3538830^Galactic Simulator2: Demo
+1747699200^3540290^Monmusu Paradise ~Visitors~ Demo
+1747699200^3576730^Puffin Parcel Post Demo
+1747699200^3603620^Whisker Wanderlust Demo
+1747699200^3621030^The Oily Depths Demo
+1747699200^3635650^Forsaken Valley Demo
+1747699200^3653950^The Biggleboss Incident Demo
+1747699200^3657280^Antioma Demo
+1747699200^3673930^Saqer's Paradox - Promo
+1747699200^3716500^The Mystical Traveler Demo
+1747699200^3735610^Knight Lolita Demo
+1747699200^3736920^Bus Flipper Simulator Demo
+1747699200^3741690^Starbright Agency Demo
+1747699200^3745440^Find Cats 5 天使猫 Demo
+1747699200^3745550^午夜濒临MidnightNears Demo

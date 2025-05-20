@@ -1,39 +1,26 @@
-1747353600^3697000^Steel Carnelian Demo
-1747353600^3698210^Tri Survive Demo
-1747353600^3699880^Halftime Adventures Demo
-1747353600^3700320^Mystic Cleaver Demo
-1747353600^3702210^Camp Keepalive: Endless Summer Demo
-1747353600^3704410^Necrosis: Dawn of Dread Demo
-1747353600^3706840^Grappling Bagel Demo
-1747353600^3713700^Find or be Found Demo
-1747353600^3713960^Santherya Uprising Demo
-1747353600^3714910^Ludaro Demo
-1747353600^3717680^Ribbit Up: Frog Climber Demo
-1747353600^3720130^TAKE THEM DOWN Demo
-1747353600^3722730^Teddy Knight Demo
-1747353600^3723190^Slime Store Simulator Demo
-1747353600^3723460^万兽天工 Demo
-1747353600^3730320^Match Shot Chimera Demo
-1747353600^3730390^It Happened At Night - A New Nightmare Demo
-1747353600^3732230^CloserLook VR: Oldways Demo
-1747353600^3736870^Alien Battle Champions Demo
-1747353600^3738590^Save Your Soul Demo
-1747353600^3740330^Core Tycoon Demo
-1747353600^3740700^Snackroach Demo
-1747353600^3741230^No Rest for the Weary Demo
-1747353600^3744000^Steal The Pig Demo
-1747440000^3319560^Bofyne Unit: The Omega Contract Demo
-1747440000^3456330^RogueJack21 Demo
-1747440000^3554970^DODORI Demo
-1747440000^3651650^Falling Stars... and other celestial objects Demo
-1747440000^3667290^Lap of the Gods: A Visual Novel Demo
-1747440000^3697810^帝国游戏 ( 3586250 ) Demo
-1747440000^3712410^Grumpy Jack Demo
-1747440000^3717120^Sweepin' XS Demo
-1747440000^3728110^The Triminals-三终罪 Demo
-1747440000^3732240^Dark Cage1：Reincarnation For Salvation Demo
-1747440000^3738490^Apocalypse of the Universe Demo
-1747440000^3741550^NUSNUR Demo
-1747440000^3741660^Aslimelate Demo
-1747440000^3745580^Hardstrike: The Fall Demo
-1747440000^3749360^Operation: Followthrough Demo
+1747612800^3714880^P.A.C.K. :: Post Apocalyptic Cleaning Kit Demo
+1747612800^3718310^TASU Bowl Demo
+1747612800^3722750^Pluralys (demo)
+1747612800^3728360^Grim-chan's Soul Fight Demo
+1747612800^3731780^DOORKA Demo
+1747612800^3733530^Land of Anima: The Research of Artificer Demo
+1747612800^3738780^3D Escape Room：Mystic Manor Demo
+1747612800^3740260^Growmancer Demo
+1747612800^3741620^Scour Demo
+1747612800^3744160^Racket Pinball Demo
+1747612800^3746770^Negative Space Demo
+1747699200^3538830^Galactic Simulator2: Demo
+1747699200^3540290^Monmusu Paradise ~Visitors~ Demo
+1747699200^3576730^Puffin Parcel Post Demo
+1747699200^3603620^Whisker Wanderlust Demo
+1747699200^3621030^The Oily Depths Demo
+1747699200^3635650^Forsaken Valley Demo
+1747699200^3653950^The Biggleboss Incident Demo
+1747699200^3657280^Antioma Demo
+1747699200^3673930^Saqer's Paradox - Promo
+1747699200^3716500^The Mystical Traveler Demo
+1747699200^3735610^Knight Lolita Demo
+1747699200^3736920^Bus Flipper Simulator Demo
+1747699200^3741690^Starbright Agency Demo
+1747699200^3745440^Find Cats 5 天使猫 Demo
+1747699200^3745550^午夜濒临MidnightNears Demo
