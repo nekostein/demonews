@@ -528,3 +528,45 @@
 1748476800^3774750^Aftershock Demo
 1748476800^3775630^Astral Pursuit Demo
 1748476800^3777770^VertiGhoul Demo
+1748649600^3595290^Airplane Racing Championship Demo
+1748649600^3597230^Astral Dusk Demo
+1748649600^3642240^Tactical Annihilation Demo
+1748649600^3671440^Taiwan Coolfox Demo
+1748649600^3685960^Re:LeAP-future city and futureless demo
+1748649600^3690070^Black Hole Fishing Demo
+1748649600^3695460^摸鱼仙村 Demo
+1748649600^3721010^Animal Hearts: A Card Quest Demo
+1748649600^3721260^Project SARA Demo
+1748649600^3721390^Hellkeeper Demo
+1748649600^3722370^BannerBound Demo
+1748649600^3748130^Troop vs Troop Demo
+1748649600^3749810^Rogue Shapes Demo
+1748649600^3751130^Forepaper Engine Demo
+1748649600^3755150^FISHTOPIA 深海物语 Demo
+1748649600^3764020^Parable Academy Demo
+1748649600^3764690^Downmouse Demo
+1748649600^3769000^Sophie in the Tangled World Demo
+1748649600^3769190^The Old One Demo
+1748649600^3769630^My Demon Family Demo
+1748649600^3772200^16 Cyber-Personalities: Survivors Demo
+1748649600^3774580^Smasher Demo
+1748649600^3774750^Aftershock Demo
+1748649600^3775250^Fluffy Memories Demo
+1748649600^3775910^The Last Squad: Demo
+1748649600^3776270^This Ship Goes Brrr Demo
+1748649600^3777570^Fatal Gaming Demo
+1748649600^3780400^Lia: Hacking Destiny Demo
+1748649600^3781120^Concerto on White: Cajon Story Demo
+1748649600^3782010^Underside: The Lift Demo
+1748649600^3784050^Atlas Hands Demo
+1748736000^3218650^Rest in Peace Demo
+1748736000^3331700^Gifted: The Tombs Demo
+1748736000^3705660^Assassins Arena Demo
+1748736000^3712260^Stalked At Home Demo
+1748736000^3735660^Time in Place Demo
+1748736000^3743310^FoxyTrouble Demo
+1748736000^3750700^Glow Cubes Demo
+1748736000^3756390^The Czar is Dead 2 Demo
+1748736000^3759010^海鸥岛 Demo
+1748736000^3759120^Star Mining Co. Demo
+1748736000^3781290^宿命倒影：科通乌警部疑案 Demo
