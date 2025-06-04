@@ -570,3 +570,46 @@
 1748736000^3759010^海鸥岛 Demo
 1748736000^3759120^Star Mining Co. Demo
 1748736000^3781290^宿命倒影：科通乌警部疑案 Demo
+1748908800^3783940^Cosmic Miners Demo
+1748908800^3785430^Bojan Demo
+1748908800^3787550^Shuttered Demo
+1748908800^3787680^Shuffles 'n Scuffles Demo
+1748908800^3787920^Livber: Smoke and Mirrors Demo
+1748995200^2170110^Vessels Of Decay Demo
+1748995200^2985630^Revelation of Decay Demo
+1748995200^3286900^Blue Bird's Song Demo
+1748995200^3496520^MIO: Memories in Orbit Demo
+1748995200^3539000^Friday Night Demo
+1748995200^3549240^Etiquette Elegance Demo
+1748995200^3601540^Arcade Management Simulator Demo
+1748995200^3617790^DUNGEON!: Order of the Raven Demo
+1748995200^3618220^Gun Center Simulator Demo
+1748995200^3650930^Plus Ultra: Legado Demo
+1748995200^3660490^Look Mum No Computer Demo
+1748995200^3664130^Beebo & Luna Demo
+1748995200^3678660^Paper dance Engine Demo
+1748995200^3690070^Black Hole Fishing Demo
+1748995200^3699470^早洩外甥與性冷感阿姨—肉體交換物語～ Demo
+1748995200^3726130^Bridge Constructor Studio Demo
+1748995200^3729870^Little Rocket Lab Demo
+1748995200^3732460^Ghost Town Demo
+1748995200^3739800^Cyber Farmer Demo
+1748995200^3741710^Honest Helper Demo
+1748995200^3748260^Legends of Gems Demo
+1748995200^3757910^Chico's Rebound Demo
+1748995200^3759250^Dungeons of Uhr Demo
+1748995200^3764720^Coffie Simulator Demo
+1748995200^3765620^Rocket Automashapes Demo
+1748995200^3768710^Emergent Magic Demo
+1748995200^3770110^Naughty Demo
+1748995200^3770410^Bloodplague Lockdown Demo
+1748995200^3771990^你是情圣 Demo
+1748995200^3772360^Game of Fitna Demo
+1748995200^3772380^Tales of Klodan Demo
+1748995200^3774710^Cal & Bomba Demo
+1748995200^3775820^Anatomy of the Terrible Demo
+1748995200^3777760^Jurnal Risa: Dark Destiny Demo
+1748995200^3777800^ASPIS Demo
+1748995200^3782440^Void Protocol Demo
+1748995200^3787950^DRAW WORLD Demo
+1748995200^3789110^Dissolved - Chapter One Demo
