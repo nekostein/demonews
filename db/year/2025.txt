@@ -724,3 +724,14 @@
 1750377600^3821930^Joe and the lost pixels Demo
 1750377600^3823070^Bleeping Spaceships Demo
 1750377600^3824540^TIME COWBOY Demo
+1750896000^3768940^Belle Citique Demo
+1750896000^3813220^Dice & War Demo
+1750896000^3814330^重塑文明 Rebuilding Civilization Demo
+1750896000^3816370^Final Notice Demo
+1750896000^3819900^Shadows in the Silence Demo
+1750896000^3820690^Touhou Iyuushou ~ What the Bullet Hell?! Demo
+1750896000^3821220^Pizzy6 Demo
+1750896000^3822470^Oniria Demo
+1750896000^3830100^Quest for the Albatross Demo
+1750896000^3834310^Guitarist's Reference Demo
+1750896000^3834560^Suika Puffworks Demo
