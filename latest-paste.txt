@@ -1,20 +1,13 @@
-1751932800^3831280^Restaurats Demo
-1751932800^3839480^Awurda First Wave Demo
-1751932800^3843160^GAME GARDEN Demo
-1751932800^3846000^Wind Tunnel Simulator Demo
-1751932800^3848480^Tosbik Around The World Demo
-1751932800^3850080^Urban Supermarket Simulator Demo
-1751932800^3854370^Sink And Score Demo
-1751932800^3856070^1931-1945: Their Childhood - Tunnel Warfare/地道战 Demo
-1751932800^3859680^Mad Carnival Demo
-1752019200^3074960^Gladiato Potato Demo
-1752019200^3151470^Spring Escape Deep Down Demo
-1752019200^3420900^Lordship Demo
-1752019200^3613160^Questy Chess Demo
-1752019200^3703980^Missile Gene Demo
-1752019200^3719090^Price of Obsession Demo
-1752019200^3813500^It's OK to Fail Demo
-1752019200^3814600^MIX IT! RELOADED Demo
-1752019200^3843840^Cry from the Abyss Demo
-1752019200^3853010^FantasyJourneyDemo
-1752019200^3854100^Motion Wulin Demo
+1752364800^3795280^Labyrinth Sword Princess Demo
+1752364800^3836920^漂游记 A Ghost Journey Demo
+1752364800^3852710^WISH WITCH Demo
+1752364800^3856230^Lost Eclipse Investigation Demo
+1752364800^3862600^Bonaparte's Bluff Demo
+1752364800^3862720^Deadliest Pigeon Demo
+1752364800^3871710^The Hollow Lighthouse Demo
+1752451200^3641970^终曲。 Demo
+1752451200^3682990^Glintland Demo
+1752451200^3806720^Hue Hooligans - Demo Tape
+1752451200^3821300^Robbing Time Demo
+1752451200^3854320^Ms Vampire Love to Date with Me Demo
+1752451200^3867310^Presidential Psychologist Demo
