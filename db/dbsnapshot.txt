@@ -1,3 +1,25 @@
+1752883200^3878920^ToneTrek Demo
+1752883200^3878530^Work In Progress Demo
+1752883200^3877710^Mumu's Soup Adventure SAMSARA Demo
+1752883200^3877550^Thief's Adventure Demo
+1752883200^3849360^世界毁灭七天前 Demo
+1752883200^3848550^Save Granny Demo
+1752883200^3843480^Touhou Rinrinki ~ Crafts of the Lucky Beast (Demo)
+1752883200^3839940^The Silent Jungle Demo
+1752883200^3821480^CUBESCAPE Demo
+1752883200^3804720^My Tiny Garden Demo
+1752796800^3887310^Jurassic Parkour Demo
+1752796800^3881880^Solar Nations 2 Demo
+1752796800^3876480^Fortress Frenzy Demo
+1752796800^3874900^初遇时 Demo
+1752796800^3874730^Survive Society Demo
+1752796800^3874310^Aylin: The Story of Tom Demo
+1752796800^3870110^Consonance Demo
+1752796800^3861390^Puzzle Milk Tea Demo
+1752796800^3861320^阿可 & 小白 2 (DEMO)
+1752796800^3859200^A Tale of Dirty Whiskers Demo
+1752796800^3855610^Perception: Heart and Mind Demo
+1752796800^3850050^Diceeee Demoooo
 1752451200^3867310^Presidential Psychologist Demo
 1752451200^3854320^Ms Vampire Love to Date with Me Demo
 1752451200^3821300^Robbing Time Demo
@@ -76,25 +98,3 @@
 1750896000^3834560^Suika Puffworks Demo
 1750896000^3834310^Guitarist's Reference Demo
 1750896000^3830100^Quest for the Albatross Demo
-1750896000^3822470^Oniria Demo
-1750896000^3821220^Pizzy6 Demo
-1750896000^3820690^Touhou Iyuushou ~ What the Bullet Hell?! Demo
-1750896000^3819900^Shadows in the Silence Demo
-1750896000^3816370^Final Notice Demo
-1750896000^3814330^重塑文明 Rebuilding Civilization Demo
-1750896000^3813220^Dice & War Demo
-1750896000^3768940^Belle Citique Demo
-1750377600^3824540^TIME COWBOY Demo
-1750377600^3823070^Bleeping Spaceships Demo
-1750377600^3821930^Joe and the lost pixels Demo
-1750377600^3821490^Magical Girl Fist Fight Demo
-1750377600^3820150^Spinner: Rogueblade Demo
-1750377600^3818790^Cat Nap Demo
-1750377600^3814920^Fishing Shop Simulator Demo
-1750377600^3813560^Undead: Rise of Betrayed King Demo
-1750377600^3809210^Drop Point Demo
-1750377600^3808330^Hydroplane Demo
-1750377600^3806410^Chef's Journey Demo
-1750377600^3804450^Stellar Wings Demo
-1750377600^3800600^Canvas Infernum Demo
-1750377600^3790490^Silence Forest Demo
