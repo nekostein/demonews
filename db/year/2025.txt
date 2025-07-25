@@ -852,3 +852,20 @@
 1753228800^3896140^Blightened Demo
 1753228800^3897580^Not The End Demo
 1753228800^3898720^Objective:F.E.A.S.T Demo
+1753401600^3779620^Rivals Hover League Demo
+1753401600^3804340^Adrenaline Overdrive Demo
+1753401600^3832220^Earth vs Mars Demo
+1753401600^3832340^好想躺平啊，但是 Demo
+1753401600^3839120^Rubble Eats The World Demo
+1753401600^3860400^Hell Builder Demo
+1753401600^3863930^RLLL: Tower of Choices Demo
+1753401600^3873180^Петя и Волк: дело об артефакте Demo
+1753401600^3886750^Tankenstein Demo
+1753401600^3888980^HexBrandPre Demo
+1753401600^3889730^Build A Bot Demo
+1753401600^3895860^Forklift Fury (Demo)
+1753401600^3896740^Demining Demo
+1753401600^3899100^Vita: The Ember Oracle Demo
+1753401600^3900020^Critical Ops - Dead Zone Demo
+1753401600^3901690^Coup d'Koala Demo
+1753401600^3904240^Vault of Fallen Demo
