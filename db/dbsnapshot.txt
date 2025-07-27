@@ -1,3 +1,20 @@
+1753574400^3901940^Destiny Spire Demo
+1753574400^3899240^Racer Overdrive Demo
+1753574400^3886480^Minefield Fractalis Demo
+1753574400^3886460^Furryville Demo
+1753574400^3880460^永夜的光塔 Dark Grid Demo
+1753574400^3841490^South Words Hero Demo
+1753574400^3839370^전국퇴마사협회 Demo
+1753574400^3836600^Drifters Don't Brake: Midnight Demo
+1753574400^3548740^Swiftrace Canyon Demo
+1753488000^3898960^Desktown Demo
+1753488000^3896490^My Lovely Flower Demo
+1753488000^3895410^Sheep Clicker Royale Demo
+1753488000^3893660^Echoes of the HIve Demo
+1753488000^3849730^Tales of the Withered Demo
+1753488000^3820840^Light Fall - A Clicker RPG Prologue
+1753488000^3521430^Cats & Cups Demo
+1753488000^3183070^Considerable Grandfather Demo
 1753401600^3904240^Vault of Fallen Demo
 1753401600^3901690^Coup d'Koala Demo
 1753401600^3900020^Critical Ops - Dead Zone Demo
@@ -81,20 +98,3 @@
 1752019200^3420900^Lordship Demo
 1752019200^3151470^Spring Escape Deep Down Demo
 1752019200^3074960^Gladiato Potato Demo
-1751932800^3859680^Mad Carnival Demo
-1751932800^3856070^1931-1945: Their Childhood - Tunnel Warfare/地道战 Demo
-1751932800^3854370^Sink And Score Demo
-1751932800^3850080^Urban Supermarket Simulator Demo
-1751932800^3848480^Tosbik Around The World Demo
-1751932800^3846000^Wind Tunnel Simulator Demo
-1751932800^3843160^GAME GARDEN Demo
-1751932800^3839480^Awurda First Wave Demo
-1751932800^3831280^Restaurats Demo
-1751846400^3849500^E9uations Demo
-1751846400^3841020^Snail Mail Demo
-1751846400^3835820^HARBINGER - Legacy Edition "Single Dose" Demo
-1751846400^3831830^Doomriderz (DEMO)
-1751846400^3812500^Profana Demo
-1751846400^3795440^Paper Wars Demo
-1751846400^3791440^The Lists VR Demo
-1751846400^3773580^Together We Die Demo
