@@ -886,3 +886,19 @@
 1753574400^3886480^Minefield Fractalis Demo
 1753574400^3899240^Racer Overdrive Demo
 1753574400^3901940^Destiny Spire Demo
+1753747200^3485450^The Serpent and the Crow Demo
+1753747200^3492210^Legion Was Here Demo
+1753747200^3661730^The E-Collector Demo
+1753747200^3738600^Memoria Wake Demo
+1753747200^3815270^Tezzel: The Tilemaker's Tale Demo
+1753747200^3820310^亘山洄（GEN-ABYSS）Demo
+1753747200^3861570^Wima Magicamia -Cute Girls Magic Battle 3DTPS Ep-1- Demo
+1753747200^3870390^萌宠桌面大冒险 Demo
+1753747200^3873410^东方绮樱绘 ～ categorical imperative valid? Demo
+1753747200^3877490^Monitoring All Night Demo
+1753747200^3879080^Parámetro Zero: Calígine (Demo)
+1753747200^3882720^Vision Twist Demo
+1753747200^3896450^Nezori Demo
+1753747200^3898770^春日冬青demo
+1753747200^3906210^Deep Space Corridor
+1753747200^3909440^潜鸭杰米 Demo
