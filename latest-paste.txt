@@ -1,15 +1,13 @@
-1753747200^3909440^潜鸭杰米 Demo
-1753747200^3909820^Dead Beyond Demo
-1753747200^3910520^Psebay Demo
-1753833600^3795930^The Roast: Coffee Shop Simulator - Prologue
-1753833600^3836320^Extinction Day Demo
-1753833600^3850060^Polygon War Demo
-1753833600^3862780^Retail Simulator Demo
-1753833600^3866470^Table Tactics Demo
-1753833600^3873090^The Abbess Garden Demo
-1753833600^3874700^妖恋西游 Demo
-1753833600^3881850^We who rise Demo
-1753833600^3885380^BODYguard: CellWars Demo
-1753833600^3901500^A Pirate Game About Digging For Treasure And Getting Drunk Demo
-1753833600^3909460^木积 Demo
-1753833600^3909880^Junkyard Universe Demo
+1753920000^3792910^Be the Sword Demo
+1753920000^3830390^Merge Match March Demo
+1753920000^3848140^鱼自会上钩 Demo
+1753920000^3849590^The Left Eye Demo
+1753920000^3873050^Kick and Hide Demo
+1753920000^3875800^Akashic Slingshot Demo
+1753920000^3878210^CastleOn Demo
+1753920000^3880200^Echoes in the Storm Demo
+1753920000^3883000^ZOOM Demo
+1753920000^3891390^Raidbound Demo
+1753920000^3897780^Barty's Adventure Demo
+1753920000^3912390^No Food? Demo
+1753920000^3915100^Evil Superhero Simulator Demo
