@@ -1,24 +1,22 @@
-1754352000^3443810^Dokkalfar: Demo
-1754352000^3492100^MARS: The Last Exodus Demo
-1754352000^3673040^Zomb Zerro - 999 Demo
-1754352000^3749150^Hex Love Demo
-1754352000^3857360^LenscraftCube 相机方块 Demo
-1754352000^3892990^Little Corners Demo
-1754352000^3897860^Survivors Last Stand Demo
-1754352000^3899790^Filthium Zero Demo
-1754352000^3906980^Ignarus Demo
-1754352000^3914010^Sketchy Driver Demo
-1754352000^3916820^Last Wave Demo
-1754352000^3919560^Calamity Beta
-1754352000^3920060^Cozy Crunch Demo
-1754352000^3921080^Lethal Dungeon Demo
-1754352000^3923860^Street Fight Club Simulator Demo
-1754352000^3925090^VHS Bodycam Demo
-1754352000^3926120^同桌！我喜欢你Lovely Deskmate, Lovely Life Demo
-1754352000^3927160^Moth Ma'am Demo
-1754352000^3927460^Motorcycle Ride: Infinity Demo
-1754352000^3928130^Synthrun Demo
-1754438400^3268620^Repterra Demo
-1754438400^3803120^DWARRF: A Pinball Roguelike Demo
-1754438400^3884420^DinoGORE Demo
-1754438400^3891050^LingTian2: Your Destined Prince Demo
+1754611200^3513880^{ v e l o c i t y } Demo
+1754611200^3841030^Once Upon A Kingdom Demo
+1754611200^3905560^LightSouls Demo
+1754611200^3925910^Stackflow Demo
+1754697600^1320640^Dunar: Dimension Two Demo
+1754697600^3887930^Fortified Space Demo
+1754697600^3891070^Omega Protocol Demo
+1754697600^3899830^Demonic Demo
+1754697600^3906940^刻痕之屿：暖洋上的遗孤 Demo
+1754697600^3922660^DAMN Gravity! Demo
+1754697600^3922720^Eternal Survival Demo
+1754697600^3927880^Manga Ninja Demo
+1754697600^3932810^The Jester and the Madman Demo
+1754784000^2774340^Echoes of Nocturnal Chords 夜弦之音 Demo
+1754784000^3822410^Norn's Dine Demo
+1754784000^3832750^Guns&Sodas Demo
+1754784000^3894510^落雨之后 After the Rain Demo
+1754784000^3900510^Cloak And Coin Demo
+1754784000^3905420^Ascention Suvivor Demo
+1754784000^3906630^My Furry Puzzle Demo
+1754784000^3917040^SkyRunner Demo
+1754784000^3939050^The Last Purge Demo
