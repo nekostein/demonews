@@ -1,22 +1,24 @@
-1754611200^3513880^{ v e l o c i t y } Demo
-1754611200^3841030^Once Upon A Kingdom Demo
-1754611200^3905560^LightSouls Demo
-1754611200^3925910^Stackflow Demo
-1754697600^1320640^Dunar: Dimension Two Demo
-1754697600^3887930^Fortified Space Demo
-1754697600^3891070^Omega Protocol Demo
-1754697600^3899830^Demonic Demo
-1754697600^3906940^刻痕之屿：暖洋上的遗孤 Demo
-1754697600^3922660^DAMN Gravity! Demo
-1754697600^3922720^Eternal Survival Demo
-1754697600^3927880^Manga Ninja Demo
-1754697600^3932810^The Jester and the Madman Demo
-1754784000^2774340^Echoes of Nocturnal Chords 夜弦之音 Demo
-1754784000^3822410^Norn's Dine Demo
-1754784000^3832750^Guns&Sodas Demo
-1754784000^3894510^落雨之后 After the Rain Demo
-1754784000^3900510^Cloak And Coin Demo
-1754784000^3905420^Ascention Suvivor Demo
-1754784000^3906630^My Furry Puzzle Demo
-1754784000^3917040^SkyRunner Demo
-1754784000^3939050^The Last Purge Demo
+1755561600^3228060^Park Ranger Simulator Demo
+1755561600^3520430^Daemon X Machina: Titanic Scion Demo
+1755561600^3796710^Moose Diver Demo
+1755561600^3838410^DarkSwitch Demo
+1755561600^3903090^Stellar Destiny: The Last Survivor Demo
+1755561600^3911360^Galaxy for Dummies Demo
+1755561600^3920450^Faroda Demo
+1755561600^3949230^Knock On The Occult Door Demo
+1755561600^3955880^DriveWave Demo
+1755561600^3957550^SAVEN Demo
+1755648000^3469440^Vaulting Over It Demo
+1755648000^3706630^命运&通胀 -Fate&Inflation- Demo
+1755648000^3899520^Greta Sees Ghosts! Demo
+1755648000^3900630^Doctor Dreams Simulator Demo
+1755648000^3911960^Dirtzone Demo
+1755648000^3920750^Bubble Gun Demo
+1755648000^3921260^仙之气 Demo
+1755648000^3925290^Late Amusement Demo
+1755648000^3935510^SummonArk -Deck Building Roguelite- Demo
+1755648000^3936180^Mystery Island：Enigmatic Painting Demo
+1755648000^3951030^Return to Trahulara Demo
+1755648000^3954810^DARKODAI Demo
+1755648000^3954840^Luxuriant Demo
+1755648000^3957090^Little Lures Demo
