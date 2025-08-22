@@ -1,24 +1,29 @@
-1755561600^3228060^Park Ranger Simulator Demo
-1755561600^3520430^Daemon X Machina: Titanic Scion Demo
-1755561600^3796710^Moose Diver Demo
-1755561600^3838410^DarkSwitch Demo
-1755561600^3903090^Stellar Destiny: The Last Survivor Demo
-1755561600^3911360^Galaxy for Dummies Demo
-1755561600^3920450^Faroda Demo
-1755561600^3949230^Knock On The Occult Door Demo
-1755561600^3955880^DriveWave Demo
-1755561600^3957550^SAVEN Demo
-1755648000^3469440^Vaulting Over It Demo
-1755648000^3706630^命运&通胀 -Fate&Inflation- Demo
-1755648000^3899520^Greta Sees Ghosts! Demo
-1755648000^3900630^Doctor Dreams Simulator Demo
-1755648000^3911960^Dirtzone Demo
-1755648000^3920750^Bubble Gun Demo
-1755648000^3921260^仙之气 Demo
-1755648000^3925290^Late Amusement Demo
-1755648000^3935510^SummonArk -Deck Building Roguelite- Demo
-1755648000^3936180^Mystery Island：Enigmatic Painting Demo
-1755648000^3951030^Return to Trahulara Demo
-1755648000^3954810^DARKODAI Demo
-1755648000^3954840^Luxuriant Demo
-1755648000^3957090^Little Lures Demo
+1755820800^3365770^Nikoderiko: The Magical World - Director's Cut | Demo
+1755820800^3554160^travis, the frog - demo
+1755820800^3732360^Hoomanz! Demo
+1755820800^3830620^Choco Kiosk Simulator Demo
+1755820800^3832190^DEMONOLITION Demo
+1755820800^3841150^INSIGHT ROOM Demo
+1755820800^3877430^舰魂重构 WarSpirit Recast Demo
+1755820800^3879230^Midnight Study Demo
+1755820800^3898870^Matchuie Demo
+1755820800^3899940^Dont Hang Up ALPHA 1
+1755820800^3900680^The Last Good Boy - Demo
+1755820800^3905060^修真世界 Demo
+1755820800^3914700^Missing Hearts: Багровый круиз Коллекционное издание Demo
+1755820800^3924310^Hello Anxiety Demo
+1755820800^3926380^Quill Greater Than Pistol Demo
+1755820800^3932060^Furball Blitz! : Demo
+1755820800^3948630^Blood Moon Massacre Demo
+1755820800^3950470^UnrealCam Demo
+1755820800^3951860^地下探险者 Cave Explorers Demo
+1755820800^3954910^Guardian Chicken Demo
+1755820800^3956680^Little Chef 2 Demo
+1755820800^3956960^Furniture Restoration Simulator: Garage Edition Demo
+1755820800^3957500^Bloodshot Eyes Demo
+1755820800^3959810^Red Tape Rampage Demo
+1755820800^3962990^Solateria Demo
+1755820800^3965720^Project Kepler: Bomb Delivery Included! - Demo
+1755820800^3968310^Wumbrik Demo
+1755820800^3968560^Fantasy Franchise Demo
+1755820800^3973480^Midnight Murder Maze Demo
