@@ -1,3 +1,7 @@
+1756166400^3976720^Galdia Demo
+1756166400^3971410^Monsters & Magics: Digital Card Game Demo
+1756166400^3931460^Please Push The Button Demo
+1756166400^3832540^Stone 4 Souls Demo
 1755907200^3971760^NetDive Demo
 1755907200^3968960^Sniperbot: The Hype Game Demo
 1755907200^3967830^Dying Reign Demo
@@ -94,7 +98,3 @@
 1754697600^3922660^DAMN Gravity! Demo
 1754697600^3906940^刻痕之屿：暖洋上的遗孤 Demo
 1754697600^3899830^Demonic Demo
-1754697600^3891070^Omega Protocol Demo
-1754697600^3887930^Fortified Space Demo
-1754697600^1320640^Dunar: Dimension Two Demo
-1754611200^3925910^Stackflow Demo

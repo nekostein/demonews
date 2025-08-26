@@ -1056,3 +1056,7 @@
 1755907200^3967830^Dying Reign Demo
 1755907200^3968960^Sniperbot: The Hype Game Demo
 1755907200^3971760^NetDive Demo
+1756166400^3832540^Stone 4 Souls Demo
+1756166400^3931460^Please Push The Button Demo
+1756166400^3971410^Monsters & Magics: Digital Card Game Demo
+1756166400^3976720^Galdia Demo
