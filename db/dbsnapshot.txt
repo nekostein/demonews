@@ -1,3 +1,21 @@
+1756425600^3977370^Don't Let It Starve Demo
+1756425600^3975680^Perfume Atelier Demo
+1756425600^3973910^HyperTyper 2000 Demo
+1756425600^3971790^A Sexy Quiz Show Demo
+1756425600^3967210^我与你共度的七日 Demo
+1756425600^3955810^Power the Future Demo
+1756425600^3955320^Pillar of Salt Demo
+1756425600^3948810^Crystallium Demo
+1756425600^3948720^Sokker Demo
+1756425600^3943780^Vexcell | Demo
+1756425600^3941520^Aim to Capture - Episode One
+1756425600^3936990^Gnomeball Demo
+1756425600^3896550^Brain School Demo
+1756425600^3857710^Lost Soul Aside™ Demo
+1756425600^3839040^Dead Exhale Demo
+1756425600^3838110^哥布林猎人 Demo
+1756425600^3803870^Carefully Stamped Demo
+1756425600^3737470^Vending Machine Co. Demo
 1756166400^3976720^Galdia Demo
 1756166400^3971410^Monsters & Magics: Digital Card Game Demo
 1756166400^3931460^Please Push The Button Demo
@@ -80,21 +98,3 @@
 1755561600^3911360^Galaxy for Dummies Demo
 1755561600^3903090^Stellar Destiny: The Last Survivor Demo
 1755561600^3838410^DarkSwitch Demo
-1755561600^3796710^Moose Diver Demo
-1755561600^3520430^Daemon X Machina: Titanic Scion Demo
-1755561600^3228060^Park Ranger Simulator Demo
-1754784000^3939050^The Last Purge Demo
-1754784000^3917040^SkyRunner Demo
-1754784000^3906630^My Furry Puzzle Demo
-1754784000^3905420^Ascention Suvivor Demo
-1754784000^3900510^Cloak And Coin Demo
-1754784000^3894510^落雨之后 After the Rain Demo
-1754784000^3832750^Guns&Sodas Demo
-1754784000^3822410^Norn's Dine Demo
-1754784000^2774340^Echoes of Nocturnal Chords 夜弦之音 Demo
-1754697600^3932810^The Jester and the Madman Demo
-1754697600^3927880^Manga Ninja Demo
-1754697600^3922720^Eternal Survival Demo
-1754697600^3922660^DAMN Gravity! Demo
-1754697600^3906940^刻痕之屿：暖洋上的遗孤 Demo
-1754697600^3899830^Demonic Demo
