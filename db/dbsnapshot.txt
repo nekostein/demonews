@@ -1,3 +1,21 @@
+1757289600^4011460^Mega Fruit Demo
+1757289600^4000440^Seven Squad Demo
+1757289600^3996160^侠落：百花杀尽 Demo
+1757289600^3986540^Spinochet Demo
+1757289600^3964460^世界之外的愚人船 Demo
+1757289600^3955910^그날의 신문 Demo
+1757289600^3949600^Terminal Shift Demo
+1757289600^3909650^Towers Saga Demo
+1757289600^3885610^Halloween Secrets: The Blood Vow Collector's Edition Demo
+1757289600^3749710^Terra Firma 2 Demo
+1757289600^3631530^Dawn Watcher Demo
+1757289600^3353690^SLASHING NIGHT Demo
+1757203200^4006050^What Is The Ghost Demo
+1757203200^3995370^Cozyrama Demo
+1757203200^3995200^Why's It Getting DARKER?! Demo
+1757203200^3993750^SYNCO PATH: SECLUSION SYSTEM Demo
+1757203200^3981850^Loot & Ledger Demo
+1757116800^3997160^Wylde Nights Demo
 1756857600^3995330^공고소녀(Gong GO Girl) Demo
 1756857600^3995220^Obstacle Challenge: Platform - Action Demo
 1756857600^3991980^Five Mysterious Murders - Part 2 Demo
@@ -80,21 +98,3 @@
 1755907200^3886070^Cozy Sketcher - AI Drawing Game Demo
 1755907200^3882500^HoM
 1755907200^3877430^舰魂重构 WarSpirit Recast Demo
-1755820800^3973480^Midnight Murder Maze Demo
-1755820800^3968560^Fantasy Franchise Demo
-1755820800^3968550^Red Tears Demo
-1755820800^3968310^Wumbrik Demo
-1755820800^3968020^Fortiori Demo
-1755820800^3967840^Bunny's Tea Time Demo
-1755820800^3967570^Turning The Tide Demo
-1755820800^3965720^Project Kepler: Bomb Delivery Included! - Demo
-1755820800^3965020^Corner Cards Demo
-1755820800^3963160^Odiumfloreo Demo
-1755820800^3962990^Solateria Demo
-1755820800^3959810^Red Tape Rampage Demo
-1755820800^3957500^Bloodshot Eyes Demo
-1755820800^3956960^Furniture Restoration Simulator: Garage Edition Demo
-1755820800^3956680^Little Chef 2 Demo
-1755820800^3954910^Guardian Chicken Demo
-1755820800^3954120^Session Notes: Route 404 Demo
-1755820800^3951860^地下探险者 Cave Explorers Demo
