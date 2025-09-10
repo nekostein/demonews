@@ -1,3 +1,25 @@
+1757462400^4014230^Platoon Demo
+1757462400^4008110^Hexforger Demo
+1757462400^4006360^Faceball Captain Demo
+1757462400^4003570^Cactus Simulator Remake Demo
+1757462400^4000390^Dr. Alb's Prodigy Demo
+1757462400^3998690^Upstairs Demo
+1757462400^3992900^Hero of Sunset Demo
+1757462400^3987300^The Search For Above Average Life Demo
+1757462400^3986680^Office of Interstellar Production Demo
+1757462400^3984070^A.S.İ : BAŞLANGIÇ Demo
+1757462400^3971960^TheVillage Possession Demo
+1757462400^3958220^99Managers Futsal Edition - Public Beta Playtest Demo
+1757462400^3927660^Swords and Sandals 3 Redux Demo
+1757462400^3904950^Dice Dice Baby Demo
+1757462400^3888260^The Weaver Demo
+1757462400^3888200^沙盘战争：三国 Demo
+1757376000^4010450^Bubble Investor Demo
+1757376000^4003780^Idosra: The Electric Renaissance Demo
+1757376000^3996770^First Sino-Japanese War Demo
+1757376000^3973950^Mannequin: Factory Demo
+1757376000^3952480^Heart of Gaia Demo
+1757376000^3372870^There's Always a Madman: The MacGuffin Demo
 1757289600^4011460^Mega Fruit Demo
 1757289600^4000440^Seven Squad Demo
 1757289600^3996160^侠落：百花杀尽 Demo
@@ -76,25 +98,3 @@
 1756425600^3941520^Aim to Capture - Episode One
 1756425600^3936990^Gnomeball Demo
 1756425600^3896550^Brain School Demo
-1756425600^3857710^Lost Soul Aside™ Demo
-1756425600^3839040^Dead Exhale Demo
-1756425600^3838110^哥布林猎人 Demo
-1756425600^3803870^Carefully Stamped Demo
-1756425600^3737470^Vending Machine Co. Demo
-1756166400^3976720^Galdia Demo
-1756166400^3971410^Monsters & Magics: Digital Card Game Demo
-1756166400^3931460^Please Push The Button Demo
-1756166400^3832540^Stone 4 Souls Demo
-1755907200^3971760^NetDive Demo
-1755907200^3968960^Sniperbot: The Hype Game Demo
-1755907200^3967830^Dying Reign Demo
-1755907200^3961610^Parking Simulator Demo
-1755907200^3955810^Power the Future Demo
-1755907200^3950040^Dark Lord Leona Demo
-1755907200^3940570^Merlin Survivors Demo
-1755907200^3930540^Devose Demo
-1755907200^3928690^Ribbit Ranch Demo
-1755907200^3909520^终焉与珑同行
-1755907200^3886070^Cozy Sketcher - AI Drawing Game Demo
-1755907200^3882500^HoM
-1755907200^3877430^舰魂重构 WarSpirit Recast Demo

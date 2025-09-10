@@ -1,18 +1,22 @@
-1757116800^3997160^Wylde Nights Demo
-1757203200^3981850^Loot & Ledger Demo
-1757203200^3993750^SYNCO PATH: SECLUSION SYSTEM Demo
-1757203200^3995200^Why's It Getting DARKER?! Demo
-1757203200^3995370^Cozyrama Demo
-1757203200^4006050^What Is The Ghost Demo
-1757289600^3353690^SLASHING NIGHT Demo
-1757289600^3631530^Dawn Watcher Demo
-1757289600^3749710^Terra Firma 2 Demo
-1757289600^3885610^Halloween Secrets: The Blood Vow Collector's Edition Demo
-1757289600^3909650^Towers Saga Demo
-1757289600^3949600^Terminal Shift Demo
-1757289600^3955910^그날의 신문 Demo
-1757289600^3964460^世界之外的愚人船 Demo
-1757289600^3986540^Spinochet Demo
-1757289600^3996160^侠落：百花杀尽 Demo
-1757289600^4000440^Seven Squad Demo
-1757289600^4011460^Mega Fruit Demo
+1757376000^3372870^There's Always a Madman: The MacGuffin Demo
+1757376000^3952480^Heart of Gaia Demo
+1757376000^3973950^Mannequin: Factory Demo
+1757376000^3996770^First Sino-Japanese War Demo
+1757376000^4003780^Idosra: The Electric Renaissance Demo
+1757376000^4010450^Bubble Investor Demo
+1757462400^3888200^沙盘战争：三国 Demo
+1757462400^3888260^The Weaver Demo
+1757462400^3904950^Dice Dice Baby Demo
+1757462400^3927660^Swords and Sandals 3 Redux Demo
+1757462400^3958220^99Managers Futsal Edition - Public Beta Playtest Demo
+1757462400^3971960^TheVillage Possession Demo
+1757462400^3984070^A.S.İ : BAŞLANGIÇ Demo
+1757462400^3986680^Office of Interstellar Production Demo
+1757462400^3987300^The Search For Above Average Life Demo
+1757462400^3992900^Hero of Sunset Demo
+1757462400^3998690^Upstairs Demo
+1757462400^4000390^Dr. Alb's Prodigy Demo
+1757462400^4003570^Cactus Simulator Remake Demo
+1757462400^4006360^Faceball Captain Demo
+1757462400^4008110^Hexforger Demo
+1757462400^4014230^Platoon Demo
