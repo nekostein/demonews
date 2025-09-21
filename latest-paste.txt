@@ -1,30 +1,34 @@
-1758067200^2976750^Medieval Darkness Demo
-1758067200^3224860^Express Car Wash Simulator Demo
-1758067200^3720090^lovebyte Demo
-1758067200^3771240^Ministry Of Stoic Demo
-1758067200^3781480^Astral Sanctum Demo
-1758067200^3788960^Galactic Vault Demo
-1758067200^3845710^The Last Mullu Demo
-1758067200^3857200^Meal: Mystery Escape Room Demo
-1758067200^3861240^Cutting Edge: Roots Of Mutation Demo
-1758067200^3863350^iblis3phenomena Demo
-1758067200^3947610^ShatterRush Open Pre-Alpha
-1758067200^3950390^Kuromaku Demo
-1758067200^3958810^Nebula Cleanup Crew Demo
-1758067200^3960100^There Is mORE Demo
-1758067200^3964750^Foresight of the Forgotten Demo
-1758067200^3973150^Holo ADV: SakuraSingularity.exe Demo
-1758067200^3976470^Lessaria: The Fantasy Kingdom Sim Demo
-1758067200^3982080^Eye of the Erime Demo
-1758067200^3996990^Why Me Demo
-1758067200^4000550^我是猫：桌面摸鱼大师 Demo
-1758067200^4004190^UNKO TECHNICA Demo
-1758067200^4005120^Screwball Demo
-1758067200^4015660^FourKnightVariant Demo
-1758067200^4017590^Blanksword Demo
-1758067200^4017640^Sahir: Shiv of Memories Demo
-1758067200^4023300^Theralite Demo
-1758067200^4024370^Solitaire Battle Online Demo
-1758067200^4028990^ДЕДУШКА Demo
-1758067200^4029070^War of the Western Deep Demo
-1758067200^4031540^Courier Simulator Demo
+1758326400^3794390^Star Tower Demo
+1758326400^3823870^Fractured Balance Demo
+1758326400^3893960^Airport Baggage Simulator Demo
+1758326400^3918040^Swim Meet Demo
+1758326400^3948870^Shadow Quest Demo
+1758326400^3957280^ClassBoom Demo
+1758326400^3974310^A Love Without Limits: Beyond Monogamy Demo
+1758326400^3982760^下一段路途 Demo
+1758326400^3987720^Fangs to Fields Demo
+1758326400^3992990^Lands of XON Demo
+1758326400^4002260^Dynasthir Demo
+1758326400^4016650^Beta 3000 Demo
+1758326400^4017970^Filtration Demo
+1758326400^4019780^Pazleum Demo
+1758326400^4033530^Clones Conquer Worlds Demo
+1758326400^4034260^M_rdle Demo
+1758326400^4034910^The Binding Hour Demo
+1758326400^4034960^Breakfall Demo
+1758326400^4041700^Bad Heroes Demo
+1758326400^4042170^ParryMaster Demo
+1758412800^3540410^Watcher from the Void Demo
+1758412800^3545300^Scary Ferry Demo
+1758412800^3731740^Into The Depths Demo
+1758412800^3738530^Tides of The Endless : Rising Tide
+1758412800^3947140^Voidwatch Demo
+1758412800^3969990^Ghost Hunting Journal Demo
+1758412800^3981500^烧尾宴 试玩版
+1758412800^4003300^The Last Star Walker Demo
+1758412800^4007470^美丽旧世界：纸牌塔 Demo
+1758412800^4013040^Be King Demo
+1758412800^4031260^Jamp Demo
+1758412800^4031680^One more gem Demo
+1758412800^4032440^FUNKYHEART Demo
+1758412800^4039750^Prince of Darkness Jr. Demo

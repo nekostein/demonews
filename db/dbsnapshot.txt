@@ -1,3 +1,37 @@
+1758412800^4039750^Prince of Darkness Jr. Demo
+1758412800^4032440^FUNKYHEART Demo
+1758412800^4031680^One more gem Demo
+1758412800^4031260^Jamp Demo
+1758412800^4013040^Be King Demo
+1758412800^4007470^美丽旧世界：纸牌塔 Demo
+1758412800^4003300^The Last Star Walker Demo
+1758412800^3981500^烧尾宴 试玩版
+1758412800^3969990^Ghost Hunting Journal Demo
+1758412800^3947140^Voidwatch Demo
+1758412800^3738530^Tides of The Endless : Rising Tide
+1758412800^3731740^Into The Depths Demo
+1758412800^3545300^Scary Ferry Demo
+1758412800^3540410^Watcher from the Void Demo
+1758326400^4042170^ParryMaster Demo
+1758326400^4041700^Bad Heroes Demo
+1758326400^4034960^Breakfall Demo
+1758326400^4034910^The Binding Hour Demo
+1758326400^4034260^M_rdle Demo
+1758326400^4033530^Clones Conquer Worlds Demo
+1758326400^4019780^Pazleum Demo
+1758326400^4017970^Filtration Demo
+1758326400^4016650^Beta 3000 Demo
+1758326400^4002260^Dynasthir Demo
+1758326400^3992990^Lands of XON Demo
+1758326400^3987720^Fangs to Fields Demo
+1758326400^3982760^下一段路途 Demo
+1758326400^3974310^A Love Without Limits: Beyond Monogamy Demo
+1758326400^3957280^ClassBoom Demo
+1758326400^3948870^Shadow Quest Demo
+1758326400^3918040^Swim Meet Demo
+1758326400^3893960^Airport Baggage Simulator Demo
+1758326400^3823870^Fractured Balance Demo
+1758326400^3794390^Star Tower Demo
 1758067200^4031540^Courier Simulator Demo
 1758067200^4029070^War of the Western Deep Demo
 1758067200^4028990^ДЕДУШКА Demo
@@ -64,37 +98,3 @@
 1757635200^3955740^Our Dreadling Demo
 1757635200^3952560^Cat Snap Demo
 1757635200^3932940^Benevolent Demo
-1757635200^3916530^JUST A GUY : Online Multiplayer Ragdoll Game Demo
-1757635200^3908510^Lunar Ascendant Demo
-1757635200^3862850^Wanted 3D: Dead or alive Demo
-1757635200^3818930^Rise to King Ortler Demo
-1757635200^3764540^SPORTAL Demo
-1757635200^3732160^Interstellar Espionage Inc. Demo
-1757462400^4014230^Platoon Demo
-1757462400^4008110^Hexforger Demo
-1757462400^4006360^Faceball Captain Demo
-1757462400^4003570^Cactus Simulator Remake Demo
-1757462400^4000390^Dr. Alb's Prodigy Demo
-1757462400^3998690^Upstairs Demo
-1757462400^3992900^Hero of Sunset Demo
-1757462400^3987300^The Search For Above Average Life Demo
-1757462400^3986680^Office of Interstellar Production Demo
-1757462400^3984070^A.S.İ : BAŞLANGIÇ Demo
-1757462400^3971960^TheVillage Possession Demo
-1757462400^3958220^99Managers Futsal Edition - Public Beta Playtest Demo
-1757462400^3927660^Swords and Sandals 3 Redux Demo
-1757462400^3904950^Dice Dice Baby Demo
-1757462400^3888260^The Weaver Demo
-1757462400^3888200^沙盘战争：三国 Demo
-1757376000^4010450^Bubble Investor Demo
-1757376000^4003780^Idosra: The Electric Renaissance Demo
-1757376000^3996770^First Sino-Japanese War Demo
-1757376000^3973950^Mannequin: Factory Demo
-1757376000^3952480^Heart of Gaia Demo
-1757376000^3372870^There's Always a Madman: The MacGuffin Demo
-1757289600^4011460^Mega Fruit Demo
-1757289600^4000440^Seven Squad Demo
-1757289600^3996160^侠落：百花杀尽 Demo
-1757289600^3986540^Spinochet Demo
-1757289600^3964460^世界之外的愚人船 Demo
-1757289600^3955910^그날의 신문 Demo
