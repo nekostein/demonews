@@ -1271,3 +1271,32 @@
 1758412800^4031680^One more gem Demo
 1758412800^4032440^FUNKYHEART Demo
 1758412800^4039750^Prince of Darkness Jr. Demo
+1758672000^3575890^Dynasty Protocol Demo
+1758672000^3720600^小魔女的狂欢节 Demo
+1758672000^3808120^The DvD idle game Demo
+1758672000^3821560^Oceaneers Demo
+1758672000^3851240^Species: Unknown Demo
+1758672000^3883450^Last Mage Demo
+1758672000^3887530^Packmates Demo
+1758672000^3887780^Re:Night Demo
+1758672000^3924330^Striking Wine Demo
+1758672000^3925230^GG-Party Demo
+1758672000^3944220^Sauna Simulator Demo
+1758672000^3954410^Nevitsky Castle: The bloody legend of Transcarpatia
+1758672000^3969970^Baller Demo
+1758672000^3978860^Off the Text - Demo Track
+1758672000^3987490^Legitimate Space Corp Simulator LLC Demo
+1758672000^3987520^Dialoop -Roguelite Puzzle- Demo
+1758672000^3989040^Aquaville Demo
+1758672000^4011440^Boardlords Demo
+1758672000^4011750^Gravosphere: First Drop
+1758672000^4014200^Evil eye Demo
+1758672000^4016930^The Ripe Blood Anthology: This World Is Just for the Two of Us (Demo)
+1758672000^4017100^Deadline Escape Demo
+1758672000^4017830^Workhorse牛马 Demo
+1758672000^4022000^Die or Die Demo
+1758672000^4023700^Accelerator Operator Demo
+1758672000^4041680^Nasty Zombies Demo
+1758672000^4043860^Gloomy Clues Remake Demo
+1758672000^4045030^Gatebreakers Demo
+1758672000^4052650^Cosmic Scramble Demo
