@@ -1300,3 +1300,25 @@
 1758672000^4043860^Gloomy Clues Remake Demo
 1758672000^4045030^Gatebreakers Demo
 1758672000^4052650^Cosmic Scramble Demo
+1758758400^3639350^Shan Hai : Mythic Origins Demo
+1758758400^3748730^Kaiju Cracking Corporation Demo
+1758758400^3753800^異病偵探 Psycho-Sleuth Demo
+1758758400^3788930^Tatari Demo
+1758758400^3927330^Little Aquarium Demo
+1758758400^3972200^Fantasy Maiden Wars - DREAM OF THE STRAY DREAMER - Demo
+1758758400^3988710^Nightmare Circus Demo
+1758758400^3995380^Flutterfield Demo
+1758758400^3998530^Death By Misstep Demo
+1758758400^4000380^Age of Damnation Demo
+1758758400^4004700^The Last Screening Demo
+1758758400^4006100^你的叽叽 Demo
+1758758400^4012850^Your Another Wife Demo
+1758758400^4016250^A Killer Chat! Christmas Demo
+1758758400^4017160^The Day Of Salvation Demo
+1758758400^4019290^Give Me Back! Demo
+1758758400^4026440^Killer Chat! - Original Edition Demo
+1758758400^4032890^Space Dash Demo
+1758758400^4036340^Devi5e: FEARS Demo
+1758758400^4045260^SRUSH Demo
+1758758400^4046630^Ookami Okami Demo
+1758758400^4050300^Cyber Horror: Project S.Y.L.A. Demo
