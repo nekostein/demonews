@@ -1,22 +1,58 @@
-1758758400^3639350^Shan Hai : Mythic Origins Demo
-1758758400^3748730^Kaiju Cracking Corporation Demo
-1758758400^3753800^異病偵探 Psycho-Sleuth Demo
-1758758400^3788930^Tatari Demo
-1758758400^3927330^Little Aquarium Demo
-1758758400^3972200^Fantasy Maiden Wars - DREAM OF THE STRAY DREAMER - Demo
-1758758400^3988710^Nightmare Circus Demo
-1758758400^3995380^Flutterfield Demo
-1758758400^3998530^Death By Misstep Demo
-1758758400^4000380^Age of Damnation Demo
-1758758400^4004700^The Last Screening Demo
-1758758400^4006100^你的叽叽 Demo
-1758758400^4012850^Your Another Wife Demo
-1758758400^4016250^A Killer Chat! Christmas Demo
-1758758400^4017160^The Day Of Salvation Demo
-1758758400^4019290^Give Me Back! Demo
-1758758400^4026440^Killer Chat! - Original Edition Demo
-1758758400^4032890^Space Dash Demo
-1758758400^4036340^Devi5e: FEARS Demo
-1758758400^4045260^SRUSH Demo
-1758758400^4046630^Ookami Okami Demo
-1758758400^4050300^Cyber Horror: Project S.Y.L.A. Demo
+1759190400^3594150^大荒 Demo
+1759190400^3741490^Rotten Sails Demo
+1759190400^3748490^Fields of Fortune Demo
+1759190400^3756690^橘香仲夏 Demo
+1759190400^3846680^Olive Raiders Demo
+1759190400^3883960^Retro Racing 2 Demo
+1759190400^3888550^SERPENT AT THE VERNISSAGE - DEMO
+1759190400^3899430^大胤守门人 Gatekeeper of the Yin Dynasty Demo
+1759190400^3904690^Arcaneering: Beyond Automation Demo
+1759190400^3914110^Neon Divide 断界 Demo
+1759190400^3926460^星舰骰（Starship Dice） Demo
+1759190400^3937190^Addition Subtraction Multiplication Division Magician Demo
+1759190400^3940620^Exploding Judo Federation Demo
+1759190400^3966290^Scholar Adventure: Mystery of Silence Demo
+1759190400^3975430^Deep Loop Demo
+1759190400^3978220^True Abstraction: Forbidden Demo
+1759190400^3981900^Asteroid Boom Cosmic Courier Demo
+1759190400^3987270^Secret of Fantasy Demo
+1759190400^4008100^Backfire Brigade Demo
+1759190400^4017360^記憶的主人 試玩版
+1759190400^4019250^Ajgal Demo
+1759190400^4019650^retrospect Demo
+1759190400^4023730^Spinner Smash Demo
+1759190400^4023860^HellBorn Pre Alpha Demo
+1759190400^4024240^Shattered Dreams: Redemption Demo
+1759190400^4025480^Vindilis Demo
+1759190400^4025680^Squidly's Revenge Demo
+1759190400^4029940^MyPlaceDiary Demo
+1759190400^4030820^Bumper Brawlers Demo
+1759190400^4034400^The Pipetuber's Guide to the Solar System Demo
+1759190400^4034850^Re – Fracture: The Prophet’s Awakening Demo
+1759190400^4037880^Pop Pop Potato Demo
+1759190400^4039060^Summoner's Pieces Demo
+1759190400^4039640^To Crown or to Destroy Demo
+1759190400^4043170^PowerWash Simulator 2 Demo
+1759190400^4043250^Campanion Demo
+1759190400^4044560^Bravest Coconut Demo
+1759190400^4046460^Mage of Tempest Castle Demo
+1759190400^4048530^Astro Burn Demo
+1759190400^4052300^Goblin Nest Demo
+1759190400^4052700^Kill Ralph Demo
+1759190400^4053220^冰河 Demo
+1759190400^4053570^Dogpile Demo
+1759190400^4054160^修仙！包你飞升 Demo
+1759190400^4054660^Traíras Demo
+1759190400^4055760^Stellar Rhythm Demo
+1759190400^4056100^The Living Threeangle Demo
+1759190400^4056150^Wanderling Demo
+1759190400^4056830^romance.exe DEMO
+1759190400^4061590^Luce Spenta Demo
+1759190400^4062070^大千世界2 The Stupendous World Demo
+1759190400^4064100^Tower Command Demo
+1759190400^4064690^Galleria Demo
+1759190400^4065960^Mumble Pines: The Arrival Demo
+1759190400^4066150^Seek & Sail Demo
+1759190400^4066330^NIMAN Demo
+1759190400^4069070^Another Day of My Life Demo
+1759190400^4070100^AIgent Demo
