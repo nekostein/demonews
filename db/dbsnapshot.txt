@@ -1,20 +1,69 @@
+1759622400^4032720^Princess Covenant Demo
+1759622400^4016430^Scratchies Demo
+1759536000^4082500^Stellar Archipelago Demo
+1759536000^4082480^GORE Demo
+1759536000^4080910^Rockoon Demo
+1759536000^4079260^Mech Shop Demo
+1759536000^4077180^Mart Mayhem Demo
+1759536000^4075400^几何工厂 Demo
+1759536000^4074880^Pixel Survivors : Defense Demo
+1759536000^4073260^Halls of Nyarlathotep Demo
+1759536000^4068660^Unstrayed Demo
+1759536000^4068180^Blood for the Throne Demo
+1759536000^4061610^Snemovna Demo
+1759536000^4060380^Symbiote Demo
+1759536000^4058040^カエルvsドラゴン娘 Demo
+1759536000^4056330^Robot Hospice Demo
+1759536000^4051750^Shell Soldier Demo
+1759536000^4050560^Отблеск Demo
+1759536000^4035490^PLAY AND LEARN: Fun Learning Games for Kids Demo
+1759536000^4034850^Re – Fracture: The Prophet’s Awakening Demo
+1759536000^4030390^番長彼女 魔戀 Demo
+1759536000^4027510^FlyOver!100KM!Mountains! Demo
+1759536000^4019310^Platform Anomaly Demo
+1759536000^4016090^Rogue Cave Demo
+1759536000^3999310^Mushroom Clicker Demo
+1759536000^3984430^Genesis Relic: Idle Sandbox Simulator Demo
+1759536000^3975680^Perfume Atelier Demo
+1759536000^3967070^Codename:Twilight Demo
+1759536000^3965690^阿波罗奏鸣曲 - Apollo Sonata Demo
+1759536000^3947000^Where is My Son? Demo
+1759536000^3854480^Fantasy Forest Demo
+1759536000^3850770^Divine's Howl Demo
+1759536000^3725340^Slot or Not Demo
+1759536000^3639810^Basketboy's Adventure Demo
+1759536000^3585140^Transports Demo
+1759536000^3394000^Forest Time Demo
+1759449600^4074090^Shitty Game Demo
+1759449600^4073710^Loreninha Paints Dreams and Rainbows Demo
+1759449600^4072860^My Car My Life Demo
+1759449600^4069450^Milk Run Demo
 1759449600^4069390^Darker: Chapter 1 Demo
 1759449600^4068690^Xenomycology Demo
+1759449600^4068340^Moondrills Demo
+1759449600^4066310^TavernHold Demo
 1759449600^4061230^Ardena Demo
 1759449600^4055640^The Bar Souls Demo
+1759449600^4054930^Nova Patria Demo
 1759449600^4051730^Vribyss Refuge™ Metamorphosis Demo
+1759449600^4049100^Adventarum Demo
 1759449600^4041210^Backrooms Anomaly Demo
+1759449600^4041140^Bring Me Home Demo
 1759449600^4040880^SUPER SHAPESHOOTER DEMO
 1759449600^4039920^碧海六重奏 Demo
 1759449600^4035480^Kofoin - Swarm Defense Demo
+1759449600^4030980^Eon's Insomnium Demo
 1759449600^4029810^Hypno Halo Demo
+1759449600^4017530^Starlight Mining Company Demo
 1759449600^4011090^Pizza Slice (Demo)
 1759449600^3963920^Next Run Demo
 1759449600^3951710^Harem Fantasy Demo
 1759449600^3944120^Toll Booth Simulator: Schedule of Chaos Demo
+1759449600^3941340^Super Person Run Deluxe Demo
 1759449600^3929680^Mysteries of Old Tokyo Demo
 1759449600^3920000^NORSE: Oath of Blood Demo
 1759449600^3862480^Blossom: The Seed Of Life Demo
+1759449600^3854690^ZK1L4
 1759449600^3591070^Valerie Demo
 1759449600^3564770^Bubbles and babes
 1759363200^4080510^The Corn Maze: Rebirth Demo
@@ -49,52 +98,3 @@
 1759190400^4061590^Luce Spenta Demo
 1759190400^4056830^romance.exe DEMO
 1759190400^4056150^Wanderling Demo
-1759190400^4056100^The Living Threeangle Demo
-1759190400^4055760^Stellar Rhythm Demo
-1759190400^4054660^Traíras Demo
-1759190400^4054160^修仙！包你飞升 Demo
-1759190400^4053570^Dogpile Demo
-1759190400^4053220^冰河 Demo
-1759190400^4052700^Kill Ralph Demo
-1759190400^4052300^Goblin Nest Demo
-1759190400^4048530^Astro Burn Demo
-1759190400^4046460^Mage of Tempest Castle Demo
-1759190400^4044560^Bravest Coconut Demo
-1759190400^4043250^Campanion Demo
-1759190400^4043170^PowerWash Simulator 2 Demo
-1759190400^4039640^To Crown or to Destroy Demo
-1759190400^4039060^Summoner's Pieces Demo
-1759190400^4037880^Pop Pop Potato Demo
-1759190400^4034850^Re – Fracture: The Prophet’s Awakening Demo
-1759190400^4034400^The Pipetuber's Guide to the Solar System Demo
-1759190400^4030820^Bumper Brawlers Demo
-1759190400^4029940^MyPlaceDiary Demo
-1759190400^4025680^Squidly's Revenge Demo
-1759190400^4025480^Vindilis Demo
-1759190400^4024240^Shattered Dreams: Redemption Demo
-1759190400^4023860^HellBorn Pre Alpha Demo
-1759190400^4023730^Spinner Smash Demo
-1759190400^4019650^retrospect Demo
-1759190400^4019250^Ajgal Demo
-1759190400^4017360^記憶的主人 試玩版
-1759190400^4008100^Backfire Brigade Demo
-1759190400^3987270^Secret of Fantasy Demo
-1759190400^3981900^Asteroid Boom Cosmic Courier Demo
-1759190400^3978220^True Abstraction: Forbidden Demo
-1759190400^3975430^Deep Loop Demo
-1759190400^3966290^Scholar Adventure: Mystery of Silence Demo
-1759190400^3940620^Exploding Judo Federation Demo
-1759190400^3937190^Addition Subtraction Multiplication Division Magician Demo
-1759190400^3926460^星舰骰（Starship Dice） Demo
-1759190400^3914110^Neon Divide 断界 Demo
-1759190400^3904690^Arcaneering: Beyond Automation Demo
-1759190400^3899430^大胤守门人 Gatekeeper of the Yin Dynasty Demo
-1759190400^3888550^SERPENT AT THE VERNISSAGE - DEMO
-1759190400^3883960^Retro Racing 2 Demo
-1759190400^3846680^Olive Raiders Demo
-1759190400^3756690^橘香仲夏 Demo
-1759190400^3748490^Fields of Fortune Demo
-1759190400^3741490^Rotten Sails Demo
-1759190400^3594150^大荒 Demo
-1758758400^4050300^Cyber Horror: Project S.Y.L.A. Demo
-1758758400^4046630^Ookami Okami Demo
