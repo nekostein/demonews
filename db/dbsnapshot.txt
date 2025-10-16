@@ -1,3 +1,29 @@
+1760572800^4106480^Angel's Dreams Demo
+1760572800^4103760^Pixel Shinobi Demo
+1760572800^4100090^Rng Arena Demo
+1760572800^4100020^メルト・アウェイ Demo
+1760572800^4099940^勇者パーティはぜんめつしました。 Demo
+1760572800^4098590^Shadows of Soldiers Demo
+1760572800^4098160^Count Meowcula's Barbershop Demo
+1760572800^4097700^Neon Overdrive Demo
+1760572800^4093080^Bobo in Hell Demo
+1760572800^4083650^十分之四 Demo
+1760572800^4082640^Penance Demo
+1760572800^4080430^My Shelter Demo
+1760572800^4078300^Last Term, First Love Demo
+1760572800^4076400^Red Passport: Ticket to Russia Demo
+1760572800^4076260^Loading... Demo
+1760572800^4073940^Kiddie Train Demo
+1760572800^4072060^Libertine Demo
+1760572800^4054600^Dungeon Twist Demo
+1760572800^4053740^Firefighting Simulator: Ignite Demo
+1760572800^4044920^ARTIST SLAYER / RUSH Demo
+1760572800^4023610^Rod of Asclepius Demo
+1760572800^4016680^Crypt Ascent Prologue
+1760572800^3988110^Neffy -Moonlight Labyrinth X- Trial ver.
+1760572800^3872850^Warhammer 40,000: Space Marine 2 Demo
+1760572800^3668160^The Ballad of Bellum Demo
+1760572800^3141200^Pixel Pixie Demo
 1760140800^4098530^FIGHT-QUEST Demo
 1760140800^4090850^Hobby Horse: First Ride Demo
 1760140800^4090480^Coaster Crash Course Demo
@@ -72,29 +98,3 @@
 1759536000^4058040^カエルvsドラゴン娘 Demo
 1759536000^4056330^Robot Hospice Demo
 1759536000^4051750^Shell Soldier Demo
-1759536000^4050560^Отблеск Demo
-1759536000^4035490^PLAY AND LEARN: Fun Learning Games for Kids Demo
-1759536000^4034850^Re – Fracture: The Prophet’s Awakening Demo
-1759536000^4030390^番長彼女 魔戀 Demo
-1759536000^4027510^FlyOver!100KM!Mountains! Demo
-1759536000^4019310^Platform Anomaly Demo
-1759536000^4016090^Rogue Cave Demo
-1759536000^3999310^Mushroom Clicker Demo
-1759536000^3984430^Genesis Relic: Idle Sandbox Simulator Demo
-1759536000^3975680^Perfume Atelier Demo
-1759536000^3967070^Codename:Twilight Demo
-1759536000^3965690^阿波罗奏鸣曲 - Apollo Sonata Demo
-1759536000^3947000^Where is My Son? Demo
-1759536000^3854480^Fantasy Forest Demo
-1759536000^3850770^Divine's Howl Demo
-1759536000^3725340^Slot or Not Demo
-1759536000^3639810^Basketboy's Adventure Demo
-1759536000^3585140^Transports Demo
-1759536000^3394000^Forest Time Demo
-1759449600^4074090^Shitty Game Demo
-1759449600^4073710^Loreninha Paints Dreams and Rainbows Demo
-1759449600^4072860^My Car My Life Demo
-1759449600^4069450^Milk Run Demo
-1759449600^4069390^Darker: Chapter 1 Demo
-1759449600^4068690^Xenomycology Demo
-1759449600^4068340^Moondrills Demo
