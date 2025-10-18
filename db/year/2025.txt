@@ -1552,3 +1552,34 @@
 1760572800^4100090^Rng Arena Demo
 1760572800^4103760^Pixel Shinobi Demo
 1760572800^4106480^Angel's Dreams Demo
+1760659200^1845220^Creator's Asteroid Demo
+1760659200^3325560^TUST 奇缘 (TUST's story) Demo
+1760659200^3694960^Finding Mom Demo
+1760659200^3941210^It’s Quiz Time: GUINNESS WORLD RECORDS™ Edition Demo
+1760659200^3960100^There Is mORE Demo
+1760659200^3965980^蔷薇之子 Demo
+1760659200^3968440^ALLGO: The Prime Reset Demo
+1760659200^3976260^Perk Up Demo
+1760659200^3985360^Lost In The Backrooms: Day 100 Demo
+1760659200^4029260^Yapori Dimensões Demo
+1760659200^4034830^Les aventures d'Emilie à Paris Demo
+1760659200^4044230^Wreckage Demo
+1760659200^4068110^Behind The Smile Demo
+1760659200^4072750^Kholin Echo Demo
+1760659200^4080270^ABYSSAL Demo
+1760659200^4089800^Through the Nest Demo
+1760659200^4092330^There's No Differences: Santa Demo
+1760659200^4092810^Chronosurge: Echoes of the Void Demo
+1760659200^4096720^(ぶいちゅ〜バトル)VTBattle-VTubers aren't about the number of subscribers! It's about power! Demo
+1760659200^4100970^Kinetic Neo Ornate Bout Demo
+1760659200^4101390^Breaking Enigma Demo
+1760745600^3965390^Sanctum Protocol Demo
+1760745600^4020170^让魔法再次伟大 Demo
+1760745600^4068140^Гвалт Демо
+1760745600^4072820^The Field Between Demo
+1760745600^4077090^白日梦（Daydream） Demo
+1760745600^4086110^Holyland: Deckbuilding Adventure Demo
+1760745600^4097210^Rob &amp;amp; Roll Demo
+1760745600^4099290^Manic Meeples Demo
+1760745600^4101220^Echo of the DarkZone Demo
+1760745600^4108720^Vultures Demo
