@@ -1,3 +1,20 @@
+1761004800^4104190^Aqua Chamber Demo
+1761004800^4104110^No One Leaves the Field Demo
+1761004800^4099770^ShadowStrikeVR Demo
+1761004800^4099130^Grid Forge TD Demo
+1761004800^4091140^Senior Survival Club Demo
+1761004800^4079180^KACAU Demo
+1761004800^4076500^The Apple Girl Demo
+1761004800^4071640^Roguemaze Ultimate Demo
+1761004800^4061330^Short Circuit Demo
+1761004800^4055550^トモヒガラ / Demo
+1761004800^4027180^樹上の孤鳥 Demo
+1761004800^4026730^Everything I Know, and Everything I'm Ever Gonna Know Demo
+1761004800^3989370^默示琉璃镜 Demo
+1761004800^3870690^Cronos: The New Dawn - Demo
+1761004800^3810270^Doce Fim: sweetend placebo. Demo
+1761004800^3629520^Ancient Wars: Sparta HD Free to Play
+1761004800^3426620^Similariddle Demo
 1760745600^4108720^Vultures Demo
 1760745600^4101220^Echo of the DarkZone Demo
 1760745600^4099290^Manic Meeples Demo
@@ -81,20 +98,3 @@
 1760140800^4009670^T.K. Punk Demo
 1760140800^4001280^Your Time Has Come Demo
 1760140800^3997990^YAPYAP Demo
-1760140800^3991070^Order:the New Dawn
-1760140800^3984380^TwinGrip Demo
-1760140800^3974610^Desktop Mascot ~ Tasmon's Little Island Demo
-1760140800^3943980^How To Go To Another World Demo
-1760140800^3939410^Sherlock Holmes: Night Stalker - Demo
-1760140800^3923610^Ballshit Demo
-1760054400^4099260^Untitled Car Game Demo
-1760054400^4094230^Super Safe Spelunking Demo
-1760054400^4092780^Master of Command Demo
-1760054400^4091360^Keep Demo
-1760054400^4084270^卡牌模拟-魔物生活 Demo
-1760054400^4084070^Blast Head Demo
-1760054400^4060060^ALPINE Demo
-1760054400^4060050^Sled Together Demo
-1760054400^4059250^Tie Me, Bind Me, HIT ME! Demo
-1760054400^4055230^Horde of Viscount Demo
-1760054400^4054970^Shelf Life Demo
