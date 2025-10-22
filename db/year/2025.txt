@@ -1600,3 +1600,28 @@
 1761004800^4099770^ShadowStrikeVR Demo
 1761004800^4104110^No One Leaves the Field Demo
 1761004800^4104190^Aqua Chamber Demo
+1761091200^3712760^Ghost Golfing Demo
+1761091200^3877270^扑克大乱斗 Demo
+1761091200^3975070^Is Anybody There? Demo
+1761091200^4032390^Rogum A Cat Match Puzzle Demo
+1761091200^4049410^No Way Back: Dark Horizon Demo
+1761091200^4062500^First Demo
+1761091200^4064230^Bellochia: Love Powered by Gears Demo
+1761091200^4076430^HerboVest Demo
+1761091200^4079460^Rotten Life: Desert Prisoner Demo
+1761091200^4083290^Ghost Shooter Demo
+1761091200^4084800^Crude Survivor TD Demo
+1761091200^4085960^Only Animals Demo
+1761091200^4087680^PHi Demo
+1761091200^4093260^波兰球：黑色启示录 Demo
+1761091200^4093600^Creepy Races Demo
+1761091200^4095160^Fibtaxe Demo
+1761091200^4097110^Cthulhu Mysteries: Veins of Arkham Demo
+1761091200^4100150^Helping Hand Demo
+1761091200^4101020^OSO Demo
+1761091200^4104980^Flappy Witch
+1761091200^4106020^Dog Jump Demo
+1761091200^4106250^Empire’s Supreme Command Demo
+1761091200^4106680^College Baseball: Dynasty Builder Demo
+1761091200^4106990^Hoppin: Into the Woods Demo
+1761091200^4109530^Soulscape Demo

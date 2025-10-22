@@ -1,3 +1,28 @@
+1761091200^4109530^Soulscape Demo
+1761091200^4106990^Hoppin: Into the Woods Demo
+1761091200^4106680^College Baseball: Dynasty Builder Demo
+1761091200^4106250^Empire’s Supreme Command Demo
+1761091200^4106020^Dog Jump Demo
+1761091200^4104980^Flappy Witch
+1761091200^4101020^OSO Demo
+1761091200^4100150^Helping Hand Demo
+1761091200^4097110^Cthulhu Mysteries: Veins of Arkham Demo
+1761091200^4095160^Fibtaxe Demo
+1761091200^4093600^Creepy Races Demo
+1761091200^4093260^波兰球：黑色启示录 Demo
+1761091200^4087680^PHi Demo
+1761091200^4085960^Only Animals Demo
+1761091200^4084800^Crude Survivor TD Demo
+1761091200^4083290^Ghost Shooter Demo
+1761091200^4079460^Rotten Life: Desert Prisoner Demo
+1761091200^4076430^HerboVest Demo
+1761091200^4064230^Bellochia: Love Powered by Gears Demo
+1761091200^4062500^First Demo
+1761091200^4049410^No Way Back: Dark Horizon Demo
+1761091200^4032390^Rogum A Cat Match Puzzle Demo
+1761091200^3975070^Is Anybody There? Demo
+1761091200^3877270^扑克大乱斗 Demo
+1761091200^3712760^Ghost Golfing Demo
 1761004800^4104190^Aqua Chamber Demo
 1761004800^4104110^No One Leaves the Field Demo
 1761004800^4099770^ShadowStrikeVR Demo
@@ -73,28 +98,3 @@
 1760572800^3668160^The Ballad of Bellum Demo
 1760572800^3141200^Pixel Pixie Demo
 1760140800^4098530^FIGHT-QUEST Demo
-1760140800^4090850^Hobby Horse: First Ride Demo
-1760140800^4090480^Coaster Crash Course Demo
-1760140800^4088800^Ballrun - Demo
-1760140800^4083870^Fleet Tycoon Demo
-1760140800^4080790^Dice x Deck Demo
-1760140800^4077250^FIND ALL: Halloween Demo
-1760140800^4072040^Fallfate: Impulsive Plinko Demo
-1760140800^4070830^Moon Garden Optimizer Demo
-1760140800^4067610^伝奇系ビジュアルノベル『十四番目のΞ（グザイ） 壱・弐』 Demo
-1760140800^4066760^Professor Simulator Demo
-1760140800^4065620^Dread Meridian™ Demo
-1760140800^4064770^Half Light Demo
-1760140800^4062550^Cat Vs Slime 猫咪大战史莱姆 Demo
-1760140800^4059820^Cat carried Butterfly Demo
-1760140800^4055630^How should I keep a house squeaky clean, with a filthy little neighbour ghost? Demo
-1760140800^4052720^Slime Changer Demo
-1760140800^4046030^The Single-Eye Nightmare Demo
-1760140800^4035330^Machine Tower 2984 Demo
-1760140800^4028390^Traveler Arena Demo
-1760140800^4028320^Nice City Demo
-1760140800^4027870^妹居物语 Demo
-1760140800^4010040^万象之环 Demo
-1760140800^4009670^T.K. Punk Demo
-1760140800^4001280^Your Time Has Come Demo
-1760140800^3997990^YAPYAP Demo
