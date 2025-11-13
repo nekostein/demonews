@@ -1659,3 +1659,29 @@
 1761955200^4093180^Dwarven Rampart Demo
 1761955200^4125720^Do Not Disturb: Untold Tales Demo
 1761955200^4126070^WITHER Demo
+1762992000^3942540^Modavuj Market Simulator Demo
+1762992000^3943140^Blue Dynasty:Town Defense Demo
+1762992000^3967630^GraveNight Demo
+1762992000^4051240^Lyre Demo
+1762992000^4052490^Monster Market Simulator Modavuj Multiplayer Demo
+1762992000^4095110^Tileweaver Demo
+1762992000^4108820^No Mercy Maze Demo
+1762992000^4113620^Erebound Demo
+1762992000^4114390^Mutiny (Demo)
+1762992000^4128040^Agebringer Demo
+1762992000^4132230^Rage Flick Demo
+1762992000^4134200^Irezumi Defenders Demo
+1762992000^4138750^Streetlight Syndicate Demo
+1762992000^4139370^Panic Files: Buried Sanity Demo
+1762992000^4139500^Chicks In Trouble Demo
+1762992000^4149830^Trees Adventure Demo
+1762992000^4154870^Alpha Nomos - Demo
+1762992000^4156200^Demon Stick Demo
+1762992000^4158500^Next Please Demo
+1762992000^4162380^Waddle Paddle Demo
+1762992000^4166500^Kitty Haven Demo
+1762992000^4166610^Seventh Seal Demo
+1762992000^4167210^Rare Rabbits - Snuggle Haven Demo
+1762992000^4168340^Game Store Chronicle Demo
+1762992000^4170070^Mommy don't hurt me mommy don't hurt me mommy don't hurt me Demo
+1762992000^4170330^Unlimited Farm Tycoon - Cozy Idle Farm Game Demo
