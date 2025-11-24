@@ -1685,3 +1685,13 @@
 1762992000^4168340^Game Store Chronicle Demo
 1762992000^4170070^Mommy don't hurt me mommy don't hurt me mommy don't hurt me Demo
 1762992000^4170330^Unlimited Farm Tycoon - Cozy Idle Farm Game Demo
+1763856000^4098240^Legendary Heroes - A Game Of Death Demo
+1763856000^4145330^Return to Rezpulka Demo
+1763856000^4176550^Backshot Brothel Demo
+1763856000^4184090^Aeons of Rebirth Demo
+1763856000^4184590^Cyberpunk Inquisitor Demo
+1763856000^4197070^Europe2999 Demo
+1763856000^4198350^桌面弹珠 Demo
+1763942400^3981700^Salt VS Pepper Demo
+1763942400^4148220^Bounce95 Demo
+1763942400^4185090^Around the Block Demo
