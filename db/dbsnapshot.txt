@@ -1,3 +1,23 @@
+1764633600^4222560^Retro Golf Mania Demo
+1764633600^4220950^Ghost Restaurant Demo
+1764633600^4218150^Auto Statue Battle: the forces of evil Demo
+1764633600^4214880^Mothiary Demo
+1764633600^4211190^A.A.U. Demo
+1764633600^4207820^Astar Solis Demo
+1764633600^4205660^Dungeon Tactics: Idle, Incremental, Autobattler Demo
+1764633600^4202790^Drone Strike - Tb2 Demo
+1764633600^4202150^Burden Street Station Demo
+1764633600^4199260^Candy Brain Demo
+1764633600^4198580^Orbital Crew Demo
+1764633600^4198500^The Lampkeeper Demo
+1764633600^4191890^Peregrino Demo
+1764633600^4189620^A Color Theory Demo
+1764633600^4183670^Shallow Pond Demo
+1764633600^4164220^ガチムチでドスケベな家庭教師のお兄さんと過ごす春 Demo
+1764633600^4066890^Good News Demo
+1764633600^3994770^真男人修仙 Demo
+1764633600^3940840^Trading Card Inspector Demo
+1764633600^3713630^Paddlenoid Demo
 1763942400^4185090^Around the Block Demo
 1763942400^4148220^Bounce95 Demo
 1763942400^3981700^Salt VS Pepper Demo
@@ -78,23 +98,3 @@
 1761091200^4100150^Helping Hand Demo
 1761091200^4097110^Cthulhu Mysteries: Veins of Arkham Demo
 1761091200^4095160^Fibtaxe Demo
-1761091200^4093600^Creepy Races Demo
-1761091200^4093260^波兰球：黑色启示录 Demo
-1761091200^4087680^PHi Demo
-1761091200^4085960^Only Animals Demo
-1761091200^4084800^Crude Survivor TD Demo
-1761091200^4083290^Ghost Shooter Demo
-1761091200^4079460^Rotten Life: Desert Prisoner Demo
-1761091200^4076430^HerboVest Demo
-1761091200^4064230^Bellochia: Love Powered by Gears Demo
-1761091200^4062500^First Demo
-1761091200^4049410^No Way Back: Dark Horizon Demo
-1761091200^4032390^Rogum A Cat Match Puzzle Demo
-1761091200^3975070^Is Anybody There? Demo
-1761091200^3877270^扑克大乱斗 Demo
-1761091200^3712760^Ghost Golfing Demo
-1761004800^4104190^Aqua Chamber Demo
-1761004800^4104110^No One Leaves the Field Demo
-1761004800^4099770^ShadowStrikeVR Demo
-1761004800^4099130^Grid Forge TD Demo
-1761004800^4091140^Senior Survival Club Demo
