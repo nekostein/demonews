@@ -5,7 +5,8 @@ mkdir -p .workdir
 touch .workdir/item.html
 
 function build_html_item() {
-    cat $tmpl_path > .workdir/item.html
+    cat "$tmpl_path" > .workdir/item.html
+    sed -i "s|PICURL|$picurl|g" .workdir/item.html
     sed -i "s|APPID|$appid|g" .workdir/item.html
     sed -i "s|RELDATE|$date|g" .workdir/item.html
     sed -i "s|GAMETITLE|$title|g" .workdir/item.html
@@ -20,6 +21,9 @@ while read -r line; do
     date="$(cut -d^ -f1 <<< "$line")"
     appid="$(cut -d^ -f2 <<< "$line")"
     title="$(cut -d^ -f3- <<< "$line")"
+    curl "https://store.steampowered.com/api/appdetails?appids=$appid" > .workdir/appdetails-curl.txt || exit 5
+    picurl="$(jq -r     ".[\"$appid\"].data.header_image"   .workdir/appdetails-curl.txt)"
+    sleep 10
     tmpl=small
     if grep -sq "$appid" featured-apps.txt || [[ "$counter" == 0 ]]; then
         tmpl=large
