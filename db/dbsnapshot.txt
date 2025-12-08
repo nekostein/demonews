@@ -1,3 +1,25 @@
+1765152000^4228150^Tiny Egg Clicker Demo
+1765152000^4211390^Eco City Planner Demo
+1765152000^4200710^WIZARD PUNKS!!! Demo
+1765152000^4176420^A Session with Dr. Liebnitz - Ultimate Edition Demo
+1765152000^4163970^Pimbolas Demo
+1765152000^4111940^Gretel & Hansel Demo
+1765065600^4228530^Memories To Kill - The Silent Chalet Demo
+1765065600^4218320^A Week in Paradise Demo
+1765065600^4209340^Edge Of Evil Demo
+1765065600^4206210^Card Cricket Quest Demo
+1765065600^4198320^The Girl Walks Back Demo
+1765065600^4171700^Final Splash Demo
+1765065600^4161170^The Willowmist Emporium of Antiques & Curiosities Demo
+1765065600^4143760^Diesel Burners Demo
+1765065600^4047140^My Wife is a Spy?! Demo
+1764979200^4227890^Cardwheel Demo
+1764979200^4222460^Desktop Widget Demo
+1764979200^4202700^A stupid game about pouring drinks for the P.T.A. Demo
+1764979200^4199980^Ephialtes Demo
+1764979200^4177320^Nora and Riji: The Hole in the Ghetto Demo
+1764979200^4155260^1 Trillion Credits In Debt Demo
+1764979200^3831490^Metrocity - Discovery Town Demo
 1764892800^4231010^Santa's War on Christmas Demo
 1764892800^4230020^Ser Jorryn Demo
 1764892800^4224890^Detective INNA DUKE Demo
@@ -76,25 +98,3 @@
 1762992000^4113620^Erebound Demo
 1762992000^4108820^No Mercy Maze Demo
 1762992000^4095110^Tileweaver Demo
-1762992000^4052490^Monster Market Simulator Modavuj Multiplayer Demo
-1762992000^4051240^Lyre Demo
-1762992000^3967630^GraveNight Demo
-1762992000^3943140^Blue Dynasty:Town Defense Demo
-1762992000^3942540^Modavuj Market Simulator Demo
-1761955200^4126070^WITHER Demo
-1761955200^4125720^Do Not Disturb: Untold Tales Demo
-1761955200^4093180^Dwarven Rampart Demo
-1761955200^3928590^Mace Knight Demo
-1761955200^3876210^Hermit Demo
-1761955200^3858710^Retro Rewind - Video Store Simulator Demo
-1761868800^4141890^Tower Defense Classic I Demo
-1761868800^4139870^Geo Fighters Demo
-1761868800^4137180^Telera Demo
-1761868800^4136910^Into The Fright Demo
-1761868800^4133690^魔法扫帚 Enchanted Broom Demo
-1761868800^4133470^Sol and the Endless Orbit Demo
-1761868800^4132490^Cyber Breaker Demo
-1761868800^4130680^Bedtime Nightmare Demo
-1761868800^4129680^Pulse of the Neon Soul Demo
-1761868800^4122270^Misadventures of Spaceman Biff Demo
-1761868800^4121020^Ephemeral Art: Shapeweaver (Demo)

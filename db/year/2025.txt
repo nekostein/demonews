@@ -1742,3 +1742,25 @@
 1764892800^4224890^Detective INNA DUKE Demo
 1764892800^4230020^Ser Jorryn Demo
 1764892800^4231010^Santa's War on Christmas Demo
+1764979200^3831490^Metrocity - Discovery Town Demo
+1764979200^4155260^1 Trillion Credits In Debt Demo
+1764979200^4177320^Nora and Riji: The Hole in the Ghetto Demo
+1764979200^4199980^Ephialtes Demo
+1764979200^4202700^A stupid game about pouring drinks for the P.T.A. Demo
+1764979200^4222460^Desktop Widget Demo
+1764979200^4227890^Cardwheel Demo
+1765065600^4047140^My Wife is a Spy?! Demo
+1765065600^4143760^Diesel Burners Demo
+1765065600^4161170^The Willowmist Emporium of Antiques & Curiosities Demo
+1765065600^4171700^Final Splash Demo
+1765065600^4198320^The Girl Walks Back Demo
+1765065600^4206210^Card Cricket Quest Demo
+1765065600^4209340^Edge Of Evil Demo
+1765065600^4218320^A Week in Paradise Demo
+1765065600^4228530^Memories To Kill - The Silent Chalet Demo
+1765152000^4111940^Gretel & Hansel Demo
+1765152000^4163970^Pimbolas Demo
+1765152000^4176420^A Session with Dr. Liebnitz - Ultimate Edition Demo
+1765152000^4200710^WIZARD PUNKS!!! Demo
+1765152000^4211390^Eco City Planner Demo
+1765152000^4228150^Tiny Egg Clicker Demo
