@@ -23,7 +23,7 @@ while read -r line; do
     title="$(cut -d^ -f3- <<< "$line")"
     curl "https://store.steampowered.com/api/appdetails?appids=$appid" > .workdir/appdetails-curl.txt || exit 5
     picurl="$(jq -r     ".[\"$appid\"].data.header_image"   .workdir/appdetails-curl.txt)"
-    sleep 10
+    sleep 15
     tmpl=small
     if grep -sq "$appid" featured-apps.txt || [[ "$counter" == 0 ]]; then
         tmpl=large
