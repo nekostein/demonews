@@ -15,24 +15,28 @@ function build_html_item() {
 
 echo '' > .workdir/list.html
 
-counter=0
-while read -r line; do
-    echo "line=$line"
-    date="$(cut -d^ -f1 <<< "$line")"
-    appid="$(cut -d^ -f2 <<< "$line")"
-    title="$(cut -d^ -f3- <<< "$line")"
-    curl "https://store.steampowered.com/api/appdetails?appids=$appid" > .workdir/appdetails-curl.txt || exit 5
-    picurl="$(jq -r     ".[\"$appid\"].data.header_image"   .workdir/appdetails-curl.txt)"
-    sleep 15
-    tmpl=small
-    if grep -sq "$appid" featured-apps.txt || [[ "$counter" == 0 ]]; then
-        tmpl=large
-    fi
-    tmpl_path="wwwsrc/comp/$tmpl.html"
-    build_html_item
+function __fetchAll() {
+    counter=0
+    while read -r line; do
+        echo "line=$line"
+        date="$(cut -d^ -f1 <<< "$line")"
+        appid="$(cut -d^ -f2 <<< "$line")"
+        title="$(cut -d^ -f3- <<< "$line")"
+        curl "https://store.steampowered.com/api/appdetails?appids=$appid" > .workdir/appdetails-curl.txt || return 5
+        picurl="$(jq -r     ".[\"$appid\"].data.header_image"   .workdir/appdetails-curl.txt)"
+        sleep 6
+        tmpl=small
+        if grep -sq "$appid" featured-apps.txt || [[ "$counter" == 0 ]]; then
+            tmpl=large
+        fi
+        tmpl_path="wwwsrc/comp/$tmpl.html"
+        build_html_item
 
-    counter=$((counter+1))
-done < db/dbsnapshot.txt
+        counter=$((counter+1))
+    done
+}
+
+__fetchAll < db/dbsnapshot.txt
 
 
 node sh/makehome.js

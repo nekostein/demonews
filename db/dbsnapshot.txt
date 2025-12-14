@@ -97,4 +97,3 @@
 1764633600^4211190^A.A.U. Demo
 1764633600^4207820^Astar Solis Demo
 1764633600^4205660^Dungeon Tactics: Idle, Incremental, Autobattler Demo
-1764633600^4202790^Drone Strike - Tb2 Demo
