@@ -22,9 +22,9 @@ function __fetchAll() {
         date="$(cut -d^ -f1 <<< "$line")"
         appid="$(cut -d^ -f2 <<< "$line")"
         title="$(cut -d^ -f3- <<< "$line")"
-        curl "https://store.steampowered.com/api/appdetails?appids=$appid" > .workdir/appdetails-curl.txt || return 5
+        curl --retry 12 --retry-delay 8 --retry-max-time 400 --retry-all-errors -f "https://store.steampowered.com/api/appdetails?appids=$appid" > .workdir/appdetails-curl.txt || return 5
         picurl="$(jq -r     ".[\"$appid\"].data.header_image"   .workdir/appdetails-curl.txt)"
-        sleep 6
+        sleep 8
         tmpl=small
         if grep -sq "$appid" featured-apps.txt || [[ "$counter" == 0 ]]; then
             tmpl=large
