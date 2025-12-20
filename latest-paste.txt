@@ -1,40 +1,34 @@
-1765584000^4248690^Fuel Me Up Demo
-1765584000^4230010^Unanchored Spaceshooting Demo
-1765584000^4230000^Twin Balls Journey Demo
-1765584000^4226730^Bang Pass Duel Demo
-1765584000^4222190^In Trusted Hands Demo
-1765584000^4207510^Light Devourer Demo
-1765584000^3099420^Banana Simulator Demo
-1765497600^4247340^The Long Way Home Demo
-1765497600^4246040^Obscure Horrors Demo
-1765497600^4243800^Catto Chateau Demo
-1765497600^4243310^BULLET CHAIN - Vessels Demo
-1765497600^4240890^Simpleffects Demo
-1765497600^4239400^Elezion Demo
-1765497600^4239280^Reflex Run Demo
-1765497600^4239180^Space Trench Demo
-1765497600^4238950^Love & Fool's Gold Demo
-1765497600^4238130^Wizards & Summons Demo
-1765497600^4237760^Mutter Demo
-1765497600^4237650^One Hop Ahead Demo
-1765497600^4233860^Eggventure Demo
-1765497600^4231160^Antenna Dilemma Demo
-1765497600^4229990^Hilarious Delivery Demo
-1765497600^4227780^RHL 20XX Demo
-1765497600^4227690^ゴチャスラ ダッシュ: カウントダウン パズル 体験版
-1765497600^4222470^Dreamstory Demo
-1765497600^4220890^Operation Terra Demo
-1765497600^4220800^Coraroc Demo
-1765497600^4217630^End's Reach Demo
-1765497600^4215630^Godfinger Demo
-1765497600^4196430^Nimillion - The last expedition Demo
-1765497600^4187220^DJ Life Simulator: From Your Bedroom to the Mainstage Demo
-1765497600^4186470^シニ戻リ誰ガ為 Demo
-1765497600^4176880^Chegra: The Lost Recipe Demo
-1765497600^4171900^Experiment 404 Demo
-1765497600^4120720^RoboDeal Simulator Demo
-1765497600^4111020^Flipping is Hard Demo
-1765497600^4074210^背包闯江湖 试玩版
-1765497600^4046350^Boo! Demo
-1765497600^4034010^Card Sim: Chinese Restaurant Demo
-1765497600^4016190^Zero to Army Demo
+1766102400^3700440^Ivayami - Cradle of Fog Demo
+1766102400^3896390^LANDLORD Demo
+1766102400^3916970^SwitchTrack Demo
+1766102400^3981170^圣审者 -《方物万物》
+1766102400^4136970^Mindkind: El Arca Nuclear Demo
+1766102400^4161460^Under the River
+1766102400^4166130^The Legend of Heroes: Trails beyond the Horizon Demo
+1766102400^4176700^Rushcremental Demo
+1766102400^4183220^hitogata Demo
+1766102400^4188990^Blocking Blocks Demo
+1766102400^4193560^Futa Slug EX Demo
+1766102400^4211550^Dolls: The Hunt Demo
+1766102400^4223260^Beyond The Limits Demo
+1766102400^4224860^Whiskers Tale Demo
+1766102400^4226650^Pixel Builder Demo
+1766102400^4228770^Shadereap Demo
+1766102400^4233070^Star Buddy Demo
+1766102400^4236140^AUTO DERBY CASINO Demo
+1766102400^4237550^The Dark Curiosity Demo
+1766102400^4238930^Monster Mine Clash Demo
+1766102400^4238980^Casenology Demo
+1766102400^4240590^Heatwave: Sam's Stay Demo
+1766102400^4244620^Home Invaders Demo
+1766102400^4251060^The Zyrdain Sands Demo
+1766102400^4255470^Marshmallow's Adventure Demo
+1766102400^4256100^Veil: Project Conductor Demo
+1766102400^4257410^Chainsaw Demo
+1766188800^3462410^Miniature Shop Simulator: Demo
+1766188800^4224840^Hyperthymesia
+1766188800^4236570^The Princess Factory Demo
+1766188800^4243170^Parallel Dungeons Demo
+1766188800^4245040^The Bazaar Demo
+1766188800^4255820^Guinea Isles Demo
+1766188800^4257170^Invocation: Ghost Photography Demo

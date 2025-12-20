@@ -1807,4 +1807,62 @@
 1765584000^4230000^Twin Balls Journey Demo
 1765584000^4230010^Unanchored Spaceshooting Demo
 1765584000^4248690^Fuel Me Up Demo
-__fetchAll
+1765843200^2172400^Eager For Den Demo
+1765843200^4149780^Daemon: The Wolf, The Witch, and the Labyrinth Demo
+1765843200^4174460^Deskworm Demo
+1765843200^4213710^7 Days Blood Moons Demo
+1765843200^4213800^Blastroid Demo
+1765843200^4224850^Pupple Pop Demo
+1765843200^4225130^Surfpunk Demo
+1765843200^4232580^SECOND WIND Demo
+1765843200^4237290^Treasures of the Maipo Demo
+1765843200^4241730^Echoes of the Rest Demo
+1765843200^4245540^Nanima Demo
+1765843200^4248000^How Many Dudes? Demo
+1765843200^4248380^Mirror Atelier - Demo
+1765843200^4248400^Petunia's Purgatory Demo
+1765843200^4250570^Unknown TD Demo
+1765929600^4151840^Don't wake up Demo
+1765929600^4163840^El Bandito VR Demo
+1765929600^4221580^星之城 Demo
+1765929600^4225690^Hurling Herman Demo
+1765929600^4229500^Race Max Pro Demo
+1765929600^4241800^The Conglomerate Demo
+1765929600^4242980^Shippin Demo
+1766102400^3700440^Ivayami - Cradle of Fog Demo
+1766102400^3896390^LANDLORD Demo
+1766102400^3916970^SwitchTrack Demo
+1766102400^3981170^圣审者 -《方物万物》
+1766102400^4136970^Mindkind: El Arca Nuclear Demo
+1766102400^4161460^Under the River
+1766102400^4166130^The Legend of Heroes: Trails beyond the Horizon Demo
+1766102400^4176700^Rushcremental Demo
+1766102400^4182730^Menes: The Chainbreaker Demo
+1766102400^4183220^hitogata Demo
+1766102400^4188990^Blocking Blocks Demo
+1766102400^4193560^Futa Slug EX Demo
+1766102400^4211550^Dolls: The Hunt Demo
+1766102400^4223260^Beyond The Limits Demo
+1766102400^4224190^Hero Link Demo
+1766102400^4224860^Whiskers Tale Demo
+1766102400^4226650^Pixel Builder Demo
+1766102400^4228770^Shadereap Demo
+1766102400^4233070^Star Buddy Demo
+1766102400^4236140^AUTO DERBY CASINO Demo
+1766102400^4237150^永恒与星辰与日常 Demo
+1766102400^4237550^The Dark Curiosity Demo
+1766102400^4238930^Monster Mine Clash Demo
+1766102400^4238980^Casenology Demo
+1766102400^4240590^Heatwave: Sam's Stay Demo
+1766102400^4244620^Home Invaders Demo
+1766102400^4251060^The Zyrdain Sands Demo
+1766102400^4255470^Marshmallow's Adventure Demo
+1766102400^4256100^Veil: Project Conductor Demo
+1766102400^4257410^Chainsaw Demo
+1766188800^3462410^Miniature Shop Simulator: Demo
+1766188800^4224840^Hyperthymesia
+1766188800^4236570^The Princess Factory Demo
+1766188800^4243170^Parallel Dungeons Demo
+1766188800^4245040^The Bazaar Demo
+1766188800^4255820^Guinea Isles Demo
+1766188800^4257170^Invocation: Ghost Photography Demo

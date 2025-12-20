@@ -33,7 +33,7 @@ function __fetchAll() {
         build_html_item
 
         counter=$((counter+1))
-    done
+    done < /dev/stdin
 }
 
 __fetchAll < db/dbsnapshot.txt
