@@ -1,3 +1,25 @@
+1766448000^4264130^Cancer Crusher USA Demo
+1766448000^4258350^Project Liminal 2 Demo
+1766448000^4257620^Interdimensional Vending Machine Demo
+1766448000^4252240^这是谐音梗 Demo
+1766448000^4241370^Chrono Spin Demo
+1766448000^4234250^Trial of Spell Cards Demo
+1766448000^4201480^Word95 Demo
+1766448000^4178440^Train Goes Right Demo
+1766448000^3999620^Tell Me Owl Demo
+1766448000^2476700^ARIE: Moonprayer Demo
+1766361600^4254550^YUME ROOF Demo
+1766361600^4250120^Mind Scraper Demo
+1766361600^4246650^Farewell Jack Demo
+1766361600^4244360^Buried Spirits Demo
+1766361600^4242220^Basilisk's Isles Demo
+1766361600^4239350^Bunker KYS Demo
+1766361600^4237800^FAFO Executive Order Simulator Demo
+1766361600^4233880^Rocket Engineer Demo
+1766361600^4217110^Heartlines Demo
+1766361600^4144320^Giggle Night: Trixie's Trial Demo
+1766361600^4101350^Crime Shadows : Stolen Spotlight Collector's Edition Demo
+1766361600^3948710^Alegraz Demo
 1766188800^4257170^Invocation: Ghost Photography Demo
 1766188800^4255820^Guinea Isles Demo
 1766188800^4245040^The Bazaar Demo
@@ -76,25 +98,3 @@
 1765497600^4238130^Wizards & Summons Demo
 1765497600^4237760^Mutter Demo
 1765497600^4237650^One Hop Ahead Demo
-1765497600^4233860^Eggventure Demo
-1765497600^4231160^Antenna Dilemma Demo
-1765497600^4229990^Hilarious Delivery Demo
-1765497600^4227780^RHL 20XX Demo
-1765497600^4227690^ゴチャスラ ダッシュ: カウントダウン パズル 体験版
-1765497600^4222470^Dreamstory Demo
-1765497600^4220890^Operation Terra Demo
-1765497600^4220800^Coraroc Demo
-1765497600^4217630^End's Reach Demo
-1765497600^4215630^Godfinger Demo
-1765497600^4196430^Nimillion - The last expedition Demo
-1765497600^4187220^DJ Life Simulator: From Your Bedroom to the Mainstage Demo
-1765497600^4186470^シニ戻リ誰ガ為 Demo
-1765497600^4176880^Chegra: The Lost Recipe Demo
-1765497600^4171900^Experiment 404 Demo
-1765497600^4120720^RoboDeal Simulator Demo
-1765497600^4111020^Flipping is Hard Demo
-1765497600^4074210^背包闯江湖 试玩版
-1765497600^4046350^Boo! Demo
-1765497600^4034010^Card Sim: Chinese Restaurant Demo
-1765497600^4016190^Zero to Army Demo
-1765497600^3962730^Celestial Drift Demo
