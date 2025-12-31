@@ -1,24 +1,18 @@
-1766707200^3953090^GIVE ME A WEAPON! Demo
-1766707200^4101420^Combosmith Demo
-1766707200^4110330^Sex Beats Demo
-1766707200^4157260^Milfy Cases: Damsels in Distress Demo
-1766707200^4158320^Terminal Demo
-1766707200^4171160^ShuffleHunt Demo
-1766707200^4182590^BrawlMart Demo
-1766707200^4205620^Project Dejavu Demo
-1766707200^4236530^挽天：汉末（BRUTAL WAR : The Fall of Great Han）Demo
-1766707200^4248450^Database Detective: Minor Crimes Division Demo
-1766707200^4259080^Reap & Repay Demo
-1766707200^4269940^The Gilded Lady: Life and Love in a Cyborg Shop Demo
-1766793600^4083880^異麒麟：旭日初升 Demo
-1766793600^4146980^Your Boyfriend Demo
-1766793600^4182420^猫咪使魔培养中心-Cat Familiar Center Demo
-1766793600^4214750^Defragmenting Demo
-1766793600^4220910^Dice Roller Incremental Demo
-1766793600^4260400^Last Mind Standing Demo
-1766793600^4265470^Twilight Ferry Demo
-1766793600^4266590^A Little Physics Roguelike Demo
-1766793600^4273750^Warp Mania Demo
-1766880000^4252260^Did you visit CommutatorApply Demo
-1766880000^4263340^Submerged Lights Demo
-1766880000^4275660^Airport Inspector Demo
+1767052800^4166100^Case Solved: The London Files Demo
+1767052800^4170580^Chop Chains Demo
+1767052800^4177530^Brawl Burrow Demo
+1767052800^4249840^Gorotsuki Paradise Demo
+1767052800^4264160^A Philosophical Discussion of Worms Demo
+1767052800^4269080^道渡しのオーレリア Demo
+1767052800^4269200^Fragmentary Demo
+1767139200^3274360^Starry Night Chronicles: Colorful Mirage
+1767139200^3956040^Eclipse: Anomaly Research Demo
+1767139200^4229660^星际圣灵 Demo
+1767139200^4238790^车辙制造者 Demo
+1767139200^4241120^Herb Tea Man
+1767139200^4254710^离校 School's Out Demo
+1767139200^4261450^EVN Vibe Demo
+1767139200^4262690^Psyhonds Demo
+1767139200^4264360^평범한 우리집 Demo
+1767139200^4268290^Cryptic Valley Demo
+1767139200^4268930^Boat Builder Demo
