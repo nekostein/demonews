@@ -1,13 +1,28 @@
+1767398400^4269680^King's Downfall Demo
+1767398400^4257920^Marble Quest Demo
+1767398400^4151940^Remnants of Sin Demo
 1767312000^4276760^Talisman Demo
+1767312000^4276290^Ethan's Watch Demo
 1767312000^4273410^Explosiovania Demo
+1767312000^4272770^Junkyard File Demo
+1767312000^4264940^Open Fire: Ready Demo
+1767312000^4260710^AINUR Demo
+1767312000^4257060^Molekraft Demo
 1767312000^4256770^Spring Me Up Demo
+1767312000^4255750^In Search of Freedom Demo
+1767312000^4253360^Magic Tower: Legion Demo
 1767312000^4244070^Garden Ink Demo
+1767312000^4239260^Z12 Demo
 1767312000^4226450^Nightpyre Demo
+1767312000^4224630^异星战争 试玩版
 1767312000^4222940^Myth Requiem Demo
 1767312000^4214330^Tick Hop 2 Demo
+1767312000^4185000^Dash Dot Die Demo
 1767312000^4120840^Pineapple Legend Demo
+1767312000^4117370^Lofi Mahjong Demo
 1767312000^4049120^外星反骨仔 Demo
 1767312000^3954790^Void Harvest Demo
+1767312000^3863820^Illusive Domain Demo
 1767225600^4275200^Floral Fury Online Demo
 1767225600^4273230^Everfall 2: Idle Dungeon RPG Demo
 1767225600^4261100^Elysie Demo
@@ -83,18 +98,3 @@
 1766361600^4250120^Mind Scraper Demo
 1766361600^4246650^Farewell Jack Demo
 1766361600^4244360^Buried Spirits Demo
-1766361600^4242220^Basilisk's Isles Demo
-1766361600^4239350^Bunker KYS Demo
-1766361600^4237800^FAFO Executive Order Simulator Demo
-1766361600^4233880^Rocket Engineer Demo
-1766361600^4217110^Heartlines Demo
-1766361600^4144320^Giggle Night: Trixie's Trial Demo
-1766361600^4101350^Crime Shadows : Stolen Spotlight Collector's Edition Demo
-1766361600^3948710^Alegraz Demo
-1766188800^4257170^Invocation: Ghost Photography Demo
-1766188800^4255820^Guinea Isles Demo
-1766188800^4245040^The Bazaar Demo
-1766188800^4243170^Parallel Dungeons Demo
-1766188800^4236570^The Princess Factory Demo
-1766188800^4224840^Hyperthymesia
-1766188800^3462410^Miniature Shop Simulator: Demo
