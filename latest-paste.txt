@@ -1,12 +1,3 @@
-1767225600^2630940^World War 2 Agenda Demo
-1767225600^4025300^Mind Inc Demo
-1767225600^4077190^千禧失乐园 Demo
-1767225600^4100010^Aclaíocht do Deamhain Demo
-1767225600^4195550^The Grant Grover Anthology Demo
-1767225600^4225600^Kuentame Demo
-1767225600^4248030^Tinker Game Demo
-1767225600^4261100^Elysie Demo
-1767225600^4275200^Floral Fury Online Demo
 1767312000^3863820^Illusive Domain Demo
 1767312000^3954790^Void Harvest Demo
 1767312000^4049120^外星反骨仔 Demo
@@ -18,7 +9,6 @@
 1767312000^4224630^异星战争 试玩版
 1767312000^4226450^Nightpyre Demo
 1767312000^4239260^Z12 Demo
-1767312000^4244070^Garden Ink Demo
 1767312000^4253360^Magic Tower: Legion Demo
 1767312000^4255750^In Search of Freedom Demo
 1767312000^4256770^Spring Me Up Demo
@@ -29,6 +19,12 @@
 1767312000^4273410^Explosiovania Demo
 1767312000^4276290^Ethan's Watch Demo
 1767312000^4276760^Talisman Demo
+1767398400^4138310^Adventure TD Demo
 1767398400^4151940^Remnants of Sin Demo
+1767398400^4237350^Cleared For Impact Demo
 1767398400^4257920^Marble Quest Demo
+1767398400^4260660^Trushybin & Removin: What I Couldn’t Delete Demo
 1767398400^4269680^King's Downfall Demo
+1767398400^4277670^Royal Dental Demo
+1767484800^4034510^愿你拿一手同花顺 May the cards lay out a straight Demo
+1767484800^4223890^Book Of The Abyss Demo

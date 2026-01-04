@@ -39,6 +39,12 @@
 1767312000^4273410^Explosiovania Demo
 1767312000^4276290^Ethan's Watch Demo
 1767312000^4276760^Talisman Demo
+1767398400^4138310^Adventure TD Demo
 1767398400^4151940^Remnants of Sin Demo
+1767398400^4237350^Cleared For Impact Demo
 1767398400^4257920^Marble Quest Demo
+1767398400^4260660^Trushybin & Removin: What I Couldn’t Delete Demo
 1767398400^4269680^King's Downfall Demo
+1767398400^4277670^Royal Dental Demo
+1767484800^4034510^愿你拿一手同花顺 May the cards lay out a straight Demo
+1767484800^4223890^Book Of The Abyss Demo
