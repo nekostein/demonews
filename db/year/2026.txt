@@ -46,5 +46,15 @@
 1767398400^4260660^Trushybin & Removin: What I Couldn’t Delete Demo
 1767398400^4269680^King's Downfall Demo
 1767398400^4277670^Royal Dental Demo
+1767484800^3662000^RogueDiceR Demo
+1767484800^3987010^Mayor Life Simulator Demo
 1767484800^4034510^愿你拿一手同花顺 May the cards lay out a straight Demo
+1767484800^4084950^CapyBash Demo
 1767484800^4223890^Book Of The Abyss Demo
+1767484800^4250970^GLIDE Demo
+1767571200^4226030^コメンテーター Demo
+1767571200^4250640^Red Sky Demo
+1767571200^4265290^Lost in Hieroglyphs: A Hidden Objects Expedition Demo
+1767571200^4272450^Trapped on the FlipSide - Demo
+1767571200^4275960^Wisdom Tower Demo
+1767571200^4280430^Bowlers Demo
