@@ -113,3 +113,31 @@
 1767830400^4259270^Convenience Store Simulator Demo
 1767830400^4260440^Down Hell Demo
 1767830400^4278270^駅前のカフカ Demo
+1768003200^4125540^Aurora Heights Demo
+1768003200^4251300^Burger Shift: Team Rush Demo
+1768003200^4308230^Signal Zone Demo
+1768089600^3825670^咎絆ぎ Chapter1 Demo
+1768089600^3967200^Eyehold Blocks Demo
+1768089600^4187560^The Industrial Council Demo
+1768089600^4217500^Mainframe Men Demo
+1768089600^4222200^Duppy Detective Tashia Demo
+1768089600^4238000^Artifact Hunt: Yao Demo
+1768089600^4239730^Spellsy Demo
+1768089600^4245000^Memory Draw Demo
+1768089600^4250450^Paid in Blood (Pre-Release Demo)
+1768089600^4258940^KunKunNest Demo
+1768089600^4273860^Cryptoria Demo
+1768089600^4274150^Foghorns Drown Demo
+1768089600^4275070^Drive Together Demo
+1768089600^4282570^The Last Wizard - A Goblin Detective Mystery Demo
+1768089600^4291260^Dance Dance Detective Demo
+1768089600^4300240^quadrant Demo
+1768089600^4303050^Movie Business Demo
+1768089600^4304680^Lifecycles of the Traveler Spider Demo
+1768176000^2928230^There is NO PLAN B Demo
+1768176000^2947990^Ancestral Players Demo
+1768176000^4188940^Panzer Fantasy 16 Bits Demo
+1768176000^4222120^We need a doorman. Demo
+1768176000^4230860^Code: 9 Demo
+1768176000^4270880^Obsidian Moon Demo
+1768176000^4283220^NIPH Demo
