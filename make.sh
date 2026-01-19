@@ -7,7 +7,7 @@ case $1 in
             printf '[[entry]]
 timestamp = %s
 appid = "%s"
-title = "%s"\n' "$(cut -d^ -f1 <<< "$line")" "$(cut -d^ -f2 <<< "$line")" "$(cut -d^ -f3- <<< "$line")"
+title = """%s"""\n' "$(cut -d^ -f1 <<< "$line")" "$(cut -d^ -f2 <<< "$line")" "$(cut -d^ -f3- <<< "$line")"
         done < "$1" > "$1.toml"
         tomlq .entry "$1.toml" > "$1.json"
         ;;
