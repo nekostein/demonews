@@ -199,3 +199,26 @@
 1768780800^4320240^RE-TAPED Demo
 1768780800^4321100^Midnight Ramen Shop Demo
 1768780800^4329910^The Dungeon Of Horror Demo
+1769040000^3092480^Super Alloy Crush Demo
+1769040000^3241430^Winter Survivor Protocol Demo
+1769040000^4172130^VIOLA_ Demo
+1769040000^4195070^Nullpoint Protocol Demo
+1769040000^4228710^拾取宝石后意外觉醒了复制魔王力量的逆天技能 Demo
+1769040000^4246940^Malevolent Planet 2D Demo
+1769040000^4247810^One Less Choice Demo
+1769040000^4251440^Vitavania Demo
+1769040000^4274920^星のなっちゃんE 体験版 (星のなっちゃん Hoshi_no_Natchan Demo)
+1769040000^4285210^Dissonant Demo
+1769040000^4286830^RiffHammer Demo
+1769040000^4290300^噬丹 Demo
+1769040000^4307960^Blessed be the chamber Demo
+1769040000^4308480^地狱火:悟空 Demo
+1769040000^4315580^元素：演武牌 Demo
+1769040000^4315920^Hunted Within: The Metro Demo
+1769040000^4318090^Little Gods of the Abyss Demo
+1769040000^4321200^TicTacFootball Demo
+1769040000^4325510^Qwerty Garden Demo
+1769040000^4329770^Heroes of Arcania Demo
+1769040000^4336260^Doppelganger Demo
+1769040000^4336780^Carnival Roulette Demo
+1769040000^4338580^WorldWasGray Demo

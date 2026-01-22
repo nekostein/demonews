@@ -5,3 +5,5 @@ node_modules/
 wwwdist/
 .wrangler/
 db/dbsnapshot.txt
+latest-paste.txt
+.hash_stored
