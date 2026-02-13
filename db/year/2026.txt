@@ -298,3 +298,32 @@
 1770681600^4401920^Monster Tavern Demo
 1770681600^4402000^S.A.F.E Demo
 1770681600^4402710^Survivors 27 Demo
+1770940800^2709780^Greed Hunters Demo
+1770940800^3887730^Zodiac Requiem Demo
+1770940800^3966550^S-mail Demo
+1770940800^4004320^Intentional Bugs Demo
+1770940800^4061810^A Game About Penguins (Demo)
+1770940800^4065630^Factory Life Demo
+1770940800^4088160^Fire & Crown: A Demo of the Hundred Years' War
+1770940800^4089630^Zeta Wolf Chronicles Demo
+1770940800^4203650^Ghost Milf Demo
+1770940800^4227490^Echoes From Ciudadela Demo
+1770940800^4229440^Cozy Factory Demo
+1770940800^4238390^Miya Might Break Demo
+1770940800^4257770^THE VIG Demo
+1770940800^4281330^My Eerie Lair Demo
+1770940800^4285920^甜点饿魔 Demo
+1770940800^4302550^HS-014 Demo
+1770940800^4320630^Antivirus Survivors 2003 Professional Demo
+1770940800^4345940^Christian Mother Demo
+1770940800^4367360^Incremental Ragebait Demo
+1770940800^4371080^Moonshiner Simulator Demo
+1770940800^4377540^Crimson Banner: War of Liberation Demo
+1770940800^4381510^Brawl Squad X: Battle Arena Demo
+1770940800^4381830^Ice Cream Simulator Demo
+1770940800^4398600^ノリ・リズム Demo
+1770940800^4405040^Mutagenic 2 Demo
+1770940800^4412990^Notebook Battlegrounds Demo
+1770940800^4415860^The Lightseeker Demo
+1770940800^4415930^Posse of 3 Demo
+1770940800^4417290^Divinity Vassals Demo
