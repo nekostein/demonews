@@ -386,3 +386,42 @@
 1771459200^4437930^Farewells clicker Demo
 1771459200^4438020^Shoot till you meet Death Demo
 1771459200^4439430^Shadow of the Matrix Demo
+1771977600^1773130^HOLLOW HOUSE Demo
+1771977600^3357720^DEEPFANG - DEMO
+1771977600^3430310^Dungeons of Ironshade Demo
+1771977600^4109920^Dead Fibers Demo
+1771977600^4274490^Rondo's Romp Demo
+1771977600^4282560^Mina Demo
+1771977600^4296140^邪惡少女的狂歡！－Evil Girls Party!－ Demo
+1771977600^4300700^Anidema Demo
+1771977600^4303770^Time to Die Demo
+1771977600^4338870^FantasyWars Demo
+1771977600^4345940^Christian Mother Demo
+1771977600^4367710^Tai Chi 24: Follow Me Demo
+1771977600^4410650^Spellblade: Vengeance of the Witch Sisters Demo
+1771977600^4415600^荒古遗迹 Demo
+1771977600^4418740^Cater Co. Demo
+1771977600^4419370^Babushka – Old Lady’s Payback Demo
+1771977600^4421050^Save the President : Trust Issues Demo
+1771977600^4422110^Fragile Frontier Demo
+1771977600^4429550^Laura.ai Demo
+1771977600^4437700^Breaking Deck Demo
+1771977600^4437760^The Game Has Started Demo
+1771977600^4439080^Purrfect Ascent Demo
+1771977600^4439150^The Family Trip Demo
+1771977600^4443190^Glass Demo
+1771977600^4443680^无人聆听 - Nobody Hears Demo
+1771977600^4444760^Silent Village: Beneath The Silence Demo
+1771977600^4449630^The Last Route Together - Ashwood Trip Demo
+1771977600^4449770^Floriety Demo
+1771977600^4450230^Retro Sniper Demo
+1771977600^4452010^One, Two, Death Demo
+1771977600^4453240^Soul Return Demo
+1771977600^4453780^Slimes and Arrows Demo
+1771977600^4453820^Solar Escape Demo
+1771977600^4453960^Darkest Messia Demo
+1771977600^4454480^Rites & Receipts Demo
+1771977600^4454660^AREA WARS™ Demo
+1771977600^4455760^Emoji Squad Demo
+1771977600^4455900^BaulaQuest Demo (v1.0)
+1771977600^4457720^Primarch Demo
