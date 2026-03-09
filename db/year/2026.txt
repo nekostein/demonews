@@ -538,3 +538,25 @@
 1772928000^4484520^Lux Anima Demo
 1772928000^4486240^A Tiny Life Demo
 1772928000^4493110^Hosting Simulator Demo
+1773014400^2610360^Scrap Story Demo
+1773014400^3043560^Dungeons and Dining Tables Demo
+1773014400^3141700^Geometry Defense: Infinite Demo
+1773014400^3721510^Rhythm Katana Dance Demo
+1773014400^3807400^Drunkonauts Demo
+1773014400^3845940^Stellarcraft Demo
+1773014400^3868280^Age of Tribulation Demo
+1773014400^4164190^Duola Mage
+1773014400^4285670^Corner Quest Demo
+1773014400^4327990^Moldwasher Demo
+1773014400^4431200^Swarm Bunker: Lust Defense Demo
+1773014400^4447610^Wilds of the Realmwalker Demo
+1773014400^4449970^Neon Bullet Demo
+1773014400^4450310^Club Defenders Demo
+1773014400^4467570^Disc Creatures WORLD Demo
+1773014400^4474570^数独GO Demo
+1773014400^4480420^Tower Petroleum Demo
+1773014400^4480470^Twisted Tower Tactics Demo
+1773014400^4482060^最佳小狗证 Demo
+1773014400^4488870^Rush Tower Demo
+1773014400^4492960^Towerix91 Demo
+1773014400^4498550^Tower.defense(): Program The Fight Demo
