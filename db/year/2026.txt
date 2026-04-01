@@ -676,3 +676,10 @@
 1774569600^4555390^The Baron's Burden: One Fortnight Demo
 1774569600^4558790^Linerunner Demo
 1774656000^4419350^Teach a Man to Frog Demo
+1775001600^4432390^Myriad Realms Demo
+1775001600^4497860^Inga Chronicle Demo
+1775001600^4510420^Hacksaw Massacre Demo
+1775001600^4525260^Realindustry Demo
+1775001600^4545180^Bell Knight Demo
+1775001600^4551260^Intertwined Demo
+1775001600^4565930^DVD Survivors Demo
