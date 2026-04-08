@@ -700,3 +700,31 @@
 1775433600^4578360^Hostile Paths Demo
 1775433600^4581980^Swarmbound Demo
 1775433600^4584250^Treasure's Mine! Demo
+1775606400^2885310^Kicking Brass Demo
+1775606400^4289330^Tomography VR Demo
+1775606400^4294250^Supermarket Guard Simulator Demo
+1775606400^4427110^ExoFlora First Seeds Demo
+1775606400^4501780^Cat Me If You Can Demo
+1775606400^4508770^Dinosaurium Demo
+1775606400^4515510^The Pirate: Republic of Nassau Demo
+1775606400^4519300^Understander Demo
+1775606400^4521080^Kvga Demo
+1775606400^4523950^Find Bunny : A Little Hidden Journey Demo
+1775606400^4529200^Ducks in Disguise Demo
+1775606400^4531880^Front Page Demo
+1775606400^4537810^Demonherd Dungeon Demo
+1775606400^4563160^Stack Match Demo
+1775606400^4563510^Nexus of the Dead God: The Microcosm Demo
+1775606400^4565330^CitySpotter Demo
+1775606400^4573350^Chain Jumpers Demo
+1775606400^4577680^Project Crypto Demo
+1775606400^4578010^FragMiner Demo
+1775606400^4578300^Rogue Planet Demo
+1775606400^4579000^Pixel Forge Demo
+1775606400^4580680^Hamdy: a Roguelike Farm Mayhem Demo
+1775606400^4589870^TAMURO CARDS Demo
+1775606400^4592070^Evergarden Demo
+1775606400^4592310^Wizard Fight! Demo
+1775606400^4593560^Dumi's Adventure: Across Europe Demo
+1775606400^4594250^Stack Chaos: Alien Express Demo
+1775606400^4595010^Omen of the Godless Demo
