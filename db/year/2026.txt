@@ -1044,6 +1044,7 @@
 1776297600^4621150^Paws VS Paws Demo
 1776297600^4622030^Strange Zoo Demo
 1776297600^4623790^Hackflesh Demo
+1776384000^4200840^Tome Demo
 1776384000^4378050^Hunt for the Lost Folktales Demo
 1776384000^4393060^Lost Entry Demo
 1776384000^4439350^Rogue Slime: PC Edition Demo
@@ -1054,13 +1055,45 @@
 1776384000^4516700^Worlds Explorers Demo
 1776384000^4531470^It Breathes Demo
 1776384000^4534800^Leafy Corner Demo
+1776384000^4551430^SHOTRUN Demo
 1776384000^4566680^Jiaobei: Ask the Divine Demo
+1776384000^4570160^Ghostwriter's Pact Demo
+1776384000^4574440^Neural Maze Demo
 1776384000^4580580^TurtleSkate Demo
 1776384000^4580880^Potion & Fortune Demo
+1776384000^4589540^Origins Of Teco Demo
+1776384000^4590330^Slimies Demo
 1776384000^4594170^Masked Mayhem Demo
+1776384000^4595470^Fiefs & Trade Demo
+1776384000^4598720^The Syndicate: Classified Operations Demo
 1776384000^4605740^Infectionous Demo
 1776384000^4609740^Grow Wild Demo
 1776384000^4613560^Barfender Single-Player Demo
 1776384000^4616130^Pixel Waifu: Escape from the dark corporation. The telepathic power of a lovestruck otaku Demo
+1776384000^4616850^Insolent Demo
 1776384000^4619740^Scrap Battalion Demo
 1776384000^4623670^Lavatro Demo
+1776384000^4624250^Poly Kingdom: Siege Demo
+1776384000^4629460^Aurenv - Audio Reactive 3D Environments Demo
+1776384000^4634630^Tower's Gambit Demo
+1776384000^4634670^Game Dev Simulator Demo
+1776470400^4231170^Taste of Blood: RTS Demo
+1776470400^4331760^Drawquarium Demo
+1776470400^4478340^もかラブReLive♪ 体験版
+1776470400^4478440^【Live2D & フルボイス】幼馴染のヒモ姉とのゆったり性活 体験版
+1776470400^4507010^WrathOfSweetHeart Demo
+1776470400^4532170^Unseasonable Flowering Demo
+1776470400^4538440^Wonder Air: Lunara's Adventure Demo
+1776470400^4542370^The Fifteenth: A Pluvial Prelude Demo
+1776470400^4580470^Regret To Inform Demo
+1776470400^4593370^オクリ -OKURI- Demo
+1776470400^4604110^This Is Golf Demo
+1776470400^4617990^Chop Sous-Y-Chef Demo
+1776470400^4618580^Czar Ry Demo
+1776470400^4618720^Desolation Arcanist Demo
+1776470400^4619090^Clutch Legend: FPS Career Simulator DEMO
+1776470400^4628930^Project V Demo
+1776470400^4630220^Chest Buster Demo
+1776470400^4634200^表情接接乐 Demo
+1776470400^4634600^Iron Inc. Demo
+1776470400^4634790^MEGAPAIN Demo
