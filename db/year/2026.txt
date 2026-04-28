@@ -1422,15 +1422,84 @@
 1777075200^4657500^L.U.N.A : Ghost in the Machine Demo
 1777075200^4658400^Pipfiend: The Demonic Domino Deckbuilder Demo
 1777075200^4659700^Blood Dice Demo
+1777161600^3504640^Remnant Blade: The Scarlet Edge Demo
+1777161600^4363050^Erehwon Demo
 1777161600^4423990^Sticker Detective Demo: The Cat Case
+1777161600^4433660^Gridpaper Demo
 1777161600^4512380^Lacustris - The War over Water Demo
+1777161600^4512940^Tied to the Beat Demo
 1777161600^4523690^Smile And Play Demo
 1777161600^4566090^飞花剑 Demo
+1777161600^4607080^Carnival Happy Day Demo
 1777161600^4610400^Public Fears - George's Farm Demo
 1777161600^4615800^ノベルゲームクリエーション -壱式- Demo
+1777161600^4619690^Muse Corner Demo
 1777161600^4619830^Demonbyte 2 Demo
 1777161600^4639790^DottyBead闪闪拼豆 Demo
+1777161600^4642800^Birds Eat Bugs Demo
 1777161600^4648310^AfterMove Demo
 1777161600^4653020^Love in 8 bits Demo
 1777161600^4656020^Painting PC Demo
 1777161600^4658440^Chess Master Quest - Idle Demo
+1777248000^2287200^Wilgold's Playground Demo
+1777248000^3869890^ショートショートフィクションズ Demo
+1777248000^4088030^Gnart's Escape Demo
+1777248000^4137980^My Helpers Demo
+1777248000^4183600^Peace Dice Demo
+1777248000^4231640^Claws of Soria: Escape the Succubus Night Demo
+1777248000^4390140^PhotoLoop Demo
+1777248000^4465470^Recess Hall Pass (Demo)
+1777248000^4476650^Critical Descent Demo
+1777248000^4487980^猫咪の世界 Demo
+1777248000^4504800^High Rollers: Dice Drop Duel Demo
+1777248000^4559990^My Fire Is Bigger Than Yours Demo
+1777248000^4564890^MyDear.exe Demo
+1777248000^4566990^Night Fantasy Demo
+1777248000^4572670^Mermaids are Seafood Demo
+1777248000^4576260^Half Left Demo
+1777248000^4586690^Railway Routes Demo
+1777248000^4591080^Expedition RAVN-3 Demo
+1777248000^4591980^Dead Wrong Detective　Demo
+1777248000^4599910^Erotic Clicker Demo
+1777248000^4601410^Declutterer Demo
+1777248000^4605310^Just Chessing Around Demo
+1777248000^4616700^Vecchio Furioso Demo
+1777248000^4618220^HELL YEAH: GUNSLINGER Demo
+1777248000^4620170^吸吸弹弹大乱斗 Demo
+1777248000^4626040^Box Grinder Demo
+1777248000^4626450^Chesscent Demo
+1777248000^4636820^Lullabies Made of Static Demo
+1777248000^4642390^Renegade Run Demo
+1777248000^4644590^Zumbi Olé Demo
+1777248000^4646330^Batomon Showdown Demo
+1777248000^4646370^Broken Crown Demo
+1777248000^4646730^InTheLake
+1777248000^4651790^Vquarium Demo
+1777248000^4652600^StillAsleep Demo
+1777248000^4653020^Love in 8 bits Demo
+1777248000^4658730^Sky Runway Demo
+1777248000^4659310^Beyond the Soil: Farming & Tales Demo
+1777248000^4662050^Regulars Demo
+1777248000^4667220^Runner Overdrive Demo
+1777248000^4670030^Apiary in Flow Demo
+1777334400^3770940^Nested Demo
+1777334400^3804350^Thumps & Blows Demo
+1777334400^4285820^Shake Demo
+1777334400^4520790^疯狂玩具屋 Demo
+1777334400^4533090^Algorithm Prescription Demo
+1777334400^4550910^The Road of Dust and Sorrow Demo
+1777334400^4559440^Phantacall Realm
+1777334400^4587120^Curse Of The Bayou Demo
+1777334400^4598480^The Last Camp : Dawn Demo
+1777334400^4607800^フルーティモ！ジューシーナイトライド Demo
+1777334400^4610790^Stamp Collector Demo
+1777334400^4621350^DONG WU: ODYSSEY Demo
+1777334400^4630950^Legion Breaker Demo
+1777334400^4652120^Greedy Spin: Reel Roguelike Demo
+1777334400^4654550^Terracota Demo
+1777334400^4655330^Hello World Demo
+1777334400^4657170^极线赛车 Demo
+1777334400^4657820^Cover My Buns Demo
+1777334400^4662450^Simon and Friends Demo
+1777334400^4664580^Cryoborn : convergence Demo
+1777334400^4670100^Formula: RPG Demo
