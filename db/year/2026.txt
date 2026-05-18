@@ -2233,6 +2233,7 @@
 1778716800^4673620^Textvas Demo
 1778716800^4688780^BIZ Helmsman Demo
 1778716800^4693660^Strings of Fate XI: Magic dream Demo
+1778716800^4696070^Lapistasia Demo
 1778716800^4698260^Hotel Paraíso Demo
 1778716800^4699740^光陨之地 Demo
 1778716800^4700770^Whose Story (아무개전) Demo
@@ -2267,9 +2268,11 @@
 1778803200^4304000^KharkivVision 2035 Demo
 1778803200^4320830^The Curse 404 Demo
 1778803200^4338000^Saraab: Beyond The Veil Demo
+1778803200^4344510^Memories Loaming, November
 1778803200^4344510^Memories Loaming: November
 1778803200^4362720^Shroomveil Demo
 1778803200^4369630^Winemaker Simulator Demo
+1778803200^4442200^Lost Diver Demo
 1778803200^4446350^Pieces of the Kingdom Demo
 1778803200^4456590^Raiders Rise Demo
 1778803200^4458620^Dread Eagle - Prologue
@@ -2291,6 +2294,7 @@
 1778803200^4629250^Lost Totem Trajipon: Homecoming
 1778803200^4635360^RV Trapped Inside? Demo
 1778803200^4651380^Gold ’n Goals Demo
+1778803200^4654660^键盘侠：键入即毁灭 Demo
 1778803200^4655280^Forbidden Scrolls : Midnight Whispers Demo
 1778803200^4655560^The Cradle of Life Demo
 1778803200^4657400^Nova Fleet Demo
@@ -2304,6 +2308,7 @@
 1778803200^4688250^SHULERO – Dice Roguelike Demo
 1778803200^4688670^Cup and Counter: Coffee Shop Simulator Demo
 1778803200^4692210^The Pale Mimic Demo
+1778803200^4692800^Shear Heaven Demo
 1778803200^4696350^Pack my Order Demo
 1778803200^4696500^Poolrooms Museum Demo
 1778803200^4697340^MayDay MayDie Demo
@@ -2322,6 +2327,7 @@
 1778803200^4705030^Dohyo Dreams: Rise to Yokozuna Demo
 1778803200^4707530^Seafarer Demo
 1778803200^4712890^Blood Park Demo
+1778803200^4713460^Manaclysm Demo
 1778803200^4714760^Apotheosis Engine [Demo]
 1778803200^4715420^ROOTKIT://死 (ROOTKIT PROTOCOL DEATH) Demo
 1778803200^4715940^CUBOUNCE Demo
@@ -2332,4 +2338,74 @@
 1778803200^4720560^Appalachian Onslaught Demo
 1778803200^4724670^Indomitus: Path of Ordeals Demo
 1778803200^4726900^CrazyDish Demo
+1778803200^4730730^Capybara: The Great Journey Demo
 1778803200^4730930^Yin Yang Fun Demo
+1778889600^4051220^Evil Pongon Game Demo
+1778889600^4514280^Welcome, [Employee Name] Demo
+1778889600^4566150^Imperial Wager: The Shattered Crown of Augustus Demo
+1778889600^4595810^Defenders of Ten Roads Crossing Tower Demo
+1778889600^4603810^Zenith Expanse Demo
+1778889600^4610560^The Reflection Demo
+1778889600^4615420^Everburning Dark Demo
+1778889600^4641480^CATS BLOCKS: HOT SPRINGS Demo
+1778889600^4642680^Hex Judge Demo
+1778889600^4644130^Sovereign's End Demo
+1778889600^4644780^Home Defense Zombie War Demo
+1778889600^4669500^The Eternal Woods Demo
+1778889600^4670150^Sterile Childhood: Case 17
+1778889600^4677460^Stealth Operative Syn: Virtual Training Demo
+1778889600^4682230^Aurora Protocol Demo
+1778889600^4692450^Let Go Of That Girl Let Me Handle It Demo
+1778889600^4697580^My Shut-In Demon! Demo
+1778889600^4710450^Overdue Demo
+1778889600^4717470^Enigma Heart Demo
+1778889600^4718310^Cloudsea Frontier Demo
+1778889600^4718870^Sky Recoil Demo
+1778889600^4719400^MEOWMI: City Cat Chaos Demo
+1778889600^4726890^DaDaWars Demo
+1778889600^4727710^Critternauts Demo
+1778889600^4732910^Fluff Up Demo
+1778889600^4733260^Chess Nuke Demo
+1778889600^4738440^DRAWCERY Demo
+1778976000^3965440^MONSTOPIA Demo
+1778976000^4034710^Minesweeper Sonar Demo
+1778976000^4267580^Die Deep Demo
+1778976000^4527110^Dirty Business: Free of Charge
+1778976000^4576290^Firearms and Fantasy Demo
+1778976000^4593280^Silly Suspects Demo
+1778976000^4617760^Agraria Demo
+1778976000^4618450^FloraHive Demo
+1778976000^4665420^Crownseeker Demo
+1778976000^4666710^Battle Boss Demo
+1778976000^4698750^Squavity Demo
+1778976000^4702640^Just Prices Demo
+1778976000^4706840^Cleaning The Ocean Demo
+1778976000^4709670^Your Own Cozy Motel Demo
+1778976000^4711330^BattleTabs Demo
+1778976000^4716480^Consorts of the Emperor Demo
+1778976000^4724370^命运之轮（序章）/Journey of Destiny(dependent origination) Demo
+1778976000^4725280^One Degree Off Demo
+1778976000^4725490^Soulwoven Princess Demo
+1778976000^4725750^Corporate 0 Demo
+1778976000^4729210^Palm Farm: Idle Crops Demo
+1778976000^4732130^Spright Demo
+1778976000^4737010^Still Open: Taskbar Cafe Idle Demo
+1778976000^4739700^Alchemist Chronicles Demo
+1779062400^4303810^Sloop Demo
+1779062400^4464440^Don't Mind the Robots Demo
+1779062400^4485560^PredaDeck Demo
+1779062400^4601570^Fish Lab Demo
+1779062400^4607360^论道聊斋 Demo
+1779062400^4616330^Second Monitor Gladiators Demo
+1779062400^4650210^The Wicked Isles Demo
+1779062400^4655450^One Last Hand Demo
+1779062400^4656230^Dread Admiral Demo
+1779062400^4656940^Idle Cult Demo
+1779062400^4657940^Lured In Demo
+1779062400^4669340^闲鱼修仙录 Demo
+1779062400^4698640^Resurface Demo
+1779062400^4711010^AirDrive Demo
+1779062400^4712970^Choppy Waves Demo
+1779062400^4714740^The Edge of Water Demo
+1779062400^4727990^Flounder Demo
+1779062400^4736410^Deep Sea Fish: Hidden World Demo
