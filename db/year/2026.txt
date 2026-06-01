@@ -3068,3 +3068,85 @@
 1780012800^4775600^Reclaim: Earth Protocol Demo
 1780012800^4777980^Unholy Employer Simulator (Demo)
 1780012800^4780850^Magic Cauldron - Forgotten Island Demo
+1780272000^3808850^水浒：八方枭雄 Demo
+1780272000^4244440^Exark Demo
+1780272000^4271650^Mothkeep Demo
+1780272000^4319310^Corner Arcade Demo
+1780272000^4353410^Prowl Demo
+1780272000^4450460^Empluna – Preview Demo
+1780272000^4462300^The Doorframe Demo
+1780272000^4482650^CS Manager Demo
+1780272000^4532510^Blood Welkin Demo
+1780272000^4565650^Kingdom Craft Demo
+1780272000^4573940^Fugaz Demo
+1780272000^4601290^Cosmic Heist Demo
+1780272000^4605960^Drako: Blood Heist Demo
+1780272000^4613920^The Ayna Demo
+1780272000^4621960^Juggling Cup Demo
+1780272000^4623700^Rift Wizard 3 Demo
+1780272000^4626330^Unknown Horizons Demo
+1780272000^4641300^Rampallians Demo
+1780272000^4646380^Ball Buster Breakout Demo
+1780272000^4646410^Fill The Void Demo
+1780272000^4651820^Pizza Dash Demo
+1780272000^4655500^Dark Watching Chapter 2 Demo
+1780272000^4656370^The Last Shot: Underworld Demo
+1780272000^4657200^Be kinder and, like, be a Rewinder, dude! Demo
+1780272000^4661160^Farming Pixels Demo
+1780272000^4665520^When Work's A Bore Demo
+1780272000^4666150^Tank Arena Demo
+1780272000^4666850^Garden Of Being Demo
+1780272000^4676300^My Goth Roommate Demo
+1780272000^4677050^Reign Down Demo
+1780272000^4677080^PigPonyPocalypse Demo
+1780272000^4677240^Astromental Incremental Demo
+1780272000^4679700^Heroic Musical Chairs Demo
+1780272000^4689720^Shmandala Demo
+1780272000^4693900^13 MASCA Demo
+1780272000^4705950^Dark Lessons Demo
+1780272000^4710230^Armory Crafter Demo
+1780272000^4713710^Ballgame Demo
+1780272000^4714040^CoinDecker ~Deck Building Pusher~ Demo
+1780272000^4714470^_archive Demo
+1780272000^4716100^Let's Cook It! Demo
+1780272000^4716570^DarkStone Restoration Demo
+1780272000^4716950^Bait Ball Party Demo
+1780272000^4725770^Foosball Manager Demo
+1780272000^4726370^SkyFab Demo
+1780272000^4728980^Fluff'n'Roll Demo
+1780272000^4730750^Frog Island Demo
+1780272000^4732480^Echoes of Aethelgard Demo
+1780272000^4732630^Triad of Victory Demo
+1780272000^4733070^LUREFOLD Demo
+1780272000^4734880^Keyboard Hero Demo
+1780272000^4735290^Space Savory Demo
+1780272000^4737400^QuickShot Demo
+1780272000^4737480^Sensory Overload Demo
+1780272000^4742600^The Towering Dungeon Demo
+1780272000^4745220^ころコロ 2 Demo
+1780272000^4746770^Far Away Kingdom Demo
+1780272000^4750430^Dino Dynasty: Evolved Demo
+1780272000^4750640^DODECIUM Demo
+1780272000^4751760^Typing Drag Racer Demo
+1780272000^4752050^PULSARI Demo
+1780272000^4754450^Peace Under His Roof Demo
+1780272000^4756080^Mini Murder Mysteries Demo
+1780272000^4757810^Unknown Rules Demo
+1780272000^4763170^Humankind in a nutshell Demo
+1780272000^4763630^PinRogue Demo
+1780272000^4763690^Beyond Yardwork Simulator Demo
+1780272000^4764120^Rotted - A Brain Rot Simulator Demo
+1780272000^4764220^Space Pew Pew Demo
+1780272000^4764820^Tidy Up Demo
+1780272000^4765220^Buerokratie Idler: Germany Demo
+1780272000^4765980^Soul Ampz Demo
+1780272000^4770890^Uraz the Journalist (Demo)
+1780272000^4772630^Bibidi Bibidi! Demo
+1780272000^4773120^Arthur’s Tale Demo
+1780272000^4774260^S.E.X. Project: Simulated Emotional Xenotech Demo
+1780272000^4778920^Lewd Massage Demo
+1780272000^4780070^Showrunners Demo
+1780272000^4782340^Rock Diver Demo
+1780272000^4782890^The bird of the North Demo
+1780272000^4787240^COLORFALL Demo
+1780272000^4791080^Mandate of Heaven : Dynasty Breakout Idle Demo
