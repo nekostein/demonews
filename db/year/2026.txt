@@ -4282,3 +4282,67 @@
 1781049600^4812290^Void Ignition Demo
 1781049600^4816130^ICU - Intensive Care Unit 8 Demo
 1781049600^4817120^Personality Imprint Demo
+1781222400^3547410^World of Eggs: Idle Adventures Demo
+1781222400^4137110^Secrets in Stone Demo
+1781222400^4523540^Arc Salvo Demo
+1781222400^4578580^Iris Grid Demo
+1781222400^4590220^The Unnatural Leap Demo
+1781222400^4617020^Dungeon Lord: Last Breath Demo
+1781222400^4739170^Fruit Golf Demo
+1781222400^4757010^MechShell Demo
+1781222400^4759390^Hellbridge Demo
+1781222400^4787560^Cubic Spree Demo
+1781222400^4788290^Reason and Rhyme Demo
+1781222400^4799600^Arcana, Gas & Waterworks Inc. Demo
+1781222400^4800580^SHADE WALKERS Demo
+1781222400^4800690^Streets of Miami VR Demo
+1781222400^4807690^Idøle Demo
+1781222400^4807760^TowerBits8 Demo
+1781222400^4809770^Dice Tech Dominion - Enter the Shadow Circuit Demo
+1781222400^4811320^I Have Known You Demo
+1781222400^4815290^Train Set Code Demo
+1781222400^4815910^Monster Adventure Studio Demo
+1781222400^4817190^Demon Touch! Demo
+1781222400^4818080^SCP: Antimemetics Division Demo
+1781222400^4821340^Magic Fairy Fun Blast Demo
+1781222400^4826500^The Murder Of Yesterday Demo
+1781222400^4827600^SLEDGE Demo
+1781222400^4828400^BLORBIT Demo
+1781222400^4828970^SYSTEM_REBOOT Demo
+1781222400^4831480^Gems are Mine, Slashes are Yours: Blood & Blessing Demo
+1781222400^4837430^Legacy of Subjugation Demo
+1781222400^4838820^Travelling Home: Ever After Demo
+1781222400^4846200^My Useless Hot MILF in the Party Demo
+1781308800^4548850^Beyond Hatred Demo
+1781308800^4626540^23:61-Demo
+1781308800^4637860^Lonely Planet Demo
+1781308800^4677640^Lootborne Demo
+1781308800^4709650^Agrocracy Demo
+1781308800^4714340^TimelineTown-タイムラインタウン Demo
+1781308800^4718390^異世界転生したおっさん、不遇スキルでもめげずに戦乱の島で傭兵に転職する。 Demo
+1781308800^4728720^The Sculptor Demo
+1781308800^4744340^Scrap Isle Demo
+1781308800^4753370^NULL DUN Demo
+1781308800^4759830^Femme Fatality Demo
+1781308800^4796530^BIBI DICE Demo
+1781308800^4800550^Medieval Tavern Simulator Demo
+1781308800^4801750^RETRIEVAL Demo
+1781308800^4804500^Neko Miko Kaibyo Shioki no Emaki Demo
+1781308800^4808090^道门修行指南 Taoist Way Demo
+1781308800^4811050^Death's Life 2 Demo
+1781308800^4811930^ThunderTop Legacy Demo
+1781308800^4813180^Tomo Cafe Demo
+1781308800^4813890^黯渊崛起 Demo
+1781308800^4814100^Van Tich Legends Demo
+1781308800^4815500^The Machinist Demo
+1781308800^4815860^ReactFuse: Stolen Minds - Tech Demo
+1781308800^4816790^Level Up, Tiny King! Demo
+1781308800^4819110^Miniature LAND -Four Seasons- Demo
+1781308800^4820750^Cielle is Not Happy Demo
+1781308800^4823170^Summer Coming (夏天来了) Demo
+1781308800^4825190^Black Border 3 Demo
+1781308800^4825350^Pinball Millionaire Demo
+1781308800^4827690^Bottanics Demo
+1781308800^4830040^The Quiet After Demo
+1781308800^4833020^Neon Dreams Demo
+1781308800^4834140^Cursor Kingdom Demo
