@@ -5310,6 +5310,8 @@
 1781654400^4856270^Blades of Four Demo
 1781654400^4857480^Potions & Passions: Therapist for Monsters Demo
 1781740800^4196050^Granblue Fantasy: Relink - Endless Ragnarok Demo
+1781740800^4393420^Kiosk 199X Demo
+1781740800^4701940^Defense Of Legends Demo
 1781740800^4710790^Cotimero Demo
 1781740800^4730140^山河纪 Demo
 1781740800^4739310^Pregnant Roommates, Send Help! Demo
@@ -5319,13 +5321,180 @@
 1781740800^4814750^Driftscape: Void Demo
 1781740800^4815090^FILENDS Demo
 1781740800^4818270^Grind 'Em All Demo
+1781740800^4818390^CASCADER Demo
 1781740800^4822810^城郊主理人从街角小店到区域价格卡特尔实现供应链托拉斯 DEMO
+1781740800^4823150^Call the Cat: Demo
 1781740800^4823760^Diamond-Die Demo
+1781740800^4829330^Anatolian Horror Stories Demo
+1781740800^4829880^电气战忍录-YOGENKYO Demo
+1781740800^4833140^Dance With Time Demo
+1781740800^4833380^SHALTER-03 Demo
+1781740800^4833920^Dreamscape Demo
 1781740800^4839270^쌀먹의 시대 Demo
+1781740800^4840550^The Pharm Sim Demo
 1781740800^4841970^Crescent Creek Survival Demo
 1781740800^4846750^World Order: Global Power Demo
+1781740800^4847160^Cornered Cadavers Demo
+1781740800^4848630^Hacklash Demo
 1781740800^4849340^Magma Karta Demo
 1781740800^4850160^EVIL Agribusiness Simulator Demo
+1781740800^4850590^Virestoma Demo
 1781740800^4851530^らしん探偵録 CASE01 : 最後のページ Demo
+1781740800^4854060^Floating Frontiers Demo
 1781740800^4855390^Star Colony Demo
 1781740800^4856880^Reclaim Demo
+1781827200^3147990^The Transylvania Adventure of Simon Quest Demo
+1781827200^3296780^HAECHE_Ism_Demo
+1781827200^3687520^Dominate the Skies Demo
+1781827200^3789200^Querent Demo
+1781827200^4560460^Rabbits Hunt Demo
+1781827200^4586660^Howl Of Heavens Demo
+1781827200^4596300^Cyberpunk Dominion Demo
+1781827200^4596760^Empire Water Works Demo
+1781827200^4675490^Zombie Survival Demo
+1781827200^4685740^For My Darling Demo
+1781827200^4692710^Monologin Demo
+1781827200^4702580^Worlda Demo
+1781827200^4719920^Survivor's Notes Demo
+1781827200^4725580^Forbidden Love Demo
+1781827200^4728550^Outscratched Demo
+1781827200^4760360^Redemption: The Sin Eternal Demo
+1781827200^4762460^斗牌苍穹 Demo
+1781827200^4764610^랩틸리언을 국회로! Demo
+1781827200^4781280^Eros Memories: The Lewd Way to Save the World Demo
+1781827200^4782060^Elebend Demo
+1781827200^4783550^Whispers of the Requiem Demo
+1781827200^4787670^S.I.F: The Missing Rescue Demo
+1781827200^4804520^BURI Demo
+1781827200^4804900^Roll to Riches Demo
+1781827200^4806930^War of the Austrian Succession Demo
+1781827200^4811310^Floyd's Cafe Demo
+1781827200^4811820^Pentabit Copy-X Demo
+1781827200^4818610^Don't Block My Ads! Demo
+1781827200^4828290^Cricket Captain 2026 Demo
+1781827200^4829090^Cover Story Demo
+1781827200^4829260^Coiled Silence Demo
+1781827200^4830050^The Crown of The Vermillion Devil Demo
+1781827200^4833510^Harlequinade Demo
+1781827200^4836430^Traders Life Together Demo
+1781827200^4836710^7 Millimeters Demo
+1781827200^4838180^Broken Soccer Demo
+1781827200^4839000^外婆的手账本 Demo
+1781827200^4845710^The End of the World Club Demo
+1781827200^4846470^Ore & Ordnance Demo
+1781827200^4848040^Cluemates Demo
+1781827200^4850010^Babo &amp;amp; Luda adventure Demo
+1781827200^4851170^Squid Chess Demo
+1781827200^4851890^Ghost Algorithm Demo
+1781827200^4853870^ShuriStellaDemo
+1781827200^4855520^Stickplosion Demo
+1781827200^4855660^Ascend From Nine Mountains Demo
+1781827200^4857780^Cobot-Man Adventure Demo
+1781827200^4858630^Chief of the Valley Demo
+1781827200^4860210^Tales of the Trade Demo
+1781827200^4860300^Backrooms: Splatter Demo
+1781827200^4862360^Swordsmith of Greyhaven Demo
+1781827200^4862870^SYSCALL: RING ZERO Demo
+1781913600^4080290^Bob's Island Demo
+1781913600^4666170^Antarctic Showdown 남극결투 Demo
+1781913600^4746880^The Last Market Demo
+1781913600^4747220^Please Do Not Call It a Trash Game Streamer: ㅎHㅍㅍY ㄴLㄴL루
+1781913600^4774930^Midnight Noodle Demo
+1781913600^4814000^Oath for Glory Demo
+1781913600^4824810^Femboy : Rescue Mission Demo
+1781913600^4850910^Final Deal Demo
+1781913600^4857680^Diamond Island Demo
+1781913600^4859150^Road Connect Demo
+1781913600^4865430^Asteroid Extractors Demo
+1781913600^4865750^Last Watchtower Demo
+1782000000^4589310^The Velvet Green Witch : A Quiet Life Demo
+1782000000^4711090^Curse of the Nether Regions Demo
+1782000000^4782040^遥かなる円形世界 Demo
+1782000000^4803640^Jamhouse Demo
+1782000000^4816670^Reunion Fate Demo
+1782000000^4824720^Yuntai Demo
+1782000000^4825490^Select Eleven Demo
+1782000000^4828480^Contagion Protocol Demo
+1782000000^4831890^Theseus' Cycle Demo
+1782000000^4852590^Good Person Demo
+1782000000^4860950^Anaa 15 Boss Challenge Demo
+1782000000^4861690^SlimeSlider Demo
+1782086400^4250150^Qumino Demo
+1782086400^4462540^High On Life 2 Demo
+1782086400^4632930^Sun Catcher Demo
+1782086400^4642580^One Billion Ducks Demo
+1782086400^4653500^Zentrya Dungeon Dive Demo
+1782086400^4692090^Unstable Nuclear Reactor Demo
+1782086400^4720420^Синеморск oil inclusive Demo
+1782086400^4796660^Blood Moon: Last Stand Demo
+1782086400^4799800^Phemx Demo
+1782086400^4802030^Babel Legacy Demo
+1782086400^4819000^Arma: Cold War Assault Remastered Demo
+1782086400^4826730^Bodian's Bay Wash Demo
+1782086400^4828820^Push It! Demo
+1782086400^4836950^Carmilla : Crimson Moon Demo
+1782086400^4843950^Jack Pottwin: House of Odds Demo
+1782086400^4844170^Dungebra Demo
+1782086400^4844780^Challenge 99 Demo
+1782086400^4849320^Wormhusk Demo
+1782086400^4849550^Silent Dread: Last Order Demo
+1782086400^4849590^Stick Infinite Kingdom Demo
+1782086400^4851010^Flagship Down Demo
+1782086400^4854290^Liminal Backrooms Demo
+1782086400^4860610^VOIDRAVE Demo
+1782086400^4862860^Oro Cade Demo
+1782086400^4863080^Parkour & Freerunning Demo
+1782086400^4865710^OxVOID - Demo
+1782086400^4866190^Spirits of Baciu Demo
+1782086400^4869720^Amnesia Bullet Demo
+1782086400^4869780^Astaryn: Chained Realms Idler Demo
+1782086400^4870070^Hakoniwa Base Ball Demo
+1782086400^4871120^Oleander-X Demo
+1782172800^4409080^Spellfall: Last Mage Standing Demo
+1782172800^4512980^BRINE Demo
+1782172800^4617390^Contrabandism Simulator Demo
+1782172800^4631600^Thicc Rogue Demo
+1782172800^4635640^Stronghold 4 Demo
+1782172800^4708700^Final Buzzer : Idle Basketball Manager 🏀 Demo
+1782172800^4732770^Legion of Judgment: Fallen Angel Demo
+1782172800^4774550^Destined Notes : The Written Fate Demo
+1782172800^4781830^Ape-tite Demo
+1782172800^4782110^Deep Space Survivor: Endless Starfield Demo
+1782172800^4784690^Nothing Can Go? Wrong! Demo
+1782172800^4795470^Foedus - Rise of the Allies Demo
+1782172800^4796190^小鸟研啾所 Demo
+1782172800^4814180^Infinite Arcana Demo
+1782172800^4815410^涂涂卡牌 Demo
+1782172800^4819710^WBS26 Demo
+1782172800^4828150^KON-PON SHMUP -Shapeshifter Showdown- Demo
+1782172800^4834040^EvoluCell Demo
+1782172800^4836010^Deskdragora Demo
+1782172800^4840600^宽恕我（Show me mercy） Demo
+1782172800^4842710^Nanma, A Tecelã das Sombras Demo
+1782172800^4845410^Chop Loop Demo
+1782172800^4853670^G.O.D. Global Orbital Defense Demo
+1782172800^4855680^Aiya Desire Demo
+1782172800^4856740^Spin Cycle Demo
+1782172800^4857110^Path Defenders Demo
+1782172800^4857670^Eden's Eclipse Demo
+1782172800^4858400^Caroline's Underworld Demo
+1782172800^4859560^Comfort Food: A Taste of Courage Demo
+1782172800^4860190^The Boo Club Demo
+1782172800^4862640^Big Breakfast 2 Demo
+1782172800^4863710^两面爱 Demo
+1782172800^4867200^Booya! Demo
+1782172800^4870710^The Songtail Society Demo
+1782172800^4871250^Night On Demo
+1782172800^4876990^Endless Defense Demo
+1782172800^4877480^Petko and the Black Island Demo
+1782259200^4583210^Spell Circle Mage Demo
+1782259200^4812340^Sparrow Country Demo
+1782259200^4817400^The Resonance Initiative Demo
+1782259200^4828750^Jigsaw Puzzle Demo
+1782259200^4848210^AV Actress's Magical Adventure Demo
+1782259200^4851500^Lost Ages Hunting Demo
+1782259200^4857970^Neostalker Demo
+1782259200^4866930^Love Potions Suck: A Text Romance Demo
+1782259200^4867570^Secret Dice Demo
+1782259200^4876640^Jammed Demo
+1782259200^4878260^EmptyEgg-Puzzle Demo
