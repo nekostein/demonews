@@ -6851,3 +6851,34 @@
 1785542400^5004540^Vonkelveld Demo
 1785542400^5012010^Blackforest Demo
 1785542400^5012850^The Box Project Demo
+1785801600^4839980^Starving Shadows Demo
+1785801600^4890300^Mining Away! Demo
+1785801600^4899310^Portal Time Traveller Demo
+1785801600^4928140^Fire Vow: Dark Fantasy Demo
+1785801600^4928490^Love in Another World Demo
+1785801600^4931600^Drone Orbit: An Incremental Space Mining Drift Demo
+1785801600^4940370^ELEMENTORS Demo
+1785801600^4948160^Sack Investigation Demo
+1785801600^4955460^Ultimate Blacksmith Tycoon　~鑑定スキル持ちの店長が、鍛冶屋経営で無双する~ Demo
+1785801600^4960360^Ruffed Up Demo
+1785801600^4965080^Mini Mart Survivors Demo
+1785801600^4965600^Typing Show Demo
+1785801600^4969940^Game Breaker: Divine Error (Demo)
+1785801600^4970090^Hexzen Demo
+1785801600^4973660^Warlords: Deckbuilding Autobattler Demo
+1785801600^4973880^500 FINGER FILLET Demo
+1785801600^4981490^Babylonian Twins Demo
+1785801600^4981650^Loop Defense: Acquisition Protocol Demo
+1785801600^4984000^XENOFALL Demo
+1785801600^4991310^Desouled Demo
+1785801600^4992880^Zone Sweeper Demo
+1785801600^5004240^3 Switch Problem Demo
+1785801600^5010970^Dungeon Lurker Demo
+1785801600^5017650^WHAT NUMBER? Demo
+1785801600^5017930^Revenggie Demo
+1785801600^5021230^Hollow Hours - Cheap House Demo
+1785801600^5021950^2 Etoiles sont nées Demo
+1785801600^5022570^Hellmet: Seven Circles Down Demo
+1785801600^5023040^Journey to Echo Demo
+1785801600^5024410^TypeSlingers Demo
+1785801600^5025880^Aurora Core Demo
