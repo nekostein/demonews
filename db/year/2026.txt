@@ -7042,28 +7042,138 @@
 1785974400^2546540^Void Incremental Demo
 1785974400^3217460^Immerse Gamepack - Demo
 1785974400^3348380^Ship Graveyard Simulator 3 - Single Player Demo
+1785974400^3938860^Jigrift Demo
 1785974400^4459280^Song of Kings Demo
+1785974400^4596950^KUNTEYNIR Demo
 1785974400^4628650^Wild n Chill Demo
 1785974400^4725480^System Grid Crusher Demo
 1785974400^4745470^Chocolate Parade / チョコレートパレード Demo
+1785974400^4810670^Beards Go Underground Demo
+1785974400^4847970^The Idle Captain Demo
+1785974400^4881890^Cat Cafe Manager 2: Big City Bliss Demo
+1785974400^4892290^A Blind Step Demo
 1785974400^4894830^Sandcastle Demo
 1785974400^4911290^Frost-Buried Truth Demo
 1785974400^4913810^The Little Crumb Demo
+1785974400^4919500^Debts &amp;amp; Jackpots Demo
 1785974400^4920200^Destroy Buildings With Missiles Demo
+1785974400^4926790^Sneak Pit Demo
 1785974400^4933840^Stream Toolkit - Streaming Tools & Chat Translation Demo
+1785974400^4940590^世末终巡 Demo
 1785974400^4945830^Marblearium Demo
+1785974400^4952070^Forgery Demo
 1785974400^4952820^That pricing man定价人 Demo
+1785974400^4954680^Eternal Levels Demo
 1785974400^4956410^海上有座极极岛 试玩版
 1785974400^4960490^Frogs Aren't Fresh Demo
 1785974400^4964440^Set the Record Straight Demo
+1785974400^4968930^Spirefall Demo
 1785974400^4983160^Sandbox Jianghu: Walk My Own Path Demo
+1785974400^4986870^Words Of Power Demo
 1785974400^4986920^Magical Girl: incremental gaiden Demo
 1785974400^4987710^Corelink Protocol Demo
+1785974400^4987910^Feed Me Harvest Demo
+1785974400^4989740^Last Ascender Demo
 1785974400^4991920^赌石之王 Demo
+1785974400^4999830^Planet Zombie Demo
 1785974400^5004630^FragMend Demo
+1785974400^5010380^Travelling Light Demo
 1785974400^5011440^Where the Veil Thins Demo
+1785974400^5011510^Sunlit Kingdom Demo
 1785974400^5014230^Budget Defense Demo
+1785974400^5016840^DICEBONE Demo
+1785974400^5017420^Beekeeper Simulator Demo
 1785974400^5018060^Medieval Fantasy Blacksmith Shop Demo
+1785974400^5022420^Chakab Demo
 1785974400^5022830^Flight Date Demo
+1785974400^5027130^Naughty Nurse Demo
+1785974400^5027530^Alice ou o Mundo? Demo
+1785974400^5027730^What Was That?! Demo
+1785974400^5033310^Sprawl Life Demo
 1785974400^5036070^Warrior Spirits Demo
+1785974400^5038150^Core Logistics Demo
 1785974400^5041080^Expedition: Into Darkness Demo
+1786060800^4039920^碧海六重奏 Demo
+1786060800^4357360^A Stray Line Demo
+1786060800^4646340^VEINFORGE Demo
+1786060800^4674930^Backpack Syndicate Demo
+1786060800^4707020^種も仕掛けも思い出も【体験版】
+1786060800^4780810^Shotgun Jumper Nano™ Demo
+1786060800^4881470^HueTrix Demo
+1786060800^4892380^PeopleBOX Demo
+1786060800^4895200^Hunters Trial : One Breath Demo
+1786060800^4919840^bansoko: Class Crossing Demo
+1786060800^4921310^MOTA Demo
+1786060800^4941880^Something Strange Tonight - The Lurker Demo
+1786060800^4945940^PAPER.VOID Demo
+1786060800^4950610^Killdozer Demo
+1786060800^4955740^EVA Awakening Demo
+1786060800^4956370^The Rift Machine Demo
+1786060800^4956840^AquaDesk Demo
+1786060800^4964870^True Nightmare - Diner Loop Demo
+1786060800^4972830^Code: Infinity Demo
+1786060800^4983640^雨の日に見た想月 Demo
+1786060800^4983690^Homicide Desk Demo
+1786060800^4990430^Forestless Demo
+1786060800^4990810^1930: Farm Manager Demo
+1786060800^4991440^BE QUICK! The Rise of Fraya - Demo
+1786060800^4995810^FlintWilde Demo
+1786060800^4996650^Rolling Free Demo
+1786060800^4997540^Blokkit Demo
+1786060800^4998050^KILLPHRASE Demo
+1786060800^4999550^Shapes: The Tower Defense Game
+1786060800^5000580^Escape the Exomoon Demo
+1786060800^5005710^Kingdom of Hope - Demo
+1786060800^5006490^AIAI Demo
+1786060800^5009770^Free Ball Demo
+1786060800^5010830^Questmonger Demo
+1786060800^5011350^Pets Therapy - Desktop Pets Demo
+1786060800^5014430^Sunday League Manager: Horse and Spoon Demo
+1786060800^5017030^Patina: Corroded Lineage Demo
+1786060800^5017110^Feypath Demo
+1786060800^5017400^We Are Gum Demo
+1786060800^5017410^MASSFALL Demo
+1786060800^5017450^Midnight Manhunt Demo
+1786060800^5022770^Tatomic Demo
+1786060800^5031300^Ash and Velvet Demo
+1786060800^5031510^Evergreen Clicker Demo
+1786060800^5034700^Bros of Bench Demo
+1786060800^5035810^Castores vs Topos Demo
+1786060800^5036040^Dreadful Defenders Demo
+1786060800^5036630^Dual Cultivation Trainer Demo
+1786060800^5037450^Elf Girls Dig Bards Demo
+1786060800^5038820^My Yandere Streamer Demo
+1786060800^5039110^A Knight's Fury - The Vaults of Venom Demo
+1786060800^5042480^Blue Guy Must Die Demo
+1786060800^5043020^Beyond The Mist: Beginnings Demo
+1786060800^5043420^8bit Salvage Demo
+1786147200^4755310^The Clownhouse Demo
+1786147200^4785700^League Of Transmigrators Demo
+1786147200^4894090^Lil Guy Resort Demo
+1786147200^4919600^VOXSHIFT Demo
+1786147200^4922190^Chalk & Blood Demo
+1786147200^4928660^Carrier Wing Ypsilon Demo
+1786147200^4940070^Don't Lose Your Head Demo
+1786147200^4958500^A Day to Die Demo
+1786147200^4959360^Crimson Animatronic Demo
+1786147200^4963230^Toey Weedz Smoke Dead Mirror Demo
+1786147200^4965370^Great Northern War Demo
+1786147200^4966120^Bottle Flip Inc Demo
+1786147200^4968080^Same End Demo
+1786147200^4980150^Pixel Motion Studio Demo
+1786147200^5001960^Last One Employed Demo
+1786147200^5002590^Squirterzz Demo
+1786147200^5005380^Ghost in the Cloud Demo
+1786147200^5007900^SEVEIL Demo
+1786147200^5011740^Selubra Demo
+1786147200^5016780^Planet Inc Demo
+1786147200^5017690^Pest Protocol Demo
+1786147200^5020680^Late Night Manifest Demo
+1786147200^5035530^RPG Incremental Idle Demo
+1786147200^5036950^Poordle Demo
+1786147200^5040140^LSDos Demo
+1786147200^5041610^Frisky Phone: College Casual Demo
+1786147200^5042720^jumpcutGG Demo
+1786147200^5044070^[Hell is Empty] Demo
+1786147200^5044870^Inside You Demo
+1786147200^5049310^Nav Singh's Stranded Demo
