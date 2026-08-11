@@ -7043,22 +7043,30 @@
 1785974400^3217460^Immerse Gamepack - Demo
 1785974400^3348380^Ship Graveyard Simulator 3 - Single Player Demo
 1785974400^3938860^Jigrift Demo
+1785974400^4378620^Echo Zero Demo
 1785974400^4459280^Song of Kings Demo
 1785974400^4596950^KUNTEYNIR Demo
 1785974400^4628650^Wild n Chill Demo
+1785974400^4657220^A Tiny Wander Demo
+1785974400^4659630^Tony The Mole Demo
 1785974400^4725480^System Grid Crusher Demo
 1785974400^4745470^Chocolate Parade / チョコレートパレード Demo
 1785974400^4810670^Beards Go Underground Demo
+1785974400^4830850^Dragon's Chronicles~双星のレギンレイヴ~ Demo
 1785974400^4847970^The Idle Captain Demo
 1785974400^4881890^Cat Cafe Manager 2: Big City Bliss Demo
 1785974400^4892290^A Blind Step Demo
 1785974400^4894830^Sandcastle Demo
 1785974400^4911290^Frost-Buried Truth Demo
 1785974400^4913810^The Little Crumb Demo
+1785974400^4919500^Debts & Jackpots Demo
 1785974400^4919500^Debts &amp;amp; Jackpots Demo
+1785974400^4919590^Little Sheep Valley Demo
+1785974400^4920000^Beastfolk Barber Demo
 1785974400^4920200^Destroy Buildings With Missiles Demo
 1785974400^4926790^Sneak Pit Demo
 1785974400^4933840^Stream Toolkit - Streaming Tools & Chat Translation Demo
+1785974400^4933970^Heretic's Rapture - DEMO
 1785974400^4940590^世末终巡 Demo
 1785974400^4945830^Marblearium Demo
 1785974400^4952070^Forgery Demo
@@ -7068,6 +7076,7 @@
 1785974400^4960490^Frogs Aren't Fresh Demo
 1785974400^4964440^Set the Record Straight Demo
 1785974400^4968930^Spirefall Demo
+1785974400^4977120^Locomochi Demo
 1785974400^4983160^Sandbox Jianghu: Walk My Own Path Demo
 1785974400^4986870^Words Of Power Demo
 1785974400^4986920^Magical Girl: incremental gaiden Demo
@@ -7076,6 +7085,9 @@
 1785974400^4989740^Last Ascender Demo
 1785974400^4991920^赌石之王 Demo
 1785974400^4999830^Planet Zombie Demo
+1785974400^5002670^Rubber Bird Demo
+1785974400^5003510^INURE Demo
+1785974400^5004520^Ice Pond: An Ice Fishing Adventure Demo
 1785974400^5004630^FragMend Demo
 1785974400^5010380^Travelling Light Demo
 1785974400^5011440^Where the Veil Thins Demo
@@ -7086,6 +7098,7 @@
 1785974400^5018060^Medieval Fantasy Blacksmith Shop Demo
 1785974400^5022420^Chakab Demo
 1785974400^5022830^Flight Date Demo
+1785974400^5022860^Rainbow Billy: The Book of Fears Prologue
 1785974400^5027130^Naughty Nurse Demo
 1785974400^5027530^Alice ou o Mundo? Demo
 1785974400^5027730^What Was That?! Demo
@@ -7118,6 +7131,7 @@
 1786060800^4990810^1930: Farm Manager Demo
 1786060800^4991440^BE QUICK! The Rise of Fraya - Demo
 1786060800^4995810^FlintWilde Demo
+1786060800^4996010^BIG PARTY Demo
 1786060800^4996650^Rolling Free Demo
 1786060800^4997540^Blokkit Demo
 1786060800^4998050^KILLPHRASE Demo
@@ -7147,8 +7161,10 @@
 1786060800^5042480^Blue Guy Must Die Demo
 1786060800^5043020^Beyond The Mist: Beginnings Demo
 1786060800^5043420^8bit Salvage Demo
+1786147200^4096230^Dominion of Dracula Demo
 1786147200^4755310^The Clownhouse Demo
 1786147200^4785700^League Of Transmigrators Demo
+1786147200^4843660^Another Map Simulator Demo
 1786147200^4894090^Lil Guy Resort Demo
 1786147200^4919600^VOXSHIFT Demo
 1786147200^4922190^Chalk & Blood Demo
@@ -7166,8 +7182,11 @@
 1786147200^5005380^Ghost in the Cloud Demo
 1786147200^5007900^SEVEIL Demo
 1786147200^5011740^Selubra Demo
+1786147200^5014430^Sunday League Manager: Horse and Spoon Demo
 1786147200^5016780^Planet Inc Demo
+1786147200^5016870^Summon Defenders Now! Demo
 1786147200^5017690^Pest Protocol Demo
+1786147200^5020080^Project ACCIPITER Demo
 1786147200^5020680^Late Night Manifest Demo
 1786147200^5035530^RPG Incremental Idle Demo
 1786147200^5036950^Poordle Demo
@@ -7177,3 +7196,35 @@
 1786147200^5044070^[Hell is Empty] Demo
 1786147200^5044870^Inside You Demo
 1786147200^5049310^Nav Singh's Stranded Demo
+1786233600^4351180^三国志-乱世如梦 Demo
+1786233600^4870650^Chore Pet Demo
+1786233600^4904300^The Other Side of the Wall Demo
+1786233600^4921860^KEYKRUNCHER™ Demo
+1786233600^4934570^Tailgunner: The Allgunner Demo
+1786233600^4947300^Tomb Zombies Demo
+1786233600^4951090^Bangquet Demo
+1786233600^4966010^Flippin' Heck Demo
+1786233600^4977410^Idle Pocket Crafter 2 Demo
+1786233600^4983910^Ouro Demo
+1786233600^4990010^My Femdom Wife Demo
+1786233600^5026220^Above the Haze Demo
+1786233600^5039060^Paperlings Demo
+1786320000^4146210^Meowmories Demo
+1786320000^4519720^The Universe of Death Demo
+1786320000^4665360^IIIIIIlI Demo
+1786320000^4677900^Crypts Of Carith - Chapel Cellar Demo
+1786320000^4764870^Travelling at Night Demo
+1786320000^4833760^Pinball Realm Demo
+1786320000^4901630^Lucy's Nightmare Demo
+1786320000^4924530^Manala Demo
+1786320000^4944590^Mission: Clear Space Demo
+1786320000^4955290^妖刀ピクセル：百鬼潜行 Demo
+1786320000^4957140^We Don't Exist Demo
+1786320000^4958730^Bagchinko Demo
+1786320000^4975460^Idle Demon Lord Demo
+1786320000^4991260^Orbisphere Demo
+1786320000^4999460^Beneath the Permafrost Demo
+1786320000^5004010^Tactorius Demo
+1786320000^5021650^Wizard Tower Pinball Demo
+1786320000^5028020^Void Eaters Demo
+1786320000^5044890^Unburied Demo
